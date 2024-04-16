@@ -1,8 +1,20 @@
-내가 관심있는 개발 직군의 언어 및 기술스택의 랭킹, github의 repo와 stackoverflow의 질문의 종류, 기술블로그의 동향을 시각화해서 표현
+내가 관심있는 개발 직군의 언어 및 기술스택의 랭킹, github의 repo와 StackOverFlow의 질문의 종류, 기술블로그의 동향을 시각화해서 표현
 
-# Crewling
+프로그래머스 [﻿https://career.programmers.co.kr/job?page=1&order=recent&job_category_ids={}](https://career.programmers.co.kr/job?page=1&order=recent&job_category_ids={})
 
-프로그래머스
+직무로 필터링된 페이지의 포지션들의 각각의 링크에 들어간 뒤 기술스택들을 모두 가져와 저장합니다.
+
+github [﻿github.com/topics/python?o=desc&s=stars](https://github.com/topics/python?o=desc&s=stars) 
+
+github의 topics의 repository의 제목들을 크롤링 한 뒤 각각의 URL로 들어가고 Fork의 수와 Star 수, Watch수를 가져와 저장합니다.
+
+StackOverFlow [﻿https://stackoverflow.com/questions/tagged/python?sort=RecentActivity&edited=true](https://stackoverflow.com/questions/tagged/python?sort=RecentActivity&edited=true)
+
+StackOverFlow의 {기술}의 질문들을 가져온다음 질문의 title을 저장해 줍니다.
+
+대기업 기술블로그
+
+어느 부분부터 어디까지 할지 모르겠습니다..?
 
 ---
 
@@ -19,9 +31,9 @@
 
 [﻿github.com/topics/{}?o=desc&s={}.](https://github.com/topics/python?o=desc&s=forks)fomat(language).fomat(sort) 
 
-~~크롤링할 내용~~
+크롤링할 내용
 
-~~> star, folk 수 / 리포지토리 이름~~
+> star, folk 수 / 리포지토리 이름
 
 ---
 
