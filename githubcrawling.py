@@ -27,24 +27,29 @@ repo_info = []
 for repository in repositorys:
     repo_info.append(repository.text.replace('\n', '').replace(' ', ''))
 
+# 제목, watch, forks, stars수를 저장할 리스트를 만들어줍니다.
 git_data = []
 
+
+# 각 repo별 url 요청
 for repo_list in repo_info:
     res_repo = requests.get("https://github.com/" + repo_list , user_agent)
     soup_repo = BeautifulSoup(res_repo.text, "html.parser")
     
     # repo_watch는 안긁어와지는데 해결가능할까요
+    # watch, forks, stars수 수집
     repo_watch = soup_repo.find("span", id= "repo-notifications-counter")
     repo_fork = soup_repo.find("span", id="repo-network-counter")
     repo_stars = soup_repo.find("span", id="repo-stars-counter-star")
 
-    elem = {
+    # 최종 데이터 dictionary 및 데이터 리스트에 추가
+    git_elem = {
         "name" : extract_name(repo_list),
         "watch" : repo_watch,
         "fork" : repo_fork['title'],
         "stars" : repo_stars['title']
     }
-    git_data.append(elem)
+    git_data.append(git_elem)
     
     
 '''
