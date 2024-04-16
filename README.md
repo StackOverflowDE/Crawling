@@ -7,14 +7,16 @@
 github [﻿github.com/topics/python?o=desc&s=stars](https://github.com/topics/python?o=desc&s=stars) 
 
 github의 topics의 repository의 제목들을 크롤링 한 뒤 각각의 URL로 들어가고 Fork의 수와 Star 수, Watch수를 가져와 저장합니다.
+repository의 최근 commit의 시간과 repository의 작성자의 아이콘을 추가로 가져오는 작업을 수행하였습니다.
 
 StackOverFlow [﻿https://stackoverflow.com/questions/tagged/python?sort=RecentActivity&edited=true](https://stackoverflow.com/questions/tagged/python?sort=RecentActivity&edited=true)
 
 StackOverFlow의 {기술}의 질문들을 가져온다음 질문의 title을 저장해 줍니다.
+추가적으로 질문들의 날짜와 작성자의 id, 아이콘을 저장해줍니다.
 
-대기업 기술블로그
+~~대기업 기술블로그~~
 
-어느 부분부터 어디까지 할지 모르겠습니다..?
+~~어느 부분부터 어디까지 할지 모르겠습니다..?~~
 
 ---
 
