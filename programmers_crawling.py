@@ -19,7 +19,8 @@ def get_job_data(job_url):
         soup = BeautifulSoup(driver.page_source, "html.parser")
 
     # 직무 이름 추출
-        job_title = soup.find("div", class_="KWImVsDeFt2E93NXqAqt").text.strip()
+    # 코드에 .find를 하나 더 추가해서 아예<h2>태그 안에 있는 text만 가져오는 방식으로 해결했습니다.
+        job_title = soup.find("div", class_="KWImVsDeFt2E93NXqAqt").find("h2").text.strip()
         
     # 기술 스택 추출
         tech_stack_elements = soup.find_all("li", class_="QdgvMJO9ZYOaiwrEUqgo nUBs27jXBxRVUu9DLzz4")
