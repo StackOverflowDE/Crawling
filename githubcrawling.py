@@ -1,5 +1,6 @@
 user_agent = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
 
+import re
 import requests
 from bs4 import BeautifulSoup
 
@@ -8,6 +9,14 @@ language와 sort_tag를 정보에 맞게 넣어주세요 language = 개발언어
 language = 
 sort_tag = 
 '''
+
+# repo_info의 값에서 사용자는 제외하고 뒤의 제목만 가져오기 위해 re라이브러리를 사용했습니다.
+def extract_name(repository):
+    match = re.match(r'.+?/([^/]+)$', repository)
+    if match:
+        return match.group(1)
+    return None
+
 
 res = requests.get("https://github.com/topics/{}}?o=desc&s={}".format(language, sort_tag), user_agent)
 soup = BeautifulSoup(res.text, "html.parser")
@@ -30,9 +39,10 @@ for repo_list in repo_info:
     repo_stars = soup_repo.find("span", id="repo-stars-counter-star")
 
     elem = {
+        "name" : extract_name(repo_list),
         "watch" : repo_watch,
-        "fork" : repo_fork,
-        "stars" : repo_stars
+        "fork" : repo_fork['title'],
+        "stars" : repo_stars['title']
     }
     git_data.append(elem)
     
