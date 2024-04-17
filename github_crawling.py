@@ -86,7 +86,10 @@ for repo_list in repo_git_list[:-1]:
         repo_watch = driver.find_element(By.ID, 'repo-notifications-counter')
         repo_fork = driver.find_element(By.ID, 'repo-network-counter')
         repo_stars = driver.find_element(By.ID, 'repo-stars-counter-star')
-        repo_commit = driver.find_element(By.XPATH, '/html/body/div[1]/div[6]/div/main/turbo-frame/div/div/div/div[2]/div[1]/react-partial/div/div/div[3]/div[1]/table/tbody/tr[1]/td/div/div[3]/a/span/span[2]/span')
+        repo_commit_before = driver.find_element(By.XPATH, '/html/body/div[1]/div[6]/div/main/turbo-frame/div/div/div/div[2]/div[1]/react-partial/div/div/div[3]/div[1]/table/tbody/tr[1]/td/div/div[3]/a/span/span[2]/span')
+        
+        repo_commit = repo_commit_before.text
+        repo_commit_slice = re.split(r'\s', repo_commit)[0]
         
         # 요소를 찾기 위해 find_elements를 사용하여 리스트 형태로 반환합니다.
         recent_t = driver.find_elements(By.TAG_NAME, 'relative-time')
@@ -112,7 +115,7 @@ for repo_list in repo_git_list[:-1]:
             "fork" : repo_fork.get_attribute('title'),
             "stars" : repo_stars.get_attribute('title'),
             "recent_time" : repo_recent,
-            "number_of_commit" : repo_commit.get_attribute('title'),
+            "number_of_commit" : repo_commit_slice,
         }
         git_data.append(git_elem)
 

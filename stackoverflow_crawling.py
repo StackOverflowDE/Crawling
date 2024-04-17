@@ -53,11 +53,11 @@ with webdriver.Chrome(service=Service(ChromeDriverManager().install())) as drive
         with open(img_path, "wb") as img_file:
             img_file.write(requests.get(img_src).content)
         
-        # 요소의 title 속성값 가져와 git_data에 저장
+        # 요소의 title 속성값 가져와 sof_data에 저장
         sof_elem = {
             "title" : question_title.text,
             "time" : question_time.text,
-            "stars" : question_writer.text,
+            "writer" : question_writer.text,
         }
         sof_data.append(sof_elem)
         i+=1
@@ -67,7 +67,7 @@ csv_file_path = os.path.join("assets", "data", "sof_info.csv")
 
 # CSV 파일로 저장
 with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
-    writer = csv.DictWriter(csv_file, fieldnames=["title", "time", "stars"])
+    writer = csv.DictWriter(csv_file, fieldnames=["title", "time", "writer"])
     writer.writeheader()
     for elem in sof_data:
         writer.writerow(elem)
