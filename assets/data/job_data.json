@@ -1,0 +1,648 @@
+[
+    {
+        "job_title": "",
+        "tech_stack": []
+    },
+    {
+        "job_title": "주니어 Software Engineer (Product)",
+        "tech_stack": [
+            "Rust",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "job_title": "Software Engineer (Product)",
+        "tech_stack": [
+            "Rust",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "job_title": "시니어 Software Engineer (Frontend)",
+        "tech_stack": [
+            "Rust",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "job_title": "주니어 Software Engineer (Frontend)",
+        "tech_stack": [
+            "Rust",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "job_title": "Software Engineer (Frontend)",
+        "tech_stack": [
+            "Rust",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "job_title": "시니어 Software Engineer (Data)",
+        "tech_stack": [
+            "Rust",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "job_title": "주니어 Software Engineer (Data)",
+        "tech_stack": [
+            "Rust",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "job_title": "Software Engineer (Data)",
+        "tech_stack": [
+            "Rust",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "job_title": "백엔드 엔지니어 (챕터 리드)",
+        "tech_stack": [
+            "Python",
+            "Django"
+        ]
+    },
+    {
+        "job_title": "[인텔리전스랩스] 인증/세션 서비스 백엔드 개발자 (Java)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "프론트엔드 엔지니어",
+        "tech_stack": [
+            "TypeScript",
+            "ReactJS",
+            "Jest",
+            "Webpack",
+            "Babel",
+            "Storybook",
+            "Azure Emotion",
+            "React Native Router"
+        ]
+    },
+    {
+        "job_title": "Web Front end Engineer",
+        "tech_stack": [
+            "C#",
+            "C++",
+            "WPF",
+            "Qt"
+        ]
+    },
+    {
+        "job_title": "[클라우드전략팀] DevOps Engineer",
+        "tech_stack": []
+    },
+    {
+        "job_title": "데이터 엔지니어 (BI)",
+        "tech_stack": [
+            "Python",
+            "Google BigQuery"
+        ]
+    },
+    {
+        "job_title": "Frontend, Backend 엔지니어",
+        "tech_stack": []
+    },
+    {
+        "job_title": "백엔드 개발자",
+        "tech_stack": [
+            "Spring",
+            "Java",
+            "JSP"
+        ]
+    },
+    {
+        "job_title": "무선 Edge Device SW Engineer",
+        "tech_stack": [
+            "C++",
+            "Linux",
+            "RTOS",
+            "Bluetooth"
+        ]
+    },
+    {
+        "job_title": "[경력] AWS클라우드 SA",
+        "tech_stack": []
+    },
+    {
+        "job_title": "관리적 보안통제 담당자",
+        "tech_stack": []
+    },
+    {
+        "job_title": "[디지털 헬스케어] Flutter 프론트엔드 개발자",
+        "tech_stack": [
+            "flutter",
+            "Kotlin",
+            "Dart",
+            "Swift",
+            "Rust",
+            "Android",
+            "iOS"
+        ]
+    },
+    {
+        "job_title": "[인터널] Server Developer",
+        "tech_stack": []
+    },
+    {
+        "job_title": "백엔드 소프트웨어 엔지니어 (Backend Software Engineer)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "풀스택 소프트웨어 엔지니어 (Full Stack Software Engineer)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "iOS 엔지니어 (iOS Engineer)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "안드로이드 엔지니어 (Android Engineer)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "프론트엔드 개발자(꾸그 웹)",
+        "tech_stack": [
+            "TypeScript",
+            "React Hooks API",
+            "ReactJS"
+        ]
+    },
+    {
+        "job_title": "백엔드 개발자",
+        "tech_stack": [
+            "Java",
+            "Spring"
+        ]
+    },
+    {
+        "job_title": "프론트, 백엔드 개발자",
+        "tech_stack": [
+            "Python",
+            "Java",
+            "JavaScript",
+            "Spring"
+        ]
+    },
+    {
+        "job_title": "데이터 분석 및 AI 개발자",
+        "tech_stack": [
+            "Python",
+            "PyTorch",
+            "Tensorflow",
+            "Pandas"
+        ]
+    },
+    {
+        "job_title": "소프트웨어 엔지니어 (Software Engineer)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "프론트엔드 개발자",
+        "tech_stack": [
+            "ReactJS",
+            "React Native",
+            "AWS S3",
+            "AWS CloudFront",
+            "AWS EC2",
+            "AWS Lambda",
+            "Next.js"
+        ]
+    },
+    {
+        "job_title": "Software Engineer, Backend, Extended Reality",
+        "tech_stack": []
+    },
+    {
+        "job_title": "Software Engineer, Frontend, Extended Reality",
+        "tech_stack": []
+    },
+    {
+        "job_title": "모바일 SW 팀장 (Senior Software Engineer)",
+        "tech_stack": [
+            "ReactJS",
+            "Gradle",
+            "Firebase",
+            "RxJava",
+            "React Native",
+            "Android",
+            "Kotlin",
+            "Java",
+            "iOS",
+            "REST API",
+            "JavaScript",
+            "Swift"
+        ]
+    },
+    {
+        "job_title": "5G 기지국 소프트웨어 개발",
+        "tech_stack": [
+            "Linux",
+            "C",
+            "C++"
+        ]
+    },
+    {
+        "job_title": "블록체인 개발자",
+        "tech_stack": []
+    },
+    {
+        "job_title": "[Blockchain] Backend Engineer",
+        "tech_stack": [
+            "Git",
+            "Linux",
+            "Solidity",
+            "MongoDB",
+            "Go",
+            "Redis",
+            "GCP(Google Cloud Platform)"
+        ]
+    },
+    {
+        "job_title": "Backend 개발자 구인(Django) (경력, 3년차이상)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "귀여운 슬라임 주디 유니티 2D 클라이언트 개발자 (경력, 3년이상)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "데이터 엔지니어",
+        "tech_stack": [
+            "OpenCV",
+            "Machine Vision",
+            "NoSQL",
+            "PyTorch",
+            "Tensorflow",
+            "Docker",
+            "ML Kit",
+            "C++",
+            "C",
+            "CUDA",
+            "Big Data",
+            "Apache Kafka"
+        ]
+    },
+    {
+        "job_title": "3D 딥러닝 엔지니어",
+        "tech_stack": [
+            "3Ds Max",
+            "PyTorch",
+            "Docker",
+            "Kubernetes"
+        ]
+    },
+    {
+        "job_title": "[디스민즈워] QA 테스터(PC/Console)",
+        "tech_stack": [
+            "JIRA"
+        ]
+    },
+    {
+        "job_title": "AI Engineer / LLM / ASR",
+        "tech_stack": [
+            "Python",
+            "Pandas",
+            "Docker",
+            "PyTorch",
+            "NLP"
+        ]
+    },
+    {
+        "job_title": "프론트엔드 개발자",
+        "tech_stack": []
+    },
+    {
+        "job_title": "백엔드 개발자",
+        "tech_stack": []
+    },
+    {
+        "job_title": "\bAI 개발자",
+        "tech_stack": []
+    },
+    {
+        "job_title": "프론트엔드 개발자2",
+        "tech_stack": []
+    },
+    {
+        "job_title": "프론트엔드 개발자3",
+        "tech_stack": []
+    },
+    {
+        "job_title": "C++ 엔지니어",
+        "tech_stack": [
+            "C++",
+            "Linux",
+            "Python",
+            "MySQL",
+            "Docker"
+        ]
+    },
+    {
+        "job_title": "자율주행 데이터 솔루션 Front-End 개발자",
+        "tech_stack": [
+            "ReactJS",
+            "JavaScript",
+            "CSS",
+            "ES6"
+        ]
+    },
+    {
+        "job_title": "[TmaxBI] 연구원",
+        "tech_stack": [
+            "CSS",
+            "HTML",
+            "JavaScript",
+            "Java"
+        ]
+    },
+    {
+        "job_title": "Deep Learning Engineer (음성 솔루션 On-Device & Client SDK 개발/운영)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "(복사본)Deep Learning Engineer (음성 솔루션 On-Device & Client SDK 개발/운영)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "Android 개발자",
+        "tech_stack": [
+            "Kotlin",
+            "Android"
+        ]
+    },
+    {
+        "job_title": "Mobile Engineer(안드로이드)",
+        "tech_stack": [
+            "Android",
+            "Kotlin",
+            "Swift",
+            "Jetpack",
+            "Dagger2",
+            "Glide",
+            "GitHub flow",
+            "JIRA"
+        ]
+    },
+    {
+        "job_title": "Mobile Engineer(iOS)",
+        "tech_stack": [
+            "iOS",
+            "Swift",
+            "Firebase",
+            "GitHub",
+            "JIRA"
+        ]
+    },
+    {
+        "job_title": "4G/5G Core 소프트웨어 개발",
+        "tech_stack": [
+            "Linux",
+            "C",
+            "C++"
+        ]
+    },
+    {
+        "job_title": "비바이노베이션_개발_서버파트 부문",
+        "tech_stack": [
+            "Git",
+            "MongoDB",
+            "MySQL",
+            "Python"
+        ]
+    },
+    {
+        "job_title": "QA Engineer",
+        "tech_stack": []
+    },
+    {
+        "job_title": "백엔드 개발자 (경력 3년 ~ 5년)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "백엔드 개발(게임 퍼블리싱 플랫폼)",
+        "tech_stack": [
+            "REST API",
+            "Java",
+            "Spring",
+            "Spring Boot",
+            "Redis",
+            "Kubernetes"
+        ]
+    },
+    {
+        "job_title": "TA(Technical Architect) 담당자 채용",
+        "tech_stack": []
+    },
+    {
+        "job_title": "[ESTsoft] 정보보안 기술 담당자 (경력)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "[경력] DBA(데이터베이스 관리)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "백엔드 개발자 (경력 3년 ~ 5년)",
+        "tech_stack": []
+    },
+    {
+        "job_title": "Data Analytics Engineer",
+        "tech_stack": [
+            "AWS IAM",
+            "AWS VPC",
+            "AWS EC2",
+            "Terraform",
+            "Docker",
+            "MariaDB",
+            "PostgreSQL",
+            "Tableau"
+        ]
+    },
+    {
+        "job_title": "두들마을 경력직 마을회장님 모십니다. 1",
+        "tech_stack": []
+    },
+    {
+        "job_title": "웹 서비스 및 플랫폼 사업 개발자",
+        "tech_stack": [
+            "Java",
+            "ReactJS",
+            "SQL",
+            "JSP",
+            "Spring Boot"
+        ]
+    },
+    {
+        "job_title": "[Plus]Flutter 개발자",
+        "tech_stack": []
+    },
+    {
+        "job_title": "[DX]Data Warehouse Engineer",
+        "tech_stack": []
+    },
+    {
+        "job_title": "모바일 앱 개발",
+        "tech_stack": [
+            "Android",
+            "iOS",
+            "React Native"
+        ]
+    },
+    {
+        "job_title": "게임 QA",
+        "tech_stack": []
+    },
+    {
+        "job_title": "Program Manager",
+        "tech_stack": []
+    },
+    {
+        "job_title": "Senior Software Engineer, Back-end - 커머스플랫폼",
+        "tech_stack": [
+            "Java",
+            "Spring",
+            "gRPC",
+            "Kubernetes"
+        ]
+    },
+    {
+        "job_title": "Junior Software Engineer, Back-end - 커머스플랫폼",
+        "tech_stack": []
+    },
+    {
+        "job_title": "[App/Web] 프론트엔드 백엔드 개발자",
+        "tech_stack": [
+            "Node.js",
+            "flutter",
+            "React Admin"
+        ]
+    },
+    {
+        "job_title": "Product Manager 공고",
+        "tech_stack": []
+    },
+    {
+        "job_title": "LLM DATA PM",
+        "tech_stack": []
+    },
+    {
+        "job_title": "Data Engineer - Infra",
+        "tech_stack": [
+            "Apache Hadoop",
+            "Apache Spark",
+            "Apache Kafka",
+            "Azure",
+            "Google Cloud Platform"
+        ]
+    },
+    {
+        "job_title": "해운 물류 운영 ERP 시스템 리더급 개발자",
+        "tech_stack": [
+            "Vue.js",
+            "Go",
+            "C",
+            "C++",
+            "Docker",
+            "PHP",
+            "MySQL",
+            "Azure",
+            "Java",
+            "JavaScript",
+            "MSSQL(Microsoft SQL Server)",
+            "REST API",
+            "Visual Basic",
+            "VB .NET"
+        ]
+    },
+    {
+        "job_title": "Software Engineer - AD Platform",
+        "tech_stack": [
+            "Java",
+            "Python",
+            "Kotlin",
+            "Spring",
+            "JPA(Java Persistent API)",
+            "Apache Spark",
+            "Presto",
+            "Apache Hive",
+            "Kubernetes",
+            "Apache Kafka",
+            "AWS Kinesis"
+        ]
+    },
+    {
+        "job_title": "Machine Learning Engineer - Software Solution",
+        "tech_stack": []
+    },
+    {
+        "job_title": "Product Owner - Hotel",
+        "tech_stack": []
+    },
+    {
+        "job_title": "자율주행 데이터 솔루션 JAVA Back-End 개발자",
+        "tech_stack": [
+            "Java",
+            "Spring",
+            "Redis",
+            "MySQL"
+        ]
+    },
+    {
+        "job_title": "자율주행 데이터 솔루션 DevOps 엔지니어",
+        "tech_stack": [
+            "Linux",
+            "Git",
+            "GCP(Google Cloud Platform)"
+        ]
+    },
+    {
+        "job_title": "백엔드 엔지니어 (서버)",
+        "tech_stack": [
+            "C",
+            "C++",
+            "JavaScript",
+            "Go",
+            "AWS EC2",
+            "Kubernetes",
+            "AWS EKS",
+            "AWS RDS"
+        ]
+    },
+    {
+        "job_title": "Software Engineer - Java / Oneday Interview",
+        "tech_stack": [
+            "Java",
+            "Spring",
+            "CI/CD"
+        ]
+    },
+    {
+        "job_title": "Product Owner - New Biz",
+        "tech_stack": []
+    },
+    {
+        "job_title": "[감독솔루션팀]BE개발자",
+        "tech_stack": [
+            "Ruby on Rails",
+            "Redis",
+            "PostgreSQL",
+            "Docker",
+            "AWS Lambda",
+            "AWS DynamoDB",
+            "Python"
+        ]
+    }
+]
