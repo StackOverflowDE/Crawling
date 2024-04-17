@@ -1,9 +1,8 @@
-import re, json, os, requests
+import csv, os, requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
-import time
 
 language = "개발언어"
 
@@ -18,7 +17,7 @@ if not os.path.exists(folder_sof):
     os.makedirs(folder_sof)
 
 with webdriver.Chrome(service=Service(ChromeDriverManager().install())) as driver:
-    driver.get("https://stackoverflow.com/questions/tagged/{}?tab=active&page=1&pagesize=50".format(language))
+    driver.get("https://stackoverflow.com/questions/tagged/{}?tab=active&page=1&pagesize=15".format(language))
     
     i = 1
     sof_data = []
@@ -35,7 +34,7 @@ with webdriver.Chrome(service=Service(ChromeDriverManager().install())) as drive
         question_id = id_element.get_attribute("id")
         id_list.append(question_id)
     
-    # 몇개의 단어를 뽑아올지 몰라서 일단 페이지 최대 갯수로 해보았습니다.
+    # 인덱스가 리스트의 길이보다 작을 때 반복
     while i <= len(id_list):
         # 요소 찾기
         question_title = driver.find_element(By.XPATH, '//*[@id="{}"]/div[2]/h3/a'.format(id_list[i-1]))
@@ -56,18 +55,19 @@ with webdriver.Chrome(service=Service(ChromeDriverManager().install())) as drive
         
         # 요소의 title 속성값 가져와 git_data에 저장
         sof_elem = {
-            "name" : question_title.text,
+            "title" : question_title.text,
             "time" : question_time.text,
             "stars" : question_writer.text,
         }
         sof_data.append(sof_elem)
         i+=1
-    
-    # sof_data를 JSON으로 변환
-    sof_json = json.dumps(sof_data)
-    
-    json_file_path = os.path.join("assets", "data", "sof_info.json")
-    
-    # JSON 파일로 저장
-    with open(json_file_path, 'w') as json_file:
-        json_file.write(sof_json)
+
+# CSV 파일로 저장
+csv_file_path = os.path.join("assets", "data", "sof_info.csv")
+
+# CSV 파일로 저장
+with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
+    writer = csv.DictWriter(csv_file, fieldnames=["title", "time", "stars"])
+    writer.writeheader()
+    for elem in sof_data:
+        writer.writerow(elem)

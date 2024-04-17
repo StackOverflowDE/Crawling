@@ -1,4 +1,4 @@
-import re, json , os, requests
+import re, csv, os, requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
@@ -116,11 +116,12 @@ for repo_list in repo_git_list[:-1]:
         }
         git_data.append(git_elem)
 
-# git_data를 JSON으로 변환
-repo_json = json.dumps(git_data)
+# CSV 파일로 저장
+csv_file_path = os.path.join("assets", "data", "git_info.csv")
 
-json_file_path = os.path.join("assets", "data", "git", "git_repo_info.json")
-
-# JSON 파일로 저장
-with open(json_file_path, 'w') as json_file:
-    json_file.write(repo_json)
+# CSV 파일로 저장
+with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
+    writer = csv.DictWriter(csv_file, fieldnames=["title", "fork", "stars", "recent_time", "number_of_commit"])
+    writer.writeheader()
+    for elem in git_data:
+        writer.writerow(elem)
