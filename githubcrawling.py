@@ -108,7 +108,7 @@ for repo_list in repo_git_list[:-1]:
         
         # 요소의 title 속성값 가져와 git_data에 저장
         git_elem = {
-            "name" : extract_name(repo_list),
+            "title" : extract_name(repo_list),
             "fork" : repo_fork.get_attribute('title'),
             "stars" : repo_stars.get_attribute('title'),
             "recent_time" : repo_recent,

@@ -36,7 +36,7 @@ with webdriver.Chrome(service=Service(ChromeDriverManager().install())) as drive
         id_list.append(question_id)
     
     # 몇개의 단어를 뽑아올지 몰라서 일단 페이지 최대 갯수로 해보았습니다.
-    while i <= 50:
+    while i <= len(id_list):
         # 요소 찾기
         question_title = driver.find_element(By.XPATH, '//*[@id="{}"]/div[2]/h3/a'.format(id_list[i-1]))
         question_time = driver.find_element(By.XPATH, '//*[@id="{}"]/div[2]/div[2]/div[2]/time/a/span'.format(id_list[i-1]))
