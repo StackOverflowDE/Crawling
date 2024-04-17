@@ -18,10 +18,10 @@ language와 sort_tag를 정보에 맞게 넣어주세요 language = 개발언어
 로그인 상태를 확인해주세요 아이디와 비밀번호를 자신의 비밀번호와 아이디로 넣어주세요
 '''
 
-language = 
-sort_tag = 
-your_id = 
-your_password = 
+language = "개발언어"
+sort_tag = "stars or forks"
+your_id = "아이디"
+your_password = "비밀번호"
 
 with webdriver.Chrome(service=Service(ChromeDriverManager().install())) as driver:
     driver.get("https://github.com/topics/{}?o=desc&s={}".format(language, sort_tag))
@@ -47,6 +47,11 @@ git_data = []
 folder_name = "assets"
 if not os.path.exists(folder_name):
     os.makedirs(folder_name)
+
+# assets/img/git 폴더가 없으면 생성
+folder_git = "assets/img/git"
+if not os.path.exists(folder_git):
+    os.makedirs(folder_git)
 
 for repo_list in repo_git_list[:-1]:
     # WebDriver 초기화,
@@ -95,7 +100,7 @@ for repo_list in repo_git_list[:-1]:
         
         # 이미지 다운로드
         img_name = extract_name(repo_list) + ".jpg"  # 이미지 파일 이름 설정
-        img_path = os.path.join("assets", "img", img_name)  # 이미지 파일 경로 설정
+        img_path = os.path.join("assets", "img", "git", img_name)  # 이미지 파일 경로 설정
         
         # 이미지 다운로드 및 저장
         with open(img_path, "wb") as img_file:
@@ -114,7 +119,7 @@ for repo_list in repo_git_list[:-1]:
 # git_data를 JSON으로 변환
 repo_json = json.dumps(git_data)
 
-json_file_path = os.path.join("assets", "data", "git_repo_info.json")
+json_file_path = os.path.join("assets", "data", "git", "git_repo_info.json")
 
 # JSON 파일로 저장
 with open(json_file_path, 'w') as json_file:
