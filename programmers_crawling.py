@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
 
 import csv
 from selenium import webdriver
@@ -59,10 +54,5 @@ with open(csv_file_path, "w", encoding="utf-8", newline='') as f:
     writer.writeheader()
     for job_data in data_list:
         writer.writerow(job_data)
-
-
-# In[ ]:
-
-
 
 
