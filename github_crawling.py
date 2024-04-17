@@ -120,7 +120,7 @@ for repo_list in repo_git_list[:-1]:
         git_data.append(git_elem)
 
 # CSV 파일로 저장
-csv_file_path = os.path.join("assets", "data", "git_info.csv")
+csv_file_path = os.path.join("assets", "data", "git_info_{}.csv".format(sort_tag))
 
 # CSV 파일로 저장
 with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
