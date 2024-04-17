@@ -80,7 +80,7 @@ for repo_list in repo_git_list[:-1]:
             login_button = driver.find_element(By.XPATH, '//*[@id="login"]/div[4]/form/div/input[13]')
             ActionChains(driver).click(login_button).perform()
         
-        driver.implicitly_wait(10)
+        driver.implicitly_wait(5)
         
         # 요소 찾기
         repo_watch = driver.find_element(By.ID, 'repo-notifications-counter')
