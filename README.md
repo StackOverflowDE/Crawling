@@ -1,4 +1,11 @@
-내가 관심있는 개발 직군의 언어 및 기술스택의 랭킹, github의 repo와 StackOverFlow의 질문의 종류, 기술블로그의 동향을 시각화해서 표현
+**프로젝트 세부 결과 - 크롤링(보고서 작성 시 참고)**
+1. 프로그래머스에서 진행 중인 개발자 채용 공고의 각각의 링크에 들어간 뒤 공고의 title, 직무, 기술 스택을 모두 크롤링 한다.
+3. 그 중 가장 인기 있는 기술 스택들을 키워드로 하여 Github와 Stackoverflow에서 각 키워드 관련 데이터를 수집한다. 
+4. Github에서 키워드를 검색하여 얻은 결과 중 인기 있는 repository의 제목, 최근 commit 시간, repository의 작성자의 아이콘, forks 수, stars 수를 크롤링한다.
+5. Stackoverflow에서 키워드를 검색하여 얻은 결과 중 질문의 title, 질문 날짜, 작성자 id, 아이콘을 크롤링한다. 
+6. 최종 크롤링한 데이터를 csv 파일 형태로 저장한다.
+   
+내가 관심있는 개발 직군의 언어 및 기술스택의 랭킹, github의 repo와 StackOverFlow의 질문의 종류를 시각화해서 표현
 
 프로그래머스 [﻿https://career.programmers.co.kr/job?page=1&order=recent&job_category_ids={}](https://career.programmers.co.kr/job?page=1&order=recent&job_category_ids={})
 
