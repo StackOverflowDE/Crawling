@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+Erc20 Token Presale Swap Problem Remix Ethereum Solidity,15 mins ago,Buğ Oğ,0,0,4,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+"Asserting attribute change after transaction, using Foundry test network",2 hours ago,a.t.,0,1,17,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+Error: cannot estimate gas; transaction may fail or may require manual gas limit SERVER_ERROR,7 hours ago,ZhectorSM,0,1,53,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+Why is the function throwing an error when called from another contract but not when called independently?,17 hours ago,Shreyansh Tiwari,0,0,17,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+When testing on mainnet fork with hardhat 2.22.2: Error: The response reported error `429`,21 hours ago,Matt Jaf,1,1,14,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+Axelar Troubleshooting 'REVERT opcode' Failure When Using callContractWithToken [closed],22 hours ago,Drew Reese,-1,0,21,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+whats problem in my solidity smat-contract?,yesterday,roman,0,0,20,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+The transaction has been reverted to the initial state in remix,yesterday,Vishav Singla,0,0,7,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+How to use solidity events in react useEffect?,yesterday,Alex Csiszár,0,0,7,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+"Error: Cannot destructure property 'title' of '(0 , react__WEBPACK_IMPORTED_MODULE_1__.useContext)(...)' as it is undefined (Next.js Chat App)",yesterday,Bhavesh Rathod,0,1,15,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+Blockchian implementation in mobile app for data storage,yesterday,Mikko Ohtamaa,0,1,22,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+Network doesn't support eip-1559,yesterday,James Z,0,0,16,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+Unable to send ERC20 via script using hardhat on private blockchain,yesterday,Dubois Amaury,0,0,27,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+Chai - AssertionError: expected BigNumber,2 days ago,Sundram Mishra,1,1,601,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15
+Why aren't these modules being resolved?,2 days ago,Hermes,-1,2,197,https://stackoverflow.com/questions/tagged/Solidity?tab=active&page=1&pagesize=15

@@ -23,6 +23,24 @@ def stackoverflow_crawling(language):
         'CI/CD' : 'cicd',
         'MVVM(Model-View-ViewModel)' : 'mvvm'
     }
+    re_sof_convert = {
+        'apache-spark' : 'Apache Spark',
+        'babeljs' : 'Babel',
+        'c%23' : 'C#',
+        'es6-promise' : 'ES6',
+        'google-cloud-platform' : 'Google Cloud Platform',
+        'html' : 'HTML5',
+        'jestjs' : 'Jest',
+        'rest' : 'REST API',
+        'react-native' : 'React Native',
+        'ruby-on-rails' : 'Ruby on Rails',
+        'shell' : 'Shell Script',
+        'spring-boot' : 'Spring Boot',
+        'amazon-web-services' : 'Amazon Web Services(AWS)',
+        'c%2b%2b' : 'C++',
+        'cicd' : 'CI/CD',
+        'mvvm' : 'MVVM(Model-View-ViewModel)'
+    }
     
     # language 변수의 값이 sof_convert 딕셔너리의 키에 있는지 확인하고 변경
     if language in sof_convert:
@@ -67,6 +85,9 @@ def stackoverflow_crawling(language):
             
             # 이미지 다운로드
             img_name = question_writer.text + ".jpg"  # 이미지 파일 이름 설정
+            # language 변수의 값이 re_sof_convert 딕셔너리의 키에 있는지 확인하고 변경
+            if language in re_sof_convert:
+                language = re_sof_convert[language]
             img_path = os.path.join("assets", "img", "sof", language, img_name)  # 이미지 파일 경로 설정
             
             # 이미지 다운로드 및 저장

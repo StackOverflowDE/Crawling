@@ -1,0 +1,21 @@
+title,fork,stars,watch,recent_time,writer,url
+devops-exercises,"13,863","63,283","1,180","Feb 2, 2024, 10:29 PM GMT+9",bregman-arie,https://github.com/bregman-arie/devops-exercises
+terraform-provider-aws,"8,847","9,444",449,"Apr 18, 2024, 11:45 PM GMT+9",hashicorp,https://github.com/hashicorp/terraform-provider-aws
+data-science-ipython-notebooks,"7,719","26,442","1,620","Feb 11, 2019, 7:51 PM GMT+9",donnemartin,https://github.com/donnemartin/data-science-ipython-notebooks
+amazon-sagemaker-examples,"6,588","9,488",267,"Apr 17, 2024, 11:02 PM GMT+9",aws,https://github.com/aws/amazon-sagemaker-examples
+kubespray,"6,283","15,322",318,"Apr 17, 2024, 11:33 AM GMT+9",kubernetes-sigs,https://github.com/kubernetes-sigs/kubespray
+docker-fundamentals,"5,910",387,20,"Sep 18, 2021, 7:41 PM GMT+9",stacksimplify,https://github.com/stacksimplify/docker-fundamentals
+system-design-101,"5,771","56,593",762,"Dec 27, 2023, 1:20 PM GMT+9",ByteByteGoHq,https://github.com/ByteByteGoHq/system-design-101
+serverless,"5,663","46,050",945,"Mar 20, 2024, 6:23 AM GMT+9",serverless,https://github.com/serverless/serverless
+aws-doc-sdk-examples,"5,451","8,889",201,"Apr 18, 2024, 3:46 AM GMT+9",awsdocs,https://github.com/awsdocs/aws-doc-sdk-examples
+terraform-aws-vpc,"4,305","2,867",81,"Apr 6, 2024, 9:27 AM GMT+9",terraform-aws-modules,https://github.com/terraform-aws-modules/terraform-aws-vpc
+aws-cli,"3,939","14,865",571,"Apr 18, 2024, 3:26 AM GMT+9",aws,https://github.com/aws/aws-cli
+terraform-aws-eks,"3,915","4,149",89,"Apr 9, 2024, 7:46 AM GMT+9",terraform-aws-modules,https://github.com/terraform-aws-modules/terraform-aws-eks
+cas,"3,883","10,629",604,"Apr 13, 2024, 7:12 PM GMT+9",apereo,https://github.com/apereo/cas
+localstack,"3,805","52,055",512,"Apr 18, 2024, 10:58 PM GMT+9",localstack,https://github.com/localstack/localstack
+aws-cdk,"3,679","11,135",230,"Apr 18, 2024, 8:52 AM GMT+9",aws,https://github.com/aws/aws-cdk
+kubernetes-fundamentals,"3,626",404,12,"Apr 5, 2022, 11:08 AM GMT+9",stacksimplify,https://github.com/stacksimplify/kubernetes-fundamentals
+hashicorp-certified-terraform-associate,"3,536",540,31,"Jan 21, 2024, 5:29 PM GMT+9",stacksimplify,https://github.com/stacksimplify/hashicorp-certified-terraform-associate
+terraform-aws-s3-bucket,"3,502",483,17,"Apr 16, 2024, 8:25 PM GMT+9",terraform-aws-modules,https://github.com/terraform-aws-modules/terraform-aws-s3-bucket
+ansible-for-devops,"3,311","7,994",367,"Jun 30, 2023, 1:03 AM GMT+9",geerlingguy,https://github.com/geerlingguy/ansible-for-devops
+amplify-next-template,"2,984",24,2,"Mar 1, 2024, 6:33 AM GMT+9",aws-samples,https://github.com/aws-samples/amplify-next-template

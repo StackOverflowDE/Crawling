@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+Unable to use associations on a view after Hibernate update,8 mins ago,marcellorvalle,-1,0,25,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+Opentelemetry spring mongodb instrumentation,12 mins ago,Jordi,0,0,3,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+"Getting error: ""Incorrect decimal value: 'Apple Watch Series 6' for column 'price' at row 1."" The wrong value is being set as price. what can i do?",17 mins ago,hhrzc,0,1,7,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+Multiple Login screens with different endpoint after login with spring security,24 mins ago,Jason Aller,0,0,7,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+spring security oauth2 client authorization code flow,25 mins ago,Bioaim,0,0,10,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+How do you define a schema for the data structure,28 mins ago,swetha,0,0,10,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+Distributed tracing is not working with Spring WebFlux + Reactor Kafka,34 mins ago,Artem Bilan,1,1,16,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+"Can we avoid spring boot application restart, to refresh the certificates associated with its embedded tomcat container?",46 mins ago,Hakan54,9,5,7k,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+WebFlux WebClient not sending certificate,50 mins ago,Leon,1,2,1k,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+Error when using CoroutineCrudRepository in Spring Boot 3.2.4,51 mins ago,Michael Reno Pratama Setyawan,0,0,10,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+Can't import my CurdRepository interface to my controller,1 hour ago,Matt,0,1,31,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+SpringBoot How to fix 401 unauthirze on postman,1 hour ago,MY.D,0,0,16,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+GraalVM No instances of ch.qos.logback.core.status.InfoStatus are allowed in the image heap as this class should be initialized at image runtime,1 hour ago,Michel Moura Monteiro,-1,0,11,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+How do I set the Hibernate dialect in SpringBoot?,1 hour ago,Sadaf,43,6,132k,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15
+Configuring custom cache invalidation for MyBatis xml mapper,2 hours ago,Gideon,0,0,6,https://stackoverflow.com/questions/tagged/spring-boot?tab=active&page=1&pagesize=15

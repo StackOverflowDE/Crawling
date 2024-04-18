@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+How to get non-zero exit code from git diff --no-index only on errors?,43 secs ago,Guildenstern,1,0,5,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+Fixing error: HEAD: invalid reflog entry SHAID1,57 mins ago,Tryer,1,0,30,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+Rewrite local changes in git,1 hour ago,matt,-1,1,29,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+Force git to ignore or truncate large files when pushing to remote,1 hour ago,Ludo,1,1,43,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+If there is a way to get commit log information online with out clone the whole repository?,1 hour ago,Απόστολος Μουτιάκας,0,1,28,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+How can I remove/delete a large file from the commit history in the Git repository?,1 hour ago,Sámal Rasmussen,1107,24,467k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+Is it possible to implement repo based hooks in Gitolite?,2 hours ago,Andy J,3,2,532,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+git permission denied error in airflow dag when access git in subprocess or bashoperator,2 hours ago,Ashwin Hegde,1,1,31,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+Git feature branch rebasing from local configuration branch,2 hours ago,oweydd,0,0,12,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+How do I stash only one file out of multiple files that have changed?,2 hours ago,Martin Peter,3766,33,1.2m,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+git forward merging a couple of commits only,3 hours ago,Romain Valeri,0,2,40,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+"Fail to git clone, push, pull with ssh, raise kex_exchange_identification error",3 hours ago,Ghulam Akbar,3,1,2k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+Jenkins: how do I prevent a build when certain commits made to a git repo?,4 hours ago,coz,0,2,2k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+Should I commit .lock file changes separately? What should I write for the commit message?,4 hours ago,J_Zar,46,5,22k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+Getting a timeout pushing a repository to local GitLab,4 hours ago,Omri Sarig,2,2,3k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15

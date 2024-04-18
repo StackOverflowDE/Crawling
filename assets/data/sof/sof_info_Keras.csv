@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+Keras in R - full list of metrics using compile(),18 mins ago,GRowInG,1,1,12,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+"Could not interpret activation function identifier: <KerasTensor shape=(None, 352, 50), dtype=float32, sparse=None, name=keras_tensor>",29 mins ago,user17144,0,0,10,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+Convolutional neural network for step/kink identification in 1D data using Keras,31 mins ago,delta_impulse,0,0,3,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+AssertionError: Tried to export a function which references untracked resource,57 mins ago,palffybalazs,9,6,4k,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+tf.gradients() returns a list of [None],2 hours ago,desertnaut,0,1,475,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+Using different backbone network in keras gets error,2 hours ago,Lescurel,0,1,23,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+Combine feature extractor with sequence model in Tensorflow,2 hours ago,nesakysiu123,0,0,8,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+ImportError: cannot import name 'ImageDataGenerator' from 'keras.preprocessing.image',2 hours ago,BalabesH,2,3,5k,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+How to use SHAP explainer for explainability of a deep learning model with multimodal input (image and tabular data)?,3 hours ago,lakshman,0,0,6,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+0 accuracy in training the UNet model for image classification,5 hours ago,SaM61,0,0,10,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+'list' object has no attribute 'shape' error,6 hours ago,Christoph Rackwitz,-2,0,32,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+'float' object has no attribute 'round',6 hours ago,Poe Dator,19,2,41k,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+How deep learning model's accuracy can calculate with different shape of prediction output and real target data?,11 hours ago,MCPMH,0,0,19,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+Facing an issue while training UNet for Image Segmentation,13 hours ago,Christoph Rackwitz,0,0,11,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15
+pyGad RAM usage,15 hours ago,Ahmed Gad,1,1,20,https://stackoverflow.com/questions/tagged/Keras?tab=active&page=1&pagesize=15

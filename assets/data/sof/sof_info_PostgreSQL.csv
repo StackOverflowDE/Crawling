@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+PostgreSQL: Error using pg_read_binary_file: No such file or directory,6 mins ago,DanTe,2,1,781,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+Debezium with Postgresql RDS stuck at Creating replication slot with command CREATE_REPLICATION_SLOT,8 mins ago,Kanstantsin T.,0,0,15,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+Postgres16 logical replication lag,59 mins ago,narendra nath,-1,0,47,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+Difference between jsonb type cast and to_jsonb in postgresql,1 hour ago,Zegarek,2,2,22,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+How to Achieve SQL Table Interactivity Similar to PyCharm in VS Code? (postgres) [closed],1 hour ago,Abal8,0,0,12,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+How to Use the appropriate API provided by Amadeus to fetch the details of the booked ticket,1 hour ago,Aslbek Abdullayev,-3,0,9,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+How to Implement Dynamic Database Connection in PHP MVC Refactor,1 hour ago,el_jefe213,0,0,20,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+PostgreSQL combining output,1 hour ago,Zegarek,1,1,25,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+"I was send 2 .sql file one is for authorization and one has the database information, how can i import this into PostgresSQL?",2 hours ago,Istiak Ahmed Khan,0,0,9,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+How to show rows that has null value,2 hours ago,Zegarek,1,1,20,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+"Postgresql query takes 9 minutes to execute, how can we reduce time to 60 seconds?",2 hours ago,O. Jones,0,0,45,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+Adding tuple rows to each subtuple group in sql,3 hours ago,Zegarek,1,1,34,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+Relational DB in microservices,3 hours ago,tom redfern,6,2,6k,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+Highlight search terms on a Django/PostgreSQL search results page,3 hours ago,François Zaninotto,10,4,3k,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+How to get Row values as columns like PIVOT in postgresql,3 hours ago,Zegarek,1,1,13,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15

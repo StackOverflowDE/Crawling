@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+ElasticSearch 7 not taking _id from JDBC on Logstash,30 mins ago,Strawberry,0,2,328,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+Elasticsearch: Giving higher score to repetitive field than exact field,47 mins ago,mertsert,0,2,19,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+Kibana security must be enabled to use Fleet,54 mins ago,user24155091,0,0,7,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+Elastic Search Wildcards With Whitespace issue,1 hour ago,G0l0s,0,2,25,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+ElasticsearchSecurityException: invalid configuration for xpack.security.transport.ssl,2 hours ago,bfontaine,4,4,7k,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+How can I manually trigger timing jdbc input in logstash?,2 hours ago,Musab Dogan,0,1,10,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+Filebeat with container type input uses image digest instead of tag (or both) when sending the logs,2 hours ago,ppetrics,0,0,5,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+How to change server Elasticsearch version?,4 hours ago,Severalnines,1,2,47,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+Creating alert in kibana with Checking String pattern contains,4 hours ago,Bilgehan,0,0,9,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+Elasticsearch document search by quafilication,5 hours ago,Musab Dogan,0,1,22,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+"Which is the more reliable, scalable, efficient and secure way for elasticstack in production",8 hours ago,Karan,0,0,13,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+ELK Stack Integration not working with WSO2 API Manager,9 hours ago,Anusha Jayasundara,0,1,11,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+Odd behavioir of range in elasticsearch restful query when I have more than on range in the query,10 hours ago,Gagak,0,0,4,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+max file descriptors for elasticsearch process is too low,19 hours ago,Carlos Eduardo de Souza,18,11,67k,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15
+Filebeat : data path already locked by another beat. Please make sure that multiple beats are not sharing the same data path,21 hours ago,halfer,8,3,25k,https://stackoverflow.com/questions/tagged/Elasticsearch?tab=active&page=1&pagesize=15

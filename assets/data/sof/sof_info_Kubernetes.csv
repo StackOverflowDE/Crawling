@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+pod not coming up irrespective of removing all affinity,7 mins ago,Daniel A. White,0,0,11,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+What are the kubernetes pod phases equivalence to pod status?,22 mins ago,Liang Yang,3,2,6k,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+Access kind cluster services from another Docker container,57 mins ago,himmip,0,0,9,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+Adding plugin to Fluentd daemonset,59 mins ago,Rebecka,0,0,9,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+Pod stays in container creating status forever,1 hour ago,Hui,-1,0,6,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+Requests timing out when accesing a Kubernetes clusterIP service,1 hour ago,Devendra Kumar,8,5,5k,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+I am trying to install Jenkins on Amazon Linux instance and getting the error as follows,2 hours ago,Cloudlady,0,1,29,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+exec /usr/local/bin/docker-entrypoint.sh argument list too long [closed],2 hours ago,Nandhu Ganesh,0,0,12,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+How to execute command in a pod (kubernetes) using API?,2 hours ago,RaulK,13,4,10k,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+Microk8s - Networking in pod unstable,2 hours ago,danniehansenweb,0,0,7,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+"tls: failed to verify certificate: x509: certificate signed by unknown authority"" node=""master-node""",2 hours ago,Arjun Vk,0,0,11,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+Why ingress objects are namespaced resources?,3 hours ago,mugenkunou,0,0,16,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+Kubernetes - oauth2-proxy - Keycloak OIDC - OAuth2CodeParser error - CODE_TO_TOKEN_ERROR code already used for userSession and client,3 hours ago,Lion,0,0,9,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+Create docker image for Wildfly 27 with redhat open JDK 17,3 hours ago,Nishu,0,1,31,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+operator-sdk is making a csv from a ghost file,3 hours ago,David Maze,0,0,19,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15

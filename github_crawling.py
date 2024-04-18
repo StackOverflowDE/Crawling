@@ -19,18 +19,6 @@ language와 sort_tag를 정보에 맞게 넣어주세요 language = 개발언어
 로그인 상태를 확인해주세요 아이디와 비밀번호를 자신의 비밀번호와 아이디로 넣어주세요
 '''
 
-# url에서 특정키워드는 자동변환이 되지않기 때문에 미리 전처리가 필요
-git_convert = {
-    'C#' : 'c-sharp',
-    'Google Cloud Platform' : 'gcp',
-    'Shell Script' : 'shell',
-    'Amazon Web Services(AWS)' : 'aws',
-    'C++' : 'cpp',
-    'CI/CD' : 'ci',
-    'MVVM(Model-View-ViewModel)' : 'mvvm'
-}
-
-
 def git_crawling(language, sort_tag, your_id, your_password):
     # url에서 특정키워드는 자동변환이 되지않기 때문에 미리 전처리가 필요
     git_convert = {
@@ -41,6 +29,16 @@ def git_crawling(language, sort_tag, your_id, your_password):
         'C++' : 'cpp',
         'CI/CD' : 'ci',
         'MVVM(Model-View-ViewModel)' : 'mvvm'
+    }
+    
+    re_git_convert = {
+        'c-sharp' : 'C#',
+        'gcp' : 'Google Cloud Platform',
+        'shell' : 'Shell Script',
+        'aws' : 'Amazon Web Services(AWS)',
+        'cpp' : 'C++',
+        'ci' : 'CI/CD',
+        'mvvm' : 'MVVM(Model-View-ViewModel)'
     }
     
     # language 변수의 값이 sof_convert 딕셔너리의 키에 있는지 확인하고 변경
@@ -115,9 +113,11 @@ def git_crawling(language, sort_tag, your_id, your_password):
             
             # 이미지 소스 URL 가져오기
             img_src = img_element.get_attribute("src")
-            
             # 이미지 다운로드
             img_name = repo_writer + ".jpg"  # 이미지 파일 이름 설정
+            # language 변수의 값이 re_git_convert 딕셔너리의 키에 있는지 확인하고 변경
+            if language in re_git_convert:
+                language = re_git_convert[language]
             img_path = os.path.join("assets", "img", "git", language, sort_tag, img_name)  # 이미지 파일 경로 설정
             
             # 이미지 파일이 이미 존재하는지 확인

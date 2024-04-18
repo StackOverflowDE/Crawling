@@ -1,0 +1,21 @@
+title,fork,stars,watch,recent_time,writer,url
+stable-diffusion-webui,"25,069","128,911","1,020","Apr 13, 2024, 12:37 PM GMT+9",AUTOMATIC1111,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+transformers,"24,703","124,535","1,092","Apr 19, 2024, 12:18 AM GMT+9",huggingface,https://github.com/huggingface/transformers
+keras,"19,338","60,899","1,907","Apr 18, 2024, 1:02 PM GMT+9",keras-team,https://github.com/keras-team/keras
+Real-Time-Voice-Cloning,"8,518","50,670",931,"Mar 22, 2023, 7:55 PM GMT+9",CorentinJ,https://github.com/CorentinJ/Real-Time-Voice-Cloning
+annotated_deep_learning_paper_implementations,"4,952","47,562",429,"Mar 17, 2024, 9:18 PM GMT+9",labmlai,https://github.com/labmlai/annotated_deep_learning_paper_implementations
+yolov5,"15,520","46,737",361,"Apr 18, 2024, 12:41 PM GMT+9",ultralytics,https://github.com/ultralytics/yolov5
+Made-With-ML,"5,724","35,606","1,219","Dec 8, 2023, 4:37 AM GMT+9",GokuMohandas,https://github.com/GokuMohandas/Made-With-ML
+GFPGAN,"5,688","34,532",493,"Apr 3, 2024, 1:39 AM GMT+9",TencentARC,https://github.com/TencentARC/GFPGAN
+MockingBird,"5,083","33,785",307,"Sep 6, 2023, 12:15 AM GMT+9",babysor,https://github.com/babysor/MockingBird
+DeepSpeed,"3,829","32,517",325,"Apr 18, 2024, 3:52 AM GMT+9",microsoft,https://github.com/microsoft/DeepSpeed
+ComfyUI,"3,406","32,293",282,"Apr 18, 2024, 6:34 AM GMT+9",comfyanonymous,https://github.com/comfyanonymous/ComfyUI
+ray,"5,234","30,968",471,"Apr 18, 2024, 3:12 PM GMT+9",ray-project,https://github.com/ray-project/ray
+pytorch-image-models,"4,563","29,671",304,"Apr 12, 2024, 2:16 AM GMT+9",huggingface,https://github.com/huggingface/pytorch-image-models
+fairseq,"6,232","29,193",420,"Mar 13, 2024, 10:24 PM GMT+9",facebookresearch,https://github.com/facebookresearch/fairseq
+pytorch-tutorial,"7,969","29,076",624,"Jul 6, 2020, 12:36 PM GMT+9",yunjey,https://github.com/yunjey/pytorch-tutorial
+TTS,"3,395","28,981",256,"Feb 10, 2024, 11:20 PM GMT+9",coqui-ai,https://github.com/coqui-ai/TTS
+mmdetection,"9,185","27,709",371,"Feb 5, 2024, 10:23 PM GMT+9",open-mmlab,https://github.com/open-mmlab/mmdetection
+pytorch-lightning,"3,242","26,801",247,"Apr 17, 2024, 8:28 AM GMT+9",Lightning-AI,https://github.com/Lightning-AI/pytorch-lightning
+netron,"2,655","26,024",296,"Apr 18, 2024, 10:16 AM GMT+9",lutzroeder,https://github.com/lutzroeder/netron
+Real-ESRGAN,"3,262","25,957",219,"Apr 3, 2024, 1:39 AM GMT+9",xinntao,https://github.com/xinntao/Real-ESRGAN
