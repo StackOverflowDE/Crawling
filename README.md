@@ -6,6 +6,7 @@
 6. 최종 크롤링한 데이터를 csv 파일 형태로 저장한다.
 
 **활용 기술 및 프레임워크 - 크롤링**
+
 ![image](https://github.com/StackOverflowDE/Crawling/assets/132499783/0a9733b0-ffa2-416c-afab-70fb4ed4bd28)
 ![image](https://github.com/StackOverflowDE/Crawling/assets/132499783/742906dc-3632-4d95-b8d3-6b43434f3e2c)
 ![image](https://github.com/StackOverflowDE/Crawling/assets/132499783/bed2ac8e-d0fb-4417-8924-1f047673ffed)
