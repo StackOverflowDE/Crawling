@@ -1,0 +1,21 @@
+title,fork,stars,watch,recent_time,writer,url
+devops-exercises,"13,865","63,286","1,180","Feb 2, 2024, 10:29 PM GMT+9",bregman-arie,https://github.com/bregman-arie/devops-exercises
+system-design-101,"5,771","56,594",762,"Dec 27, 2023, 1:20 PM GMT+9",ByteByteGoHq,https://github.com/ByteByteGoHq/system-design-101
+localstack,"3,805","52,057",512,"Apr 18, 2024, 10:58 PM GMT+9",localstack,https://github.com/localstack/localstack
+serverless,"5,663","46,051",945,"Mar 20, 2024, 6:23 AM GMT+9",serverless,https://github.com/serverless/serverless
+data-science-ipython-notebooks,"7,719","26,443","1,620","Feb 11, 2019, 7:51 PM GMT+9",donnemartin,https://github.com/donnemartin/data-science-ipython-notebooks
+sst,"1,585","19,948",309,"Apr 9, 2024, 10:15 AM GMT+9",sst,https://github.com/sst/sst
+pulumi,"1,030","19,672",188,"Apr 18, 2024, 10:07 PM GMT+9",pulumi,https://github.com/pulumi/pulumi
+kubespray,"6,283","15,322",318,"Apr 17, 2024, 11:33 AM GMT+9",kubernetes-sigs,https://github.com/kubernetes-sigs/kubespray
+sops,807,"15,064",116,"Apr 15, 2024, 2:01 AM GMT+9",getsops,https://github.com/getsops/sops
+aws-cli,"3,939","14,865",571,"Apr 18, 2024, 3:26 AM GMT+9",aws,https://github.com/aws/aws-cli
+awesome-kubernetes,"2,252","14,713",468,"Apr 18, 2024, 1:51 PM GMT+9",ramitsurana,https://github.com/ramitsurana/awesome-kubernetes
+caprover,778,"12,141",144,"Feb 27, 2024, 1:37 PM GMT+9",caprover,https://github.com/caprover/caprover
+awesome-aws,"1,647","12,138",484,"May 29, 2023, 3:27 AM GMT+9",donnemartin,https://github.com/donnemartin/awesome-aws
+terraformer,"1,571","11,743",128,"Mar 6, 2024, 8:25 PM GMT+9",GoogleCloudPlatform,https://github.com/GoogleCloudPlatform/terraformer
+aws-cdk,"3,678","11,136",230,"Apr 18, 2024, 8:52 AM GMT+9",aws,https://github.com/aws/aws-cdk
+cas,"3,883","10,629",604,"Apr 13, 2024, 7:12 PM GMT+9",apereo,https://github.com/apereo/cas
+chalice,"1,011","10,289",236,"Feb 23, 2024, 7:38 AM GMT+9",aws,https://github.com/aws/chalice
+infracost,513,"10,238",69,"Apr 18, 2024, 1:51 AM GMT+9",infracost,https://github.com/infracost/infracost
+prowler,"1,384","9,514",117,"Apr 18, 2024, 10:27 PM GMT+9",prowler-cloud,https://github.com/prowler-cloud/prowler
+amazon-sagemaker-examples,"6,588","9,488",267,"Apr 17, 2024, 11:02 PM GMT+9",aws,https://github.com/aws/amazon-sagemaker-examples
