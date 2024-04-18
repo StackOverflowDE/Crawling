@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+AttributeError: module 'django.conf.global_settings' has no attribute 'ROOT_URLCONF' no solutions found worked,3 mins ago,Ralf,-1,3,450,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+"Is there a way to set the credentials for an SPN to authorise an API request in Python, using a workload identity federation instead of client secret?",11 mins ago,ADevOpsZ,1,0,27,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+Azure application gateway Whenever we want to do any maintenance in our application we want our visitors to see the maintenance page,12 mins ago,balaganesh,0,0,7,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+"How to create Microsoft.Azure.Devices.ServiceClient instance using ClientSecretCredential ie ClientId,TenantId,ClientSecret",18 mins ago,Sampath,0,1,31,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+kubelogin on WSL Centos: sudo az aks install-cli: ModuleNotFoundError: No module named '_cffi_backend',21 mins ago,Vadym Midav,0,0,5,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+Use parameters from based on environments for logic app in VS code,25 mins ago,Rlaks,0,0,7,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+Flask Web App [Azure] Traversing through directory is very slow,28 mins ago,Pavan,0,1,26,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+azure function app connection to postgresql,28 mins ago,Vivek Vaibhav Shandilya,0,1,28,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+How to check the availability zone used by a resource on Azure?,36 mins ago,KonTheCat,1,1,10,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+SQL Server Connection issues with Flask Web App,37 mins ago,Sampath,0,0,17,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+Quartz.NET scheduler not working on Azure environment,39 mins ago,Hunzla Ali,0,0,9,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+Custom Remote Function SAP connector in Azure Data Factory for multiple SAP Tables,45 mins ago,Rakesh Govindula,0,1,15,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+"Microsoft.Data.Schema.SqlTasks.targets"" was not found",45 mins ago,Lino,2,0,1k,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+API Manager OAuth server generates wrong audience claim,53 mins ago,Monsieur le Crucudil,0,0,18,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15
+No data shown in Applicaition Insights,1 hour ago,Alex,0,0,13,https://stackoverflow.com/questions/tagged/Azure?tab=active&page=1&pagesize=15

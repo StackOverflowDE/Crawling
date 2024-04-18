@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+terminated with error org.apache.spark.SparkException: Job aborted due to stage failure: ResultStage,31 mins ago,naga babu,0,0,2,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+How to achieve Column mapping just like in ADF in Databricks,47 mins ago,Bhavani,0,1,21,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Run Spark-shell with error :SparkContext: Error initializing SparkContext,1 hour ago,gansior_alexandr,9,2,14k,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Encode an ADT / sealed trait hierarchy into Spark DataSet column,1 hour ago,Chris,14,3,4k,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Python Databricks Dataframe join filtering records unexpectedly,1 hour ago,DileeprajnarayanThumula,0,1,57,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Apache Spark getting janino compiler exception,2 hours ago,Chris,0,0,19,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Apache Spark Installation issues,5 hours ago,M Master,0,0,9,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Read singlestore data from spark using python,5 hours ago,AROY,0,0,9,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Grouping and sorting on spark structured streaming,7 hours ago,thebluephantom,0,1,47,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+A dual write proxy for Cassandra to aid in data migrations,10 hours ago,yukim,0,1,13,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+PySpark withColumn() function doesn't recognize hierarchical structure,17 hours ago,Derek O,1,0,24,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Hive: Dropping partitions not satisfying the condition,17 hours ago,Kiki,0,0,11,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Delete matched rows and then insert all rows (Cancel & Replace technique),21 hours ago,Fares DAOUD,0,0,12,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+Import PySpark packages with a regular Jupyter Notebook,21 hours ago,Meursault,2,4,8k,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15
+How to calculate the correct spark.sql.adaptive.coalescePartitions.initialPartitionNum,22 hours ago,mikelus,0,0,8,https://stackoverflow.com/questions/tagged/apache-spark?tab=active&page=1&pagesize=15

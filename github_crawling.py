@@ -19,7 +19,34 @@ language와 sort_tag를 정보에 맞게 넣어주세요 language = 개발언어
 로그인 상태를 확인해주세요 아이디와 비밀번호를 자신의 비밀번호와 아이디로 넣어주세요
 '''
 
+# url에서 특정키워드는 자동변환이 되지않기 때문에 미리 전처리가 필요
+git_convert = {
+    'C#' : 'c-sharp',
+    'Google Cloud Platform' : 'gcp',
+    'Shell Script' : 'shell',
+    'Amazon Web Services(AWS)' : 'aws',
+    'C++' : 'cpp',
+    'CI/CD' : 'ci',
+    'MVVM(Model-View-ViewModel)' : 'mvvm'
+}
+
+
 def git_crawling(language, sort_tag, your_id, your_password):
+    # url에서 특정키워드는 자동변환이 되지않기 때문에 미리 전처리가 필요
+    git_convert = {
+        'C#' : 'c-sharp',
+        'Google Cloud Platform' : 'gcp',
+        'Shell Script' : 'shell',
+        'Amazon Web Services(AWS)' : 'aws',
+        'C++' : 'cpp',
+        'CI/CD' : 'ci',
+        'MVVM(Model-View-ViewModel)' : 'mvvm'
+    }
+    
+    # language 변수의 값이 sof_convert 딕셔너리의 키에 있는지 확인하고 변경
+    if language in git_convert:
+        language = git_convert[language]
+    
     # assets/img/git/language/sort_tag 폴더가 없으면 생성
     folder_git = os.path.join("assets","img","git", language, sort_tag)
     if not os.path.exists(folder_git):

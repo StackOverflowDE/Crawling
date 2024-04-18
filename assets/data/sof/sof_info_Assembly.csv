@@ -1,0 +1,16 @@
+title,time,writer,votes,answers,views,url
+the variable does not enter the loop,1 hour ago,Lundin,0,0,30,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+Unhandled exception at 0x0056FC80 in Assignment7.exe: 0xC0000005: Access violation executing location 0x0056FC80,1 hour ago,Michael Petch,0,0,12,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+Does rsp stack pointer has any use in returning a value of a function call?,2 hours ago,zmz,0,0,48,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+Bad perfermance of conditionnal instrunctions,5 hours ago,shao nian,0,0,17,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+Debugging a Multicore Kernel Initialization on Raspberry Pi 3B,8 hours ago,Diego A Wearden,1,0,12,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+32-bits musl libraries for Mac OS X 11 x86_64 download problem,12 hours ago,constabIe,-1,0,10,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+Find a target string within a substring and return position,12 hours ago,Erik Eidt,-2,0,21,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+arm cortex-a53 switch from el3 secure to el1 non-secure problem,14 hours ago,Shloime Rosenblum,0,1,33,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+Bad BLX instruction generated when calling asm function from C function (gcc on STM32H753),14 hours ago,halfer,4,2,99,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+buffer does it stay or get popped of the stack,14 hours ago,Frank Yellin,0,1,19,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+why can't load value from a global variable straight to a register?,15 hours ago,Barmar,0,0,69,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+Address size on PlayStation 3/PowerPC,17 hours ago,Seva Alekseyev,1,0,10,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+How exactly do compilers convert AST to assembly instructions,17 hours ago,Erik Eidt,0,1,65,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+"x86 ASM code not printing the desired number output, only prints the messages",17 hours ago,Kai Burghardt,-1,1,36,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+freertos linking problems to a z80 device,20 hours ago,Nani D,0,0,16,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15

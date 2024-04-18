@@ -4,9 +4,30 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 
-language = "개발언어"
-
 def stackoverflow_crawling(language):
+    sof_convert = {
+        'Apache Spark' : 'apache-spark',
+        'Babel' : 'babeljs',
+        'C#' : 'c%23',
+        'ES6' : 'es6-promise',
+        'Google Cloud Platform' : 'google-cloud-platform',
+        'HTML5' : 'html',
+        'Jest' : 'jestjs',
+        'REST API' : 'rest',
+        'React Native' : 'react-native',
+        'Ruby on Rails' : 'ruby-on-rails',
+        'Shell Script' : 'shell',
+        'Spring Boot' : 'spring-boot',
+        'Amazon Web Services(AWS)' : 'amazon-web-services',
+        'C++' : 'c%2b%2b',
+        'CI/CD' : 'cicd',
+        'MVVM(Model-View-ViewModel)' : 'mvvm'
+    }
+    
+    # language 변수의 값이 sof_convert 딕셔너리의 키에 있는지 확인하고 변경
+    if language in sof_convert:
+        language = sof_convert[language]
+    
     # assets/img/git/language 폴더가 없으면 생성
     folder_sof = os.path.join("assets","img","sof", language)
     if not os.path.exists(folder_sof):
@@ -37,6 +58,9 @@ def stackoverflow_crawling(language):
             question_time = driver.find_element(By.XPATH, '//*[@id="{}"]/div[2]/div[2]/div[2]/time/a/span'.format(id_list[i-1]))
             question_writer = driver.find_element(By.XPATH, '//*[@id="{}"]/div[2]/div[2]/div[2]/div/div/a'.format(id_list[i-1]))
             question_img = driver.find_element(By.XPATH, '//*[@id="{}"]/div[2]/div[2]/div[2]/a/div/img'.format(id_list[i-1]))
+            question_votes = driver.find_element(By.XPATH, '//*[@id="{}"]/div[1]/div[1]/span[1]'.format(id_list[i-1]))
+            question_answers = driver.find_element(By.XPATH, '//*[@id="{}"]/div[1]/div[2]/span[1]'.format(id_list[i-1]))
+            question_views = driver.find_element(By.XPATH, '//*[@id="{}"]/div[1]/div[3]/span[1]'.format(id_list[i-1]))
             
             # 이미지 소스 URL 가져오기
             img_src = question_img.get_attribute("src")
@@ -54,6 +78,10 @@ def stackoverflow_crawling(language):
                 "title" : question_title.text,
                 "time" : question_time.text,
                 "writer" : question_writer.text,
+                "votes" : question_votes.text,
+                "answers" : question_answers.text,
+                "views" : question_views.text,
+                "url" : driver.current_url,
             }
             sof_data.append(sof_elem)
             i+=1
@@ -68,7 +96,7 @@ def stackoverflow_crawling(language):
 
     # CSV 파일로 저장
     with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=["title", "time", "writer"])
+        writer = csv.DictWriter(csv_file, fieldnames=["title", "time", "writer","votes","answers","views","url"])
         writer.writeheader()
         for elem in sof_data:
             writer.writerow(elem)
