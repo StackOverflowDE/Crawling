@@ -4,7 +4,12 @@
 4. Github에서 키워드를 검색하여 얻은 결과 중 인기 있는 repository의 제목, 최근 commit 시간, repository의 작성자의 아이콘, forks 수, stars 수를 크롤링한다.
 5. Stackoverflow에서 키워드를 검색하여 얻은 결과 중 질문의 title, 질문 날짜, 작성자 id, 아이콘을 크롤링한다. 
 6. 최종 크롤링한 데이터를 csv 파일 형태로 저장한다.
-   
+
+**활용 기술 및 프레임워크 - 크롤링**
+![image](https://github.com/StackOverflowDE/Crawling/assets/132499783/0a9733b0-ffa2-416c-afab-70fb4ed4bd28)
+![image](https://github.com/StackOverflowDE/Crawling/assets/132499783/742906dc-3632-4d95-b8d3-6b43434f3e2c)
+![image](https://github.com/StackOverflowDE/Crawling/assets/132499783/bed2ac8e-d0fb-4417-8924-1f047673ffed)
+
 내가 관심있는 개발 직군의 언어 및 기술스택의 랭킹, github의 repo와 StackOverFlow의 질문의 종류를 시각화해서 표현
 
 프로그래머스 [﻿https://career.programmers.co.kr/job?page=1&order=recent&job_category_ids={}](https://career.programmers.co.kr/job?page=1&order=recent&job_category_ids={})
