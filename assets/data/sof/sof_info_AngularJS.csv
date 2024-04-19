@@ -1,16 +1,16 @@
-title,time,writer,votes,answers,views,url
-Add Sort in Angular with FormArray,1 hour ago,Naren Murali,1,1,30,https://stackoverflow.com/questions/78351156/add-sort-in-angular-with-formarray
-Angular Material DateTimepicker,10 hours ago,Community,0,1,9k,https://stackoverflow.com/questions/35402430/angular-material-datetimepicker
-"Error: EACCES: permission denied, open 'package.json' when building my node app with Docker",15 hours ago,LilRose,0,0,22,https://stackoverflow.com/questions/78341572/error-eacces-permission-denied-open-package-json-when-building-my-node-app
-Prime ng table angular project is not starting,15 hours ago,Bilal Dekar,0,0,23,https://stackoverflow.com/questions/78309973/prime-ng-table-angular-project-is-not-starting
-Ensure that the NO JavaScript is placed in the textbox field [closed],16 hours ago,Sid,-4,0,42,https://stackoverflow.com/questions/78334568/ensure-that-the-no-javascript-is-placed-in-the-textbox-field
-Ionic angular adyen integration,17 hours ago,abhinav P,0,0,15,https://stackoverflow.com/questions/78347963/ionic-angular-adyen-integration
-angularjs calling modal dialog from directive,18 hours ago,Community,0,3,10k,https://stackoverflow.com/questions/16033554/angularjs-calling-modal-dialog-from-directive
-"AngularJS, show array value according to another array current position",20 hours ago,zhoutao,0,3,18,https://stackoverflow.com/questions/78345732/angularjs-show-array-value-according-to-another-array-current-position
-can we use the spread operator for merging the array? [closed],22 hours ago,Vinay Surya,0,3,53,https://stackoverflow.com/questions/78333519/can-we-use-the-spread-operator-for-merging-the-array
-How to search with pdf.js?,yesterday,fabienbranchel,21,3,51k,https://stackoverflow.com/questions/35501417/how-to-search-with-pdf-js
-Expandable and collapsable rows in AngularJS,yesterday,N.F.,0,0,17,https://stackoverflow.com/questions/78343581/expandable-and-collapsable-rows-in-angularjs
-Laravel 5.1 DB::table chunk for a Restful API and Angular.JS,yesterday,mickmackusa,1,0,316,https://stackoverflow.com/questions/41319131/laravel-5-1-dbtable-chunk-for-a-restful-api-and-angular-js
-cordova-plugin-barcodescanner crashing after scan on Android,yesterday,A42 Labs,0,0,6,https://stackoverflow.com/questions/78344135/cordova-plugin-barcodescanner-crashing-after-scan-on-android
-"I am trying to use mat-chip-row, mat-chip-grid and they don't seem to be recognized even if I imported the module MatChipsModule",yesterday,jsotola,0,0,8,https://stackoverflow.com/questions/78343717/i-am-trying-to-use-mat-chip-row-mat-chip-grid-and-they-dont-seem-to-be-recogni
-AngularJS Navigation does not work after Tinymce directive,yesterday,halfer,4,1,3k,https://stackoverflow.com/questions/11390709/angularjs-navigation-does-not-work-after-tinymce-directive
+title,time,writer,votes,answers,views,url,img
+How to get angular/google-map reference in component the right way,48 mins ago,Naren Murali,1,1,27,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/ea9d589e5f03856ee87f615ab80dda72?s=32&d=identicon&r=PG&f=y&so-version=2
+Add Sort in Angular with FormArray,4 hours ago,Naren Murali,1,1,39,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/ea9d589e5f03856ee87f615ab80dda72?s=32&d=identicon&r=PG&f=y&so-version=2
+Angular Material DateTimepicker,13 hours ago,Community,0,1,9k,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG
+"Error: EACCES: permission denied, open 'package.json' when building my node app with Docker",18 hours ago,LilRose,0,0,22,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/rYxtT.jpg?s=32&g=1
+Prime ng table angular project is not starting,18 hours ago,Bilal Dekar,0,0,23,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/DzC1Q.png?s=32&g=1
+Ensure that the NO JavaScript is placed in the textbox field [closed],18 hours ago,Sid,-4,0,43,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/Zne4L.png?s=32&g=1
+Ionic angular adyen integration,19 hours ago,abhinav P,0,0,16,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://lh3.googleusercontent.com/a/ALm5wu0BttJUs5Hm9XckATMfw_ewTXlNo6pgft8xgli-=k-s32
+angularjs calling modal dialog from directive,21 hours ago,Community,0,3,10k,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/a007be5a61f6aa8f3e85ae2fc18dd66e?s=32&d=identicon&r=PG
+"AngularJS, show array value according to another array current position",23 hours ago,zhoutao,0,3,20,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/5Vl9X.jpg?s=32&g=1
+can we use the spread operator for merging the array? [closed],yesterday,Vinay Surya,0,3,54,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/e4639a89732eb6d84fcae96d4321e24f?s=32&d=identicon&r=PG&f=y&so-version=2
+How to search with pdf.js?,yesterday,fabienbranchel,21,3,51k,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/iDRm0.jpg?s=32&g=1
+Expandable and collapsable rows in AngularJS,yesterday,N.F.,0,0,17,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/b87d1be930ce7d354eac8e556370bfc1?s=32&d=identicon&r=PG&f=y&so-version=2
+Laravel 5.1 DB::table chunk for a Restful API and Angular.JS,yesterday,mickmackusa,1,0,316,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/1nKmA.jpg?s=32&g=1
+cordova-plugin-barcodescanner crashing after scan on Android,yesterday,A42 Labs,0,0,7,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/e81e6eb38c0c3fa48ab515680105cd56?s=32&d=identicon&r=PG
+"I am trying to use mat-chip-row, mat-chip-grid and they don't seem to be recognized even if I imported the module MatChipsModule",yesterday,jsotola,0,0,8,https://stackoverflow.com/questions/tagged/AngularJS?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/ddeb4fce09f4a655c86bd42177514918?s=32&d=identicon&r=PG&f=y&so-version=2

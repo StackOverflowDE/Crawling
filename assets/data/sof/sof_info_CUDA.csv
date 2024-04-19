@@ -1,16 +1,16 @@
-title,time,writer,votes,answers,views,url
-Is there a way to access value of constant memory bank in CUDA,10 hours ago,atomicapple0,1,2,518,https://stackoverflow.com/questions/66910701/is-there-a-way-to-access-value-of-constant-memory-bank-in-cuda
-"Solution of sparse linear system on GPU, paper from nvidia",10 hours ago,paleonix,0,1,215,https://stackoverflow.com/questions/74541713/solution-of-sparse-linear-system-on-gpu-paper-from-nvidia
-Can not find thrust/universal_vector.h in the Thrust library which is included in the CUDA Toolkit,21 hours ago,paleonix,0,1,55,https://stackoverflow.com/questions/78290289/can-not-find-thrust-universal-vector-h-in-the-thrust-library-which-is-included-i
-nvcc - add flags to a specific file using cmake,22 hours ago,Amit,0,2,69,https://stackoverflow.com/questions/78333946/nvcc-add-flags-to-a-specific-file-using-cmake
-Handle arbitrary sized inputs for scan kernel,yesterday,Jimenemex,0,0,40,https://stackoverflow.com/questions/78344919/handle-arbitrary-sized-inputs-for-scan-kernel
-CUDA_HOME error even though CUDA_HOME is set,yesterday,Polarimetric,-1,1,24,https://stackoverflow.com/questions/78344528/cuda-home-error-even-though-cuda-home-is-set
-Facing problems setting cuda,yesterday,talonmies,-2,0,37,https://stackoverflow.com/questions/78341773/facing-problems-setting-cuda
-Is CUDA 12.x inherently incompatible with Qt 6.x?,yesterday,Ðаո,-2,0,37,https://stackoverflow.com/questions/78343240/is-cuda-12-x-inherently-incompatible-with-qt-6-x
-How can I specify flags for CMAKE_<LANG>_HOST_COMPILER?,yesterday,einpoklum,3,1,56,https://stackoverflow.com/questions/78323237/how-can-i-specify-flags-for-cmake-lang-host-compiler
-Spack installation of NVSHMEM failing due to cannot find -lcuda,yesterday,paleonix,0,0,22,https://stackoverflow.com/questions/78340946/spack-installation-of-nvshmem-failing-due-to-cannot-find-lcuda
-CMake: pass list of compiler flags through NVCC,yesterday,Amit,6,3,3k,https://stackoverflow.com/questions/59425220/cmake-pass-list-of-compiler-flags-through-nvcc
-GPU ID nomenclature in PyTorch and TensorFlow,yesterday,paleonix,0,1,12,https://stackoverflow.com/questions/78340041/gpu-id-nomenclature-in-pytorch-and-tensorflow
-"""cudaMemcpyAsync"" invokes cudaError_t : ""invalid argument"" (C++) [closed]",yesterday,Viole,-5,0,47,https://stackoverflow.com/questions/78335968/cudamemcpyasync-invokes-cudaerror-t-invalid-argument-c
-Analyzing CUDA Matrix Multiplication Efficiency with Nsight Compute: Investigating L2 to Global Write Back Discrepancies [closed],yesterday,paleonix,-3,0,35,https://stackoverflow.com/questions/78338519/analyzing-cuda-matrix-multiplication-efficiency-with-nsight-compute-investigati
-cuda::std::complex in Eigen::Matrix causing error,2 days ago,Michael Blazej,-2,1,85,https://stackoverflow.com/questions/78325617/cudastdcomplex-in-eigenmatrix-causing-error
+title,time,writer,votes,answers,views,url,img
+"Identifier ""BLOCK_LOAD_TRANSPOSE"" in CUB is undefined",24 mins ago,Zhixiong Xiao,0,0,6,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://lh3.googleusercontent.com/a-/AOh14GhwWDxtOPe25Et6hy8Tj-8RR1CnbZY4YNxyp3wt=k-s32
+CUDA Using shared memory for a Hadamard Product,37 mins ago,bsaoptima,0,0,6,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/35e48718cdb0f9300ed4874fd69e972f?s=32&d=identicon&r=PG&f=y&so-version=2
+Programmatic nested numba.cuda function calls,41 mins ago,Simon,2,2,1k,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/f8fd21c331438589ddf4704120b70dfe?s=32&d=identicon&r=PG&f=y&so-version=2
+In 2024: Could not locate cudnn_ops_infer64_8.dll. Please make sure it is in your library path,1 hour ago,THEMOUNTAINSANDTHESKIES,0,0,9,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/BMiu9.jpg?s=32&g=1
+TensorFlow not detecting GPU even though CUDA toolkit is installed,2 hours ago,Sagnik Taraphdar,0,0,13,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://lh3.googleusercontent.com/a/ACg8ocLzlYSRK_HRHCbIy63u6ggHcVln4pMAyrs8hdWa15mS=k-s32
+Is there a way to access value of constant memory bank in CUDA,13 hours ago,atomicapple0,1,2,519,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/DyeDL.png?s=32&g=1
+"Solution of sparse linear system on GPU, paper from nvidia",13 hours ago,paleonix,0,1,217,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/InW88.jpg?s=32&g=1
+Can not find thrust/universal_vector.h in the Thrust library which is included in the CUDA Toolkit,yesterday,paleonix,0,1,55,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/InW88.jpg?s=32&g=1
+nvcc - add flags to a specific file using cmake,yesterday,Amit,0,2,69,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/0e2c544d2f37672237b170ad49e43eca?s=32&d=identicon&r=PG
+Handle arbitrary sized inputs for scan kernel,yesterday,Jimenemex,0,0,40,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/hO0vR.png?s=32&g=1
+CUDA_HOME error even though CUDA_HOME is set,yesterday,Polarimetric,-1,1,24,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/7ec02a7bbb7881ab2dc52f6dd5cb3cc8?s=32&d=identicon&r=PG
+Facing problems setting cuda,yesterday,talonmies,-2,0,37,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/ba0b25d7bbae629c5df35959473a5410?s=32&d=identicon&r=PG&f=y&so-version=2
+Is CUDA 12.x inherently incompatible with Qt 6.x?,yesterday,Ðаո,-2,0,37,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/ZfOB5.png?s=32&g=1
+How can I specify flags for CMAKE_<LANG>_HOST_COMPILER?,yesterday,einpoklum,3,1,56,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://www.gravatar.com/avatar/10c44e0d9568e48d05708ae196ad936f?s=32&d=identicon&r=PG
+Spack installation of NVSHMEM failing due to cannot find -lcuda,yesterday,paleonix,0,0,23,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15,https://i.stack.imgur.com/InW88.jpg?s=32&g=1
