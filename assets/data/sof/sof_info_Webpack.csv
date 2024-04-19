@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Webpack error when trying to import supabase client,56 mins ago,Jesús Parra,0,0,12,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-"When I deploy a new build, the changes are not reflected because the browser caches the build files [closed]",2 hours ago,Ethm,-4,1,35,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-getting digital envelope error when I try to run React18 app,3 hours ago,Ana S.,0,1,36,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-Webpack over CDN import to vue js The requested module 'url' does not provide an export named 'default',3 hours ago,Sabri Mahmoud,0,1,12,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-"Error message ""error:0308010C:digital envelope routines::unsupported""",7 hours ago,shuhat36,2220,67,2.8m,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-How to use Paged.js in Vue.js2?,9 hours ago,softobiz Technologies,0,0,7,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-Excel SSO Add-In Pane not starting,18 hours ago,Tom Kurian,0,0,8,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-Webpack 5 Error - Attempts to Load Default Entrypoint Despite Custom Config w/ Custom Entry Value,19 hours ago,Nathan House,0,1,17,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-Webpack dev server includes runtime modules into entry bundle,21 hours ago,Slava Ivanov,0,0,14,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-React-router link does not work when refreshing or typing manually,yesterday,Awantha Irushan,0,1,34,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-How to prevent React app build from being cached?,yesterday,Dharman,0,0,458,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-How can I use a react client sub-component inside a React Server Component?,yesterday,xec,2,2,597,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-Webpack Equivalent for Vite's Explicit URL Import?,yesterday,Tzach,0,0,7,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-NodeJs build with webpack: Cannot use keyword 'await' outside an async function,yesterday,Ngọc Nguyễn,0,0,10,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
-I am getting error while angular version updating (./src/main.ts - Error: Module build failed),yesterday,Srujan Rajpura,0,0,19,https://stackoverflow.com/questions/tagged/Webpack?tab=active&page=1&pagesize=15
+"When I deploy a new build, the changes are not reflected because the browser caches the build files [closed]",10 mins ago,Ethm,-4,1,43,https://stackoverflow.com/questions/78341349/when-i-deploy-a-new-build-the-changes-are-not-reflected-because-the-browser-cac
+How to use Paged.js in Vue.js2?,18 mins ago,Deepak Walia,0,0,10,https://stackoverflow.com/questions/78345095/how-to-use-paged-js-in-vue-js2
+React-router link does not work when refreshing or typing manually,25 mins ago,Awantha Irushan,0,2,39,https://stackoverflow.com/questions/78340428/react-router-link-does-not-work-when-refreshing-or-typing-manually
+Transform Decorator (@transform) not working using web-pack in NestJs,26 mins ago,Kashin Gupta,0,0,5,https://stackoverflow.com/questions/78351866/transform-decorator-transform-not-working-using-web-pack-in-nestjs
+Error: Cannot find module Next.js 14 when module exists,1 hour ago,Hef,0,0,7,https://stackoverflow.com/questions/78351666/error-cannot-find-module-next-js-14-when-module-exists
+Webpack error when trying to import supabase client,5 hours ago,Kevin Lu-MSFT,0,1,31,https://stackoverflow.com/questions/78347954/webpack-error-when-trying-to-import-supabase-client
+Module not found: Error: Cannot resolve module 'semantic-ui-css',12 hours ago,Dhaval Patel,8,4,16k,https://stackoverflow.com/questions/39355301/module-not-found-error-cannot-resolve-module-semantic-ui-css
+Error Library web3 and Webpack in react and angular,14 hours ago,Community,4,1,9k,https://stackoverflow.com/questions/70382479/error-library-web3-and-webpack-in-react-and-angular
+WebPack - TypeError: __webpack_modules__[moduleId] is not a function (development) // Error: Invalid hook call (production),14 hours ago,sathira lamal,12,1,8k,https://stackoverflow.com/questions/68995655/webpack-typeerror-webpack-modules-moduleid-is-not-a-function-developmen
+getting digital envelope error when I try to run React18 app,20 hours ago,Ana S.,0,1,37,https://stackoverflow.com/questions/77568571/getting-digital-envelope-error-when-i-try-to-run-react18-app
+Webpack over CDN import to vue js The requested module 'url' does not provide an export named 'default',20 hours ago,Sabri Mahmoud,0,1,14,https://stackoverflow.com/questions/78346429/webpack-over-cdn-import-to-vue-js-the-requested-module-url-does-not-provide-an
+"Error message ""error:0308010C:digital envelope routines::unsupported""",yesterday,shuhat36,2223,67,2.8m,https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported
+Excel SSO Add-In Pane not starting,yesterday,Tom Kurian,0,0,8,https://stackoverflow.com/questions/78343538/excel-sso-add-in-pane-not-starting
+Webpack 5 Error - Attempts to Load Default Entrypoint Despite Custom Config w/ Custom Entry Value,yesterday,Nathan House,0,1,17,https://stackoverflow.com/questions/78342363/webpack-5-error-attempts-to-load-default-entrypoint-despite-custom-config-w-c
+Webpack dev server includes runtime modules into entry bundle,yesterday,Slava Ivanov,0,0,19,https://stackoverflow.com/questions/78342787/webpack-dev-server-includes-runtime-modules-into-entry-bundle

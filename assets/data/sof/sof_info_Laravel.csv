@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-What's the best way to upload large files to S3 Buckets,11 secs ago,smac2020,0,1,16,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-Why custom multiselection element is not available after I selected item?,3 mins ago,Petro Gromovo,0,0,6,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-Can laravel lighthouse package connect with Fauna database?,5 mins ago,ptpaterson,0,1,43,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-Headers in JSON response,24 mins ago,Alex Angelico,0,2,287,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-"Why using ""with"" and ""firstOrFail"" methods in one request raised error on not found data?",25 mins ago,Petro Gromovo,0,0,51,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-i am working with tabulator remote pagination in laravel wonder to know how it will work on initial page?,27 mins ago,Abdul Wahab,0,0,5,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-Laravel 10 API bearer tokens for all users?,36 mins ago,Shaho,1,0,19,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-Creating dependent dropdown for coustumers and their contacts using Laravel and Ajax,44 mins ago,h_osmar,-1,0,16,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-vue.js and laravel scorm integration,1 hour ago,Brian J. Miller,0,1,7,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-Laravel-reverb : cURL error 56: Received HTTP code 503 from proxy after CONNECT,1 hour ago,David Auvray,0,0,10,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-React Js With Laravel API Sanctum User Register 419 Error,1 hour ago,Devon Ray,0,1,18,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-How to Ensure HTML Email Rendering with sendRawEmail in PHP,1 hour ago,Rohan W3Dev,0,0,22,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-"Laravel: Store query results in variable, then be able to query again using that variable",1 hour ago,OMR,0,1,21,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-Issue with number formatting in Laravel controller,2 hours ago,Makdia Hussain,0,3,55,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
-Is there any way to validate a foreign key using Laravel's Validation syntax?,2 hours ago,HabteSoft,36,5,29k,https://stackoverflow.com/questions/tagged/Laravel?tab=active&page=1&pagesize=15
+"date_default_timezone_set(): Timezone ID '' is invalid, when I run command php artisan optimize",35 mins ago,Razi Lotus,0,0,4,https://stackoverflow.com/questions/78351736/date-default-timezone-set-timezone-id-is-invalid-when-i-run-command-php-a
+Form validation by JavaScript in Laravel 10.x won't work,57 mins ago,Andrew_1979,0,3,31,https://stackoverflow.com/questions/78348296/form-validation-by-javascript-in-laravel-10-x-wont-work
+Laravel Octane with Swoole HTTPS configuration apache vhost proxy error,1 hour ago,Luffy,0,1,13,https://stackoverflow.com/questions/78328702/laravel-octane-with-swoole-https-configuration-apache-vhost-proxy-error
+GET method not supported error in laravel package breeze,1 hour ago,artrz,0,1,24,https://stackoverflow.com/questions/78348274/get-method-not-supported-error-in-laravel-package-breeze
+Laravel 10 with reverb connection failed,1 hour ago,Irfan Ahmad,2,0,280,https://stackoverflow.com/questions/78279870/laravel-10-with-reverb-connection-failed
+Laravel 10 JWT authentication - Unable to generate token,1 hour ago,VLAZ,0,0,22,https://stackoverflow.com/questions/78351018/laravel-10-jwt-authentication-unable-to-generate-token
+Why custom multiselection element is not available after I selected item?,2 hours ago,TUPKAP,0,1,25,https://stackoverflow.com/questions/78348013/why-custom-multiselection-element-is-not-available-after-i-selected-item
+Call to API Endpoint Successful but DevTools Showing 500 Error,2 hours ago,dejsdukes,-2,0,82,https://stackoverflow.com/questions/78325662/call-to-api-endpoint-successful-but-devtools-showing-500-error
+Alternative methods for testing Laravel job dispatching in unit tests,3 hours ago,Niku Nitin,0,0,15,https://stackoverflow.com/questions/78349781/alternative-methods-for-testing-laravel-job-dispatching-in-unit-tests
+Issue with number formatting in Laravel controller,3 hours ago,Makdia Hussain,1,2,66,https://stackoverflow.com/questions/78344009/issue-with-number-formatting-in-laravel-controller
+How to customize default pagination in laravel 8?,5 hours ago,Inan,3,2,13k,https://stackoverflow.com/questions/67839557/how-to-customize-default-pagination-in-laravel-8
+Laravel Curl error: operation aborted by callback,5 hours ago,Pendok Laravel,0,1,30,https://stackoverflow.com/questions/78350603/laravel-curl-error-operation-aborted-by-callback
+Debugging Laravel jobs,6 hours ago,Nafis Chonchol,32,6,41k,https://stackoverflow.com/questions/49832281/debugging-laravel-jobs
+Send Livewire data from component to JS library,6 hours ago,dfeva,0,0,20,https://stackoverflow.com/questions/78350422/send-livewire-data-from-component-to-js-library
+How to get HTTP status answer from GuzzleHttp response by php Laravel? [duplicate],7 hours ago,miken32,4,4,6k,https://stackoverflow.com/questions/55900958/how-to-get-http-status-answer-from-guzzlehttp-response-by-php-laravel

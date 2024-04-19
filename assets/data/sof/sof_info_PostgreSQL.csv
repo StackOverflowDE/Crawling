@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-PostgreSQL: Error using pg_read_binary_file: No such file or directory,6 mins ago,DanTe,2,1,781,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-Debezium with Postgresql RDS stuck at Creating replication slot with command CREATE_REPLICATION_SLOT,8 mins ago,Kanstantsin T.,0,0,15,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-Postgres16 logical replication lag,59 mins ago,narendra nath,-1,0,47,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-Difference between jsonb type cast and to_jsonb in postgresql,1 hour ago,Zegarek,2,2,22,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-How to Achieve SQL Table Interactivity Similar to PyCharm in VS Code? (postgres) [closed],1 hour ago,Abal8,0,0,12,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-How to Use the appropriate API provided by Amadeus to fetch the details of the booked ticket,1 hour ago,Aslbek Abdullayev,-3,0,9,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-How to Implement Dynamic Database Connection in PHP MVC Refactor,1 hour ago,el_jefe213,0,0,20,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-PostgreSQL combining output,1 hour ago,Zegarek,1,1,25,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-"I was send 2 .sql file one is for authorization and one has the database information, how can i import this into PostgresSQL?",2 hours ago,Istiak Ahmed Khan,0,0,9,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-How to show rows that has null value,2 hours ago,Zegarek,1,1,20,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-"Postgresql query takes 9 minutes to execute, how can we reduce time to 60 seconds?",2 hours ago,O. Jones,0,0,45,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-Adding tuple rows to each subtuple group in sql,3 hours ago,Zegarek,1,1,34,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-Relational DB in microservices,3 hours ago,tom redfern,6,2,6k,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-Highlight search terms on a Django/PostgreSQL search results page,3 hours ago,François Zaninotto,10,4,3k,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
-How to get Row values as columns like PIVOT in postgresql,3 hours ago,Zegarek,1,1,13,https://stackoverflow.com/questions/tagged/PostgreSQL?tab=active&page=1&pagesize=15
+Postgres: Trigger on FOREIGN TABLE,20 mins ago,Mark B,10,2,5k,https://stackoverflow.com/questions/56465617/postgres-trigger-on-foreign-table
+Azure Postgresql Felxible server: pg_dump aborting because of server version mismatch,40 mins ago,Bilal,0,0,5,https://stackoverflow.com/questions/78351733/azure-postgresql-felxible-server-pg-dump-aborting-because-of-server-version-mis
+What is the correct way of obtaining LWLocks in postgres?,1 hour ago,SriKeerthi Revuru,0,0,6,https://stackoverflow.com/questions/78351619/what-is-the-correct-way-of-obtaining-lwlocks-in-postgres
+"syntax error at or near ""-"" in PostgreSQL",1 hour ago,Sameer,43,5,291k,https://stackoverflow.com/questions/18656545/syntax-error-at-or-near-in-postgresql
+What is the meaning of precision and scale in numeric data types in Postgres?,1 hour ago,Finlay Weber,-3,0,16,https://stackoverflow.com/questions/78351556/what-is-the-meaning-of-precision-and-scale-in-numeric-data-types-in-postgres
+Query json column by date in postgres,1 hour ago,hafis,2,1,22,https://stackoverflow.com/questions/78351346/query-json-column-by-date-in-postgres
+Does keycloak exposes any REST API for passwordless web authentication during user register,1 hour ago,VLAZ,0,0,5,https://stackoverflow.com/questions/78351421/does-keycloak-exposes-any-rest-api-for-passwordless-web-authentication-during-us
+Trouble connecting pgadmin AWS-RDS,2 hours ago,Anthony Sotolongo,4,2,4k,https://stackoverflow.com/questions/64393805/trouble-connecting-pgadmin-aws-rds
+Avoid insert 'null' values to database table via JPA,2 hours ago,Jagadeesh D,33,12,54k,https://stackoverflow.com/questions/4508622/avoid-insert-null-values-to-database-table-via-jpa
+How to perform multiple operations on a JSON column based on differents conditions in postgreSQL?,2 hours ago,usman khan,0,1,19,https://stackoverflow.com/questions/78350217/how-to-perform-multiple-operations-on-a-json-column-based-on-differents-conditio
+How can I learn how the innards of relational databases work? [closed],4 hours ago,andrewH,0,0,17,https://stackoverflow.com/questions/78351158/how-can-i-learn-how-the-innards-of-relational-databases-work
+Insert JSON object into JSON array column,6 hours ago,Chris McGlynn,0,1,26,https://stackoverflow.com/questions/78348627/insert-json-object-into-json-array-column
+#citus Coordinator node setup and worker node setup are not working,6 hours ago,Ja L,0,0,5,https://stackoverflow.com/questions/78350836/citus-coordinator-node-setup-and-worker-node-setup-are-not-working
+json field not mapped correctly with custom projection,7 hours ago,outdev,2,2,72,https://stackoverflow.com/questions/78310830/json-field-not-mapped-correctly-with-custom-projection
+psycopg2 insert python dictionary as json,9 hours ago,V.Xavier,65,8,97k,https://stackoverflow.com/questions/31796332/psycopg2-insert-python-dictionary-as-json

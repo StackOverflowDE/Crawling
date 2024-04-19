@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Why didn't back quotes in a shell script help me cd to a directory,28 mins ago,Jonathan Leffler,5,2,2k,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-Write shell command to find long if statements within a directory of php files,2 hours ago,Ed Morton,-1,1,33,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-How to specify multiple jvm arguments when building a docker image with jib?,3 hours ago,Antonio Petricca,0,1,12,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-Is there a way to restart all running pods in a OpenShift cluster through the CLI?,6 hours ago,Someone,0,0,12,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-Why does `date -d 'x years ago'` only work for some values for x?,6 hours ago,unhammer,3,0,78,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-"In a shell script, how to suspend and resume FTP session without losing connection? [closed]",9 hours ago,Martin Prikryl,0,2,432,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-insert the contents of a file to another (in a specific line of the file that is sent)-BASH/LINUX,9 hours ago,combinatorist,20,5,24k,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-vCenter 7 script to edit/delete VM,10 hours ago,Jose Fernando Gomez Davila,0,0,7,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-Connect to sqlplus in a shell script and run SQL scripts,15 hours ago,Kevin E,40,6,330k,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-Shell string escaping over SSH behaves differently on different servers,16 hours ago,larsks,0,1,37,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-Text file to csv script,16 hours ago,Ed Morton,0,4,73,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-Unable to run shell script from AzureDevops pipeline,17 hours ago,Community,0,1,9k,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-Removed Python2.7 executable and now I can't uninstall it,18 hours ago,Valeria Aceituno Salinas,0,0,23,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-How to create symbolic link for each line of a list of files? [closed],19 hours ago,yumoku,-1,0,31,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
-How to count differences between two files on linux?,19 hours ago,bernard paulus,57,8,76k,https://stackoverflow.com/questions/tagged/shell?tab=active&page=1&pagesize=15
+Deleting all the files in a directory that end with a particular string pattern in Ansible,38 secs ago,U880D,0,0,10,https://stackoverflow.com/questions/78351834/deleting-all-the-files-in-a-directory-that-end-with-a-particular-string-pattern
+How to assign values to variables while executing commands as another user in bash [duplicate],22 mins ago,tripleee,0,0,27,https://stackoverflow.com/questions/78348942/how-to-assign-values-to-variables-while-executing-commands-as-another-user-in-ba
+Sending a mail from a linux shell script,1 hour ago,Jonathan L,141,12,499k,https://stackoverflow.com/questions/5155923/sending-a-mail-from-a-linux-shell-script
+Dynamically include specific directories and exclude others in Bash select,3 hours ago,John Kugelman,1,2,30,https://stackoverflow.com/questions/78351058/dynamically-include-specific-directories-and-exclude-others-in-bash-select
+vCenter 7 script to edit/delete VM,7 hours ago,Jose Fernando Gomez Davila,0,0,14,https://stackoverflow.com/questions/78344853/vcenter-7-script-to-edit-delete-vm
+Is it possible to pipe a file into heredoc in bash?,7 hours ago,Barmar,0,1,29,https://stackoverflow.com/questions/78350497/is-it-possible-to-pipe-a-file-into-heredoc-in-bash
+How to connect google cloud shell to termux app using ssh?,7 hours ago,Muhammad Saad,0,1,2k,https://stackoverflow.com/questions/61839494/how-to-connect-google-cloud-shell-to-termux-app-using-ssh
+How to set path to kubectl when installed using gcloud components install?,10 hours ago,Daniel Serodio,15,4,11k,https://stackoverflow.com/questions/51429553/how-to-set-path-to-kubectl-when-installed-using-gcloud-components-install
+why does `watch` skip every other line when --no-wrap in enabled and all the lines are short,10 hours ago,yvs2014,2,1,41,https://stackoverflow.com/questions/78349529/why-does-watch-skip-every-other-line-when-no-wrap-in-enabled-and-all-the-lin
+Remove Directories after Loop,11 hours ago,ThePix,0,0,26,https://stackoverflow.com/questions/78339775/remove-directories-after-loop
+CONTROL DE ERRORES DE MONGOEXPORT shell [closed],11 hours ago,Deyvids Valverde,-3,0,14,https://stackoverflow.com/questions/78349976/control-de-errores-de-mongoexport-shell
+How can I repeat a character in Bash?,13 hours ago,Pila,347,42,250k,https://stackoverflow.com/questions/5349718/how-can-i-repeat-a-character-in-bash
+"Stopping the pop-up message ""Value Path exists, overwrite(Yes/No)?",14 hours ago,user24471638,0,0,17,https://stackoverflow.com/questions/78348719/stopping-the-pop-up-message-value-path-exists-overwriteyes-no
+Changing python virtual environment when calling a script from a python program,14 hours ago,Psionman,0,0,7,https://stackoverflow.com/questions/78349183/changing-python-virtual-environment-when-calling-a-script-from-a-python-program
+Why didn't back quotes in a shell script help me cd to a directory,17 hours ago,Jonathan Leffler,5,2,2k,https://stackoverflow.com/questions/12033046/why-didnt-back-quotes-in-a-shell-script-help-me-cd-to-a-directory

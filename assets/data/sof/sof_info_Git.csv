@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-How to get non-zero exit code from git diff --no-index only on errors?,43 secs ago,Guildenstern,1,0,5,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-Fixing error: HEAD: invalid reflog entry SHAID1,57 mins ago,Tryer,1,0,30,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-Rewrite local changes in git,1 hour ago,matt,-1,1,29,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-Force git to ignore or truncate large files when pushing to remote,1 hour ago,Ludo,1,1,43,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-If there is a way to get commit log information online with out clone the whole repository?,1 hour ago,Απόστολος Μουτιάκας,0,1,28,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-How can I remove/delete a large file from the commit history in the Git repository?,1 hour ago,Sámal Rasmussen,1107,24,467k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-Is it possible to implement repo based hooks in Gitolite?,2 hours ago,Andy J,3,2,532,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-git permission denied error in airflow dag when access git in subprocess or bashoperator,2 hours ago,Ashwin Hegde,1,1,31,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-Git feature branch rebasing from local configuration branch,2 hours ago,oweydd,0,0,12,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-How do I stash only one file out of multiple files that have changed?,2 hours ago,Martin Peter,3766,33,1.2m,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-git forward merging a couple of commits only,3 hours ago,Romain Valeri,0,2,40,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-"Fail to git clone, push, pull with ssh, raise kex_exchange_identification error",3 hours ago,Ghulam Akbar,3,1,2k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-Jenkins: how do I prevent a build when certain commits made to a git repo?,4 hours ago,coz,0,2,2k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-Should I commit .lock file changes separately? What should I write for the commit message?,4 hours ago,J_Zar,46,5,22k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
-Getting a timeout pushing a repository to local GitLab,4 hours ago,Omri Sarig,2,2,3k,https://stackoverflow.com/questions/tagged/Git?tab=active&page=1&pagesize=15
+"In git, what are some good conventions to format multiple comments to a single commit",45 mins ago,tom,5,4,2k,https://stackoverflow.com/questions/1512177/in-git-what-are-some-good-conventions-to-format-multiple-comments-to-a-single-c
+Source Tree - fatal: pathspec is beyond a symbolic link,2 hours ago,jerfin,0,0,8,https://stackoverflow.com/questions/78351318/source-tree-fatal-pathspec-is-beyond-a-symbolic-link
+Trying to sign commits on git using gpg on WSL but does not work,3 hours ago,michel-slm,23,4,16k,https://stackoverflow.com/questions/57619460/trying-to-sign-commits-on-git-using-gpg-on-wsl-but-does-not-work
+"How can I fix the Git error ""object file ... is empty""?",3 hours ago,Dat TT,644,31,352k,https://stackoverflow.com/questions/11706215/how-can-i-fix-the-git-error-object-file-is-empty
+why .gitignore syntax Invalid,4 hours ago,JZ D,-1,0,44,https://stackoverflow.com/questions/78351030/why-gitignore-syntax-invalid
+"Can't push to branch with blacklisted pattern, even after i removed those file with new commit",7 hours ago,Deepak Sharma,6,2,9k,https://stackoverflow.com/questions/57239329/cant-push-to-branch-with-blacklisted-pattern-even-after-i-removed-those-file-w
+GIT run script before git add,7 hours ago,hayzedDev,2,2,3k,https://stackoverflow.com/questions/19409144/git-run-script-before-git-add
+Can not ssh-add private key to docker build,7 hours ago,antun,4,2,6k,https://stackoverflow.com/questions/48872308/can-not-ssh-add-private-key-to-docker-build
+Git feature branch rebasing from local configuration branch,10 hours ago,hlovdal,0,1,33,https://stackoverflow.com/questions/78346872/git-feature-branch-rebasing-from-local-configuration-branch
+git gc --aggressive vs git repack,10 hours ago,Mateen Ulhaq,126,5,65k,https://stackoverflow.com/questions/28720151/git-gc-aggressive-vs-git-repack
+rsync command from .cpanel.yml is not updating deploy directory after git commit,10 hours ago,eftshift0,0,0,14,https://stackoverflow.com/questions/78349440/rsync-command-from-cpanel-yml-is-not-updating-deploy-directory-after-git-commit
+git GitHub remote branch push cannot be resolved to branch,11 hours ago,dani-vta,1,1,54,https://stackoverflow.com/questions/78325895/git-github-remote-branch-push-cannot-be-resolved-to-branch
+Main branch of the mirror (X) repository diverged from mirrored repository(Y) and Gitlab fails to synchronize the mirror with the lastes updates,11 hours ago,TTT,1,1,31,https://stackoverflow.com/questions/78348138/main-branch-of-the-mirror-x-repository-diverged-from-mirrored-repositoryy-an
+Will uninstalling git bash also uninstall my WSL git?,12 hours ago,Alfredo Alejandro Villegas,0,1,18,https://stackoverflow.com/questions/78349586/will-uninstalling-git-bash-also-uninstall-my-wsl-git
+Prevent large text file from being added to commit when using GitHub,12 hours ago,VonC,8,3,5k,https://stackoverflow.com/questions/53690327/prevent-large-text-file-from-being-added-to-commit-when-using-github

@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-GoLang: AES-256 GCM Encryption For Flows Response,12 mins ago,Hilary Chipunza,0,0,9,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-Go mod download got stuck while running on docker file,1 hour ago,Matteo,0,1,11,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-How to remove duplicates strings or int from Slice in Go,1 hour ago,Jasper,30,18,73k,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-Is this the correct way to use Cgo to call C code via Go?,1 hour ago,Ayush Goyal,0,0,11,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-bazel build is failing on macbook m1 pro ( unable to link protobuf),3 hours ago,lazarus,0,0,11,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-How can I use downloaded Go modules in an offline environment,4 hours ago,quenting,0,0,22,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-How to get really used listener port inside Handler,5 hours ago,Ivan Sharapenkov,0,1,48,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-How to get the same CRC32 like cksum?,6 hours ago,Mark Adler,1,2,67,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-how to authentication LDAP without field userPassword in Golang,8 hours ago,obpt,-2,0,20,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-Golang cosmosdb-gremlin connection,9 hours ago,user2006769,0,0,18,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-Go Package installed but not able to import,9 hours ago,mit_patel,-1,2,1k,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-Multiline literal string input,10 hours ago,Arthur,0,1,36,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-Go Workspace Looking Outside,11 hours ago,gopher,0,0,25,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-"Lambda custom al2 runtime with golang, timing out init phase",12 hours ago,Mua Knight,4,3,3k,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
-"Is it possible to retrieve lists of HDF5 file, group, dataset, and attribute in Golang",12 hours ago,이욱용,0,0,10,https://stackoverflow.com/questions/tagged/Go?tab=active&page=1&pagesize=15
+How can I create two connected io.ReadWriteClosers for testing purposes,19 mins ago,Anton Lahti,0,0,4,https://stackoverflow.com/questions/78351782/how-can-i-create-two-connected-io-readwriteclosers-for-testing-purposes
+How to ignore double quotes when parsing csv file (golang)?,56 mins ago,npc dump,0,0,17,https://stackoverflow.com/questions/78351613/how-to-ignore-double-quotes-when-parsing-csv-file-golang
+How to use CGo properly to avoid memory leaks? Working with LightGbm C Api from Microsoft,58 mins ago,Community,2,0,46,https://stackoverflow.com/questions/78343407/how-to-use-cgo-properly-to-avoid-memory-leaks-working-with-lightgbm-c-api-from
+Go-Diameter: how to determine data variable in NewAVP of TGPPUserLocationInfo to get desired value in Wireshark dump,1 hour ago,Neeraj,2,2,903,https://stackoverflow.com/questions/71992006/go-diameter-how-to-determine-data-variable-in-newavp-of-tgppuserlocationinfo-to
+How to disable all buttons on a interaction using discordgo?,3 hours ago,Firework,1,0,10,https://stackoverflow.com/questions/78351216/how-to-disable-all-buttons-on-a-interaction-using-discordgo
+go ; package: command-line-arguments golang.org/x/net/websocket import loop,3 hours ago,Biltmore Quxxico,0,1,20,https://stackoverflow.com/questions/78351137/go-package-command-line-arguments-golang-org-x-net-websocket-import-loop
+How to decrypt a CSR in golang with passphrase,4 hours ago,zipzapzoop45,0,0,16,https://stackoverflow.com/questions/78351100/how-to-decrypt-a-csr-in-golang-with-passphrase
+Sony camera PTP response halt condition detected (endpoint stalled) or control request not supported,4 hours ago,user24482383,1,0,54,https://stackoverflow.com/questions/75168615/sony-camera-ptp-response-halt-condition-detected-endpoint-stalled-or-control-r
+Golang cosmosdb-gremlin connection,5 hours ago,user2006769,1,0,41,https://stackoverflow.com/questions/78344895/golang-cosmosdb-gremlin-connection
+"Go doesn't install correctly, paths aren't added as environment variables, no language server",6 hours ago,Runkai Du,-3,1,35,https://stackoverflow.com/questions/78348331/go-doesnt-install-correctly-paths-arent-added-as-environment-variables-no-la
+Detecting new partitions in a kafka topic,6 hours ago,OneCricketeer,-2,1,33,https://stackoverflow.com/questions/78148450/detecting-new-partitions-in-a-kafka-topic
+Go MySQL driver 500x slower than ADO.NET for simple select query,7 hours ago,Shadow,0,0,34,https://stackoverflow.com/questions/78350562/go-mysql-driver-500x-slower-than-ado-net-for-simple-select-query
+"""missing value for command"" error in terraform code",7 hours ago,Martin Atkins,0,0,32,https://stackoverflow.com/questions/78342847/missing-value-for-command-error-in-terraform-code
+How can I use downloaded Go modules in an offline environment,9 hours ago,Yakir Oren,1,2,39,https://stackoverflow.com/questions/78346379/how-can-i-use-downloaded-go-modules-in-an-offline-environment
+golang echoserver reverse proxy - problems using Director to route requests,10 hours ago,ethrbunny,0,0,6,https://stackoverflow.com/questions/78350254/golang-echoserver-reverse-proxy-problems-using-director-to-route-requests

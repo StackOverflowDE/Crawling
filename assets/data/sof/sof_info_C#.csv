@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-How to access Umbraco Web Models Link,just now,Nurhak Kaya,0,1,12,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-Union with EF Core returns unable to translate set operation since both operands have different 'Include' operations,2 mins ago,John,13,6,15k,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-how to set default culture info for entire c# application,3 mins ago,Amit Joshi,70,4,145k,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-Catch multiple exceptions at once?,6 mins ago,TylerH,2568,29,846k,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-"Send USDT transaction in TRON network, Xamarin Forms",12 mins ago,DekinDev,-2,0,40,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-How do I access a variable from different classes?,12 mins ago,Hr.Panahi,0,0,31,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-XML Serialisation - dynamic namespace of root node,14 mins ago,ASh,0,0,10,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-How to Use the appropriate API provided by Amadeus to fetch the details of the booked ticket,15 mins ago,Aslbek Abdullayev,-2,0,7,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-Could this Hardware Unique ID procedure get the same ids given two different computer?,16 mins ago,markzzz,0,0,14,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-Recommended way to retrieve ClaimsPrincipal in an isolated azure function(from HttpRequestData),19 mins ago,Sergii Zhuravskyi,2,1,1k,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-New Controls dont exist on WPF Code-Behind [closed],19 mins ago,sdgtc,-3,0,37,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-ASP.NET Core MVC validations not being displayed on view for child entities,20 mins ago,Manoj Choudhari,0,1,9,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-Connecting aws documentdb locally,22 mins ago,Carlos Siestrup,0,1,14,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-Exception animating Label's Foreground: Cannot animate '(0).(1)' on a hard object instance,23 mins ago,Quino,0,0,10,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
-JsonConverterAttribute is not used by JsonSerializer,23 mins ago,Ruafel,0,0,13,https://stackoverflow.com/questions/tagged/c%23?tab=active&page=1&pagesize=15
+C# - How to measure text/individual glyph size as it will show on a PDF?,1 min ago,Joe Arnold,0,0,8,https://stackoverflow.com/questions/78351651/c-sharp-how-to-measure-text-individual-glyph-size-as-it-will-show-on-a-pdf
+C# debugging: [DebuggerDisplay] or ToString()?,4 mins ago,Mustafa Özçetin,106,7,19k,https://stackoverflow.com/questions/3190987/c-sharp-debugging-debuggerdisplay-or-tostring
+Apply a force to an object relative to direction of another,14 mins ago,derHugo,0,0,18,https://stackoverflow.com/questions/78344727/apply-a-force-to-an-object-relative-to-direction-of-another
+WinUI 3 is not working on Visual Studio 2022,15 mins ago,Ezekiel Akinfenwa,0,0,10,https://stackoverflow.com/questions/78351770/winui-3-is-not-working-on-visual-studio-2022
+How i can fix this? [closed],17 mins ago,derHugo,-3,0,27,https://stackoverflow.com/questions/78350129/how-i-can-fix-this
+Find WpfControls.WorkItemControl class replacer for visual studio 2022?,18 mins ago,Jonatan Präst,0,0,6,https://stackoverflow.com/questions/78351755/find-wpfcontrols-workitemcontrol-class-replacer-for-visual-studio-2022
+How can I read data from Database and write it into Csv File,20 mins ago,Fildor,0,0,18,https://stackoverflow.com/questions/78351579/how-can-i-read-data-from-database-and-write-it-into-csv-file
+WinUI3 FindWindow() keep returning 0x0000000000000000,23 mins ago,Su Myat Kyaw,0,0,6,https://stackoverflow.com/questions/78351720/winui3-findwindow-keep-returning-0x0000000000000000
+WPF Binding get some wrong in MahApps.Metro but it can run,34 mins ago,Richard Arlen,0,1,14,https://stackoverflow.com/questions/78347167/wpf-binding-get-some-wrong-in-mahapps-metro-but-it-can-run
+Azure Function - Error connecting to SFTP server: Input string was not in a correct format,36 mins ago,RithwikBojja,0,1,31,https://stackoverflow.com/questions/78350786/azure-function-error-connecting-to-sftp-server-input-string-was-not-in-a-corr
+Changing ManagementClass.Path property does not connect object to the new WMI class,38 mins ago,Thomas Anderson,0,0,4,https://stackoverflow.com/questions/78351654/changing-managementclass-path-property-does-not-connect-object-to-the-new-wmi-cl
+How to return both 400 or 422 depending on the model validation result?,41 mins ago,Qiang Fu,0,0,23,https://stackoverflow.com/questions/78350101/how-to-return-both-400-or-422-depending-on-the-model-validation-result
+PIVOTING IN EF .NET,43 mins ago,Sanjay Kumar Mahato,0,0,5,https://stackoverflow.com/questions/78351641/pivoting-in-ef-net
+securing the connection string in dot net 8? [closed],59 mins ago,movahedijam,-2,0,35,https://stackoverflow.com/questions/78347218/securing-the-connection-string-in-dot-net-8
+How to allow dotween to start a tween on the same gameobject while one is already running,1 hour ago,Ilya,0,1,17,https://stackoverflow.com/questions/78351123/how-to-allow-dotween-to-start-a-tween-on-the-same-gameobject-while-one-is-alread

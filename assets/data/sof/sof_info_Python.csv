@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Overriding multiprocessing.queues.Queue put method,1 min ago,J Agustin Barrachina,0,0,15,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-Adding a dashed line of a different dataset to an existing plot,2 mins ago,JohanC,0,0,10,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-"How to select, and replace specific values with NaN in pandas dataframe. How to remove a column from each level 1 multiindex",2 mins ago,Saad Shaukat,3,2,2k,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-ModuleNotFoundError: No module named,2 mins ago,IronOu,0,0,17,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-How to read first N lines of a file?,3 mins ago,ibuch,216,21,427k,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-How to find the size of the dataframe in spark streaming jobs,3 mins ago,Subodh kumar,0,2,1k,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-Where does the new axes from colorbar live? [duplicate],3 mins ago,JohanC,0,0,8,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-"I update a list via a database with user input. The lesson didn't use strip and didn't work. AI added strip, and now it works",5 mins ago,Lee,0,0,5,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-Imwrite OPEN CV method,6 mins ago,David Muñoz,0,0,4,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-Using Kinect V1 for Xbox 360 with python,7 mins ago,Markus,0,0,7,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-How to integrate a glossary of abbreviations into LangChain for better SQL query generation (NL2SQL)?,7 mins ago,DataJanitor,0,0,9,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-ModuleNotFoundError: No module named 'rpds.rpds',8 mins ago,VXL963,0,0,7,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-How to integrate Oracle Column Comments into LangChain for enhanced SQL query generation (NL2SQL)?,9 mins ago,DataJanitor,0,1,14,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-improve my f1_score for classification - pandas/sklearn,10 mins ago,Aaron7,0,0,5,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
-Azure function v2 (python) that writes to a blob using a blob trigger,10 mins ago,Jimmy3421,0,0,5,https://stackoverflow.com/questions/tagged/Python?tab=active&page=1&pagesize=15
+incompatible dtype in dataframe,8 secs ago,László Hunyadi,0,1,14,https://stackoverflow.com/questions/78351871/incompatible-dtype-in-dataframe
+"How to extract the Table Name, Colum name,data Type info and description from SQL Meta data using python? [closed]",1 min ago,Thangarajtest,-3,0,28,https://stackoverflow.com/questions/78335823/how-to-extract-the-table-name-colum-name-data-type-info-and-description-from-sq
+what is the equivalent of numpy accumulate ufunc in pytorch,2 mins ago,simon,2,2,39,https://stackoverflow.com/questions/78329495/what-is-the-equivalent-of-numpy-accumulate-ufunc-in-pytorch
+ValueError: Exception encountered when calling MultiHeadAttention.call(),3 mins ago,Vedica Kandoi,0,0,6,https://stackoverflow.com/questions/78351947/valueerror-exception-encountered-when-calling-multiheadattention-call
+Is there a way to wait until a condition is true in python tkinter,5 mins ago,illy,0,1,26,https://stackoverflow.com/questions/78351119/is-there-a-way-to-wait-until-a-condition-is-true-in-python-tkinter
+How to write file to Docker Volume from Container with Python script,9 mins ago,Paku,0,0,12,https://stackoverflow.com/questions/78351898/how-to-write-file-to-docker-volume-from-container-with-python-script
+run python everyday using github action,15 mins ago,김민선,-1,0,12,https://stackoverflow.com/questions/78351880/run-python-everyday-using-github-action
+CMake error: Cannot find python executable,19 mins ago,OrenIshShalom,0,1,16,https://stackoverflow.com/questions/78351628/cmake-error-cannot-find-python-executable
+Django serializer,21 mins ago,Matija Sirk,-2,1,25,https://stackoverflow.com/questions/78351725/django-serializer
+Aligning/syncing one audio file to another using Python,22 mins ago,Joan Venge,0,0,11,https://stackoverflow.com/questions/78351569/aligning-syncing-one-audio-file-to-another-using-python
+Changing download location,24 mins ago,user,-2,1,39,https://stackoverflow.com/questions/78348392/changing-download-location
+Matching string values in a pandas Series from values in list,24 mins ago,Michael Felman,-2,1,48,https://stackoverflow.com/questions/78343375/matching-string-values-in-a-pandas-series-from-values-in-list
+Why is subtracting pandas.timedelta from pandas.date not vectorized?,24 mins ago,FObersteiner,0,1,30,https://stackoverflow.com/questions/78349257/why-is-subtracting-pandas-timedelta-from-pandas-date-not-vectorized
+Detecting a contour of the die in a noisy image,30 mins ago,cadd9,-2,0,20,https://stackoverflow.com/questions/78351762/detecting-a-contour-of-the-die-in-a-noisy-image
+ImportError: libGL.so.1: cannot open shared object file: No such file or directory,30 mins ago,Palguna Gopireddy,459,25,633k,https://stackoverflow.com/questions/55313610/importerror-libgl-so-1-cannot-open-shared-object-file-no-such-file-or-directo

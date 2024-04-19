@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Running Ansible commands in VS Code,23 mins ago,Norbert,0,0,6,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-Ansible: install multiple Python packages on a single session,1 hour ago,Cyril,14,3,21k,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-Ansible: How to set_fact from Template- / YAML-file?,2 hours ago,Vladimir Botka,0,2,63,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-"New issues installing packages with ansible, packer and aws",2 hours ago,user24463998,0,0,8,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-Render a jinja template with ansible variables and store it into a register [duplicate],4 hours ago,Ananya Anuragi,0,0,13,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-Ansible Connection getting closed by remote host for long running module,5 hours ago,Fodder,2,1,2k,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-Creating a yaml file from outputs of ansible variables,8 hours ago,user24437589,0,0,30,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-Ansible: How to use split strings based on a delimiter(.) using maps for items present in list,9 hours ago,Rubcov V,1,3,9k,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-Ansible: build shell command depending on variables set,14 hours ago,larsks,0,1,18,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-What is the best way to partition with Packer in Ubuntu 22,15 hours ago,Jlom84,-1,0,23,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-"I am getting the foillowing error with Ansible Playbook FAILED! => {""changed"": false, ""module_stderr"": ""sudo: a password is required\n"",",15 hours ago,sam,-1,1,22,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-"Ansible Template Error unexpected end of template, expected ','",16 hours ago,Dkirk,-1,0,11,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-Flatten doubly-nested Ansible dict,16 hours ago,Vladimir Botka,0,2,19,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-How do you set the timezone in the Ansible cron module?,16 hours ago,β.εηοιτ.βε,2,2,28,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
-Shared connection to host closed,18 hours ago,Jeter-work,1,3,14k,https://stackoverflow.com/questions/tagged/Ansible?tab=active&page=1&pagesize=15
+Deleting all the files in a directory that end with a particular string pattern in Ansible,2 mins ago,Debdas,0,0,7,https://stackoverflow.com/questions/78351834/deleting-all-the-files-in-a-directory-that-end-with-a-particular-string-pattern
+What is the equivalent HTTP method for list in the Ansbile,24 mins ago,U880D,0,1,15,https://stackoverflow.com/questions/78350475/what-is-the-equivalent-http-method-for-list-in-the-ansbile
+Creating a yaml file from outputs of ansible variables [closed],1 hour ago,user24437589,0,0,35,https://stackoverflow.com/questions/78342105/creating-a-yaml-file-from-outputs-of-ansible-variables
+Ansible: Insert word in GRUB cmdline,2 hours ago,Tualua,5,8,13k,https://stackoverflow.com/questions/55844981/ansible-insert-word-in-grub-cmdline
+How to unset a Variable in Ansible?,2 hours ago,Boris Burkov,4,3,5k,https://stackoverflow.com/questions/73427379/how-to-unset-a-variable-in-ansible
+How to convert register value from sql script output to json object,5 hours ago,Vladimir Botka,0,1,24,https://stackoverflow.com/questions/78349839/how-to-convert-register-value-from-sql-script-output-to-json-object
+How do I specify host as a variable in ansible?,8 hours ago,user_dev,0,0,14,https://stackoverflow.com/questions/78350561/how-do-i-specify-host-as-a-variable-in-ansible
+Ansible: How to use split strings based on a delimiter(.) using maps for items present in list,9 hours ago,Rubcov V,1,3,9k,https://stackoverflow.com/questions/71152981/ansible-how-to-use-split-strings-based-on-a-delimiter-using-maps-for-items-p
+How to store Ansible 'stdout_lines' output in a dictionary?,11 hours ago,b08x,1,3,563,https://stackoverflow.com/questions/76530882/how-to-store-ansible-stdout-lines-output-in-a-dictionary
+Need to merge 2 dictionaries in Ansible with the same key,13 hours ago,Vladimir Botka,0,0,23,https://stackoverflow.com/questions/78348712/need-to-merge-2-dictionaries-in-ansible-with-the-same-key
+Is it possible to use inline templates?,14 hours ago,Dunedan,25,4,22k,https://stackoverflow.com/questions/33768690/is-it-possible-to-use-inline-templates
+Ansible how to pass result of first task to block of tasks in other file,15 hours ago,Vladimir Botka,2,1,44,https://stackoverflow.com/questions/78337477/ansible-how-to-pass-result-of-first-task-to-block-of-tasks-in-other-file
+Using variable instead of hardcoding in selectattr fails,16 hours ago,John,0,0,16,https://stackoverflow.com/questions/78348390/using-variable-instead-of-hardcoding-in-selectattr-fails
+"Ansible: Check if my user exists on remote host, else use root user to connect with ssh",17 hours ago,Lithimlin,11,3,35k,https://stackoverflow.com/questions/39698067/ansible-check-if-my-user-exists-on-remote-host-else-use-root-user-to-connect-w
+Running Ansible commands in VS Code,18 hours ago,Norbert,0,0,14,https://stackoverflow.com/questions/78347257/running-ansible-commands-in-vs-code

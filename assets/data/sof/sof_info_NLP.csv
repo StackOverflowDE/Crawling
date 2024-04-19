@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-What is the easiest way of converting json to vector database,11 mins ago,yvksk,0,0,3,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-How to remove negation from japanese sentence and extract keywords (tfidf search )?,1 hour ago,SIDDHARTH Gulati,0,0,5,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-"When loss don't decrease, what should i do? [closed]",2 hours ago,desertnaut,-1,0,25,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-Local LLM Response is Very Slow,4 hours ago,E_net4,0,0,30,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-ModuleNotFoundError: No java install detected. Please install java to use language-tool-python,5 hours ago,tripleee,1,2,5k,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-How to modify the inference API parameters on model card page,6 hours ago,Vinay Sharma,0,0,10,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-LLM loss function [closed],6 hours ago,Vinay Sharma,-5,0,25,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-Stanford NLP Annotation pipeline.annotate resulting into OutOfMemoryError in Java,7 hours ago,Siva,0,1,13,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-Reading Documents Directly from Llama Index as Files Instead of Specifying a Folder Path,9 hours ago,Mubashir Ahmed Siddiqui,3,1,14,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-Counting Tokens Using Langchain or LlamaIndex Wrapper in Python,9 hours ago,Mubashir Ahmed Siddiqui,0,0,11,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-How to tag words that not include one specific symbol in Spacy?,9 hours ago,Barbara,0,0,16,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-Weighted input for sentence similarity,14 hours ago,inverted_index,0,1,13,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-Fine-tuning T5 Model on a Book for Unsupervised Learning,22 hours ago,inverted_index,0,1,12,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-Langchain Conversationnal Pipeline (with pipe) + Standalone Question & Chat History + Stream,yesterday,Guillaume Saes,0,0,16,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
-How to use forward() method instead of model.generate() for T5 model,yesterday,Łukasz D. Tulikowski,4,2,4k,https://stackoverflow.com/questions/tagged/NLP?tab=active&page=1&pagesize=15
+What is the easiest way of converting json to vector database,8 hours ago,Madhavan,0,1,17,https://stackoverflow.com/questions/78347994/what-is-the-easiest-way-of-converting-json-to-vector-database
+ChatGPT Token Limit,9 hours ago,Programmer,20,4,28k,https://stackoverflow.com/questions/75586733/chatgpt-token-limit
+Encoder Decoder Seq2Seq,11 hours ago,TylerH,0,0,5,https://stackoverflow.com/questions/78349704/encoder-decoder-seq2seq
+How to tag words that not include one specific symbol in Spacy?,15 hours ago,ArthurMorgan,1,1,19,https://stackoverflow.com/questions/78344850/how-to-tag-words-that-not-include-one-specific-symbol-in-spacy
+Unable to read docx file using python-docx,16 hours ago,abdz_128,0,1,25,https://stackoverflow.com/questions/78335317/unable-to-read-docx-file-using-python-docx
+Counting Tokens Using Langchain or LlamaIndex Wrapper in Python [closed],16 hours ago,Su Wan,1,0,25,https://stackoverflow.com/questions/78344911/counting-tokens-using-langchain-or-llamaindex-wrapper-in-python
+How to remove negation from japanese sentence and extract keywords (tfidf search )?,18 hours ago,SIDDHARTH Gulati,0,0,6,https://stackoverflow.com/questions/78347415/how-to-remove-negation-from-japanese-sentence-and-extract-keywords-tfidf-search
+Local LLM Response is Very Slow,21 hours ago,E_net4,0,0,30,https://stackoverflow.com/questions/78340781/local-llm-response-is-very-slow
+ModuleNotFoundError: No java install detected. Please install java to use language-tool-python,22 hours ago,tripleee,1,2,5k,https://stackoverflow.com/questions/67997713/modulenotfounderror-no-java-install-detected-please-install-java-to-use-langua
+How to modify the inference API parameters on model card page,23 hours ago,Vinay Sharma,0,0,10,https://stackoverflow.com/questions/78345615/how-to-modify-the-inference-api-parameters-on-model-card-page
+LLM loss function [closed],23 hours ago,Vinay Sharma,-5,0,32,https://stackoverflow.com/questions/78341294/llm-loss-function
+Stanford NLP Annotation pipeline.annotate resulting into OutOfMemoryError in Java,yesterday,Siva,0,1,15,https://stackoverflow.com/questions/78344999/stanford-nlp-annotation-pipeline-annotate-resulting-into-outofmemoryerror-in-jav
+Reading Documents Directly from Llama Index as Files Instead of Specifying a Folder Path,yesterday,Mubashir Ahmed Siddiqui,3,1,16,https://stackoverflow.com/questions/78338438/reading-documents-directly-from-llama-index-as-files-instead-of-specifying-a-fol
+Weighted input for sentence similarity,yesterday,inverted_index,0,1,15,https://stackoverflow.com/questions/78327620/weighted-input-for-sentence-similarity
+Fine-tuning T5 Model on a Book for Unsupervised Learning,yesterday,inverted_index,0,1,13,https://stackoverflow.com/questions/78337211/fine-tuning-t5-model-on-a-book-for-unsupervised-learning

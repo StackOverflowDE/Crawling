@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-wait for context to be updated when using SwiftData,8 mins ago,Joakim Danielson,0,1,12,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-Apply shadow to the navigation bar in swift,8 mins ago,Annderson Oreto,14,6,25k,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-SwiftData Previews Crash but works fine in simulator,24 mins ago,registrier rp,0,0,11,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-xcode 15.3 drawHierarchy broken - image too bright,24 mins ago,Prashant Tukadiya,0,0,5,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-IOS Swift application Intune SDK Socket timeout,1 hour ago,Radioactive,0,0,17,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-Trouble displaying results from API,1 hour ago,vadian,-2,1,24,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-SwiftUI | DragGestures onEnded never called if canceled by ScrollView,1 hour ago,PontusJ,30,4,8k,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-Can tertiarySystemFillColor layer of _UISearchBarSearchContainerView be modified?,1 hour ago,Berklie,0,0,7,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-"Noob seeking help, visionkit implementation",2 hours ago,emol,-1,0,18,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-"In a swift static var extension, how to or can you access and return the concrete class?",2 hours ago,Fattie,2,1,52,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-"How to apply a .symbolEffect (ie, the animation such as pulse) to an SF system image to a UIButton in UIKit?",2 hours ago,Fattie,0,2,31,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-How can I check for ToolbarItems in a Swift Test,2 hours ago,Strassenrenner,0,0,7,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-"How do I fix the error: ""Thread 1: EXC_BAD_ACCESS (code=2, address=0x7ffee0761ed8)""",2 hours ago,Abhishek C. Gidde,5,3,15k,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-Swift Print full date with milliseconds,3 hours ago,soundflix,71,3,60k,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
-UIbutton not responding consistently to touch event,3 hours ago,DonMag,-1,1,36,https://stackoverflow.com/questions/tagged/Swift?tab=active&page=1&pagesize=15
+How can make a ScrollView being anchored to the bottom of the screen at all times?,3 mins ago,Roy Rodney,0,3,25,https://stackoverflow.com/questions/78350950/how-can-make-a-scrollview-being-anchored-to-the-bottom-of-the-screen-at-all-time
+UILabel is shrinked after it is rearranged in UIStackView,28 mins ago,Bartłomiej Semańczyk,0,0,20,https://stackoverflow.com/questions/78351664/uilabel-is-shrinked-after-it-is-rearranged-in-uistackview
+"Swift Charts: Fixed size for Y axis labels, for perfect alignment with multiple vertically aligned charts",1 hour ago,Will,3,1,189,https://stackoverflow.com/questions/75534296/swift-charts-fixed-size-for-y-axis-labels-for-perfect-alignment-with-multiple
+UITapGestureRecognizer Not Triggering in Custom UIView in iOS,1 hour ago,udi,0,2,1k,https://stackoverflow.com/questions/68959246/uitapgesturerecognizer-not-triggering-in-custom-uiview-in-ios
+"Fix ""Quota exceed error"" in CloudKit and view container usage",1 hour ago,Phil Dukhov,1,1,918,https://stackoverflow.com/questions/66297519/fix-quota-exceed-error-in-cloudkit-and-view-container-usage
+SwiftUI how to add space to Navbar to display an additional view,2 hours ago,Tay Baye,0,0,16,https://stackoverflow.com/questions/78351437/swiftui-how-to-add-space-to-navbar-to-display-an-additional-view
+TabBar appears on canvas but not in the simulator,2 hours ago,Phil Dukhov,0,0,19,https://stackoverflow.com/questions/78349328/tabbar-appears-on-canvas-but-not-in-the-simulator
+Why does Swift FileManager.default.urls(...) return a different result than ObjC implementation (iOS simulator)?,3 hours ago,Rob,-1,1,36,https://stackoverflow.com/questions/78350245/why-does-swift-filemanager-default-urls-return-a-different-result-than-objc
+Exclude NavigationBarItems from Image Rendering SwiftUI,3 hours ago,HangarRash,0,0,14,https://stackoverflow.com/questions/78351214/exclude-navigationbaritems-from-image-rendering-swiftui
+Is it possible to enable/disable iOS Picture in Picture on the fly?,3 hours ago,P. Tsin,-1,0,29,https://stackoverflow.com/questions/78326101/is-it-possible-to-enable-disable-ios-picture-in-picture-on-the-fly
+Dynamically changing locationManager (CoreLocation) settings after initialisation,4 hours ago,cyberbarker,-1,1,22,https://stackoverflow.com/questions/78351004/dynamically-changing-locationmanager-corelocation-settings-after-initialisatio
+"Getting error ""No such module"" using Xcode, but the framework is there",4 hours ago,isaacselement,546,88,765k,https://stackoverflow.com/questions/29500227/getting-error-no-such-module-using-xcode-but-the-framework-is-there
+Problem on calling Flutter code from a Widget Extension,6 hours ago,nothing For,0,0,44,https://stackoverflow.com/questions/78345728/problem-on-calling-flutter-code-from-a-widget-extension
+Conditionally rendering a MenuBarExtra,8 hours ago,Niek,0,2,24,https://stackoverflow.com/questions/78350158/conditionally-rendering-a-menubarextra
+Split array into sub arrays based on difference between two adjacent elements,9 hours ago,Scott Thompson,1,2,61,https://stackoverflow.com/questions/78349572/split-array-into-sub-arrays-based-on-difference-between-two-adjacent-elements

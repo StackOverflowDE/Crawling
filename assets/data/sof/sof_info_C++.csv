@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Is there a more ergonomic way of defining function parameter requirements in C++20 concepts?,1 min ago,Cubic,0,2,19,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-How to get a list of video capture devices (web cameras) on linux ( ubuntu )? (C/C++),4 mins ago,Ciro Santilli OurBigBook.com,37,5,116k,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-Is writing else statement at the last mandatory in if-else ladder in C++?,7 mins ago,Jesus Daniel,-3,3,47,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-Method not activating,7 mins ago,Rogl,0,0,8,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-Overloading ref-qualified member-function without ref-qualifier,8 mins ago,user12002570,0,2,57,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-What must be linked to use oatpp without cmake?,13 mins ago,Stressed,0,0,8,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-libgit2: clear remote refspec(s),17 mins ago,eugenkaltenegger,-1,0,10,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-How to use std::lower_bound when the key is part of the data and i want to search for the key?,30 mins ago,HolyBlackCat,0,3,52,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-"error: missing binary operator before token ""("" - thorough explanation, preferably with a solution",30 mins ago,Goulart,0,1,811,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-Non-type template parameter in struct vs alias,31 mins ago,Igor R.,1,0,38,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-How to show Dialog window from QML plugin,33 mins ago,Leo Abalckin,0,0,6,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-Hash function for binary data,51 mins ago,463035818_is_not_an_ai,1,1,60,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-Why doesn't Visual Studio Code print duplicate lines in terminal? [duplicate],1 hour ago,Robert Hacken,-3,0,42,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-"Physical Moon Earth System, problems with Moon's orbit",1 hour ago,lastchance,2,1,79,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
-gcc static analyzer (Weffc++): exclude directories,1 hour ago,Dietrich Epp,0,2,913,https://stackoverflow.com/questions/tagged/c%2b%2b?tab=active&page=1&pagesize=15
+ReadDirectoryChangesW not sending events for files beyond 2GB? [closed],2 mins ago,Bjoern,1,1,112,https://stackoverflow.com/questions/78341697/readdirectorychangesw-not-sending-events-for-files-beyond-2gb
+Difficulty Understanding Serial Communication Between Arduino and Raspberry Pi,3 mins ago,user14018621,-1,0,64,https://stackoverflow.com/questions/78347301/difficulty-understanding-serial-communication-between-arduino-and-raspberry-pi
+"cannot open source file ""graphics.h"" error code: E1696 [duplicate]",6 mins ago,Botje,0,0,18,https://stackoverflow.com/questions/78351878/cannot-open-source-file-graphics-h-error-code-e1696
+"VSCode disable function parameter (intellisense?) markers (disable ""inlay hints"") [duplicate]",8 mins ago,user12002570,0,0,21,https://stackoverflow.com/questions/78351294/vscode-disable-function-parameter-intellisense-markers-disable-inlay-hints
+How to manipulate libevent bufferevents outside of callbacks,9 mins ago,Kyrol,0,1,147,https://stackoverflow.com/questions/73654006/how-to-manipulate-libevent-bufferevents-outside-of-callbacks
+"no instance of overloaded function ""ID2D1HwndRenderTarget::FillEllipse"" matches the argument list",10 mins ago,Gerhardh,-1,0,16,https://stackoverflow.com/questions/78351673/no-instance-of-overloaded-function-id2d1hwndrendertargetfillellipse-matches
+"C++ shared_ptr from *this, parent and derived classes",13 mins ago,elcuco,0,2,91,https://stackoverflow.com/questions/78342172/c-shared-ptr-from-this-parent-and-derived-classes
+I want to add buttons on QVTKOpenGLNativeWidget,15 mins ago,Noob_programmer,0,0,6,https://stackoverflow.com/questions/78351940/i-want-to-add-buttons-on-qvtkopenglnativewidget
+Error when compiling Chromium on an M2 Macbook Air,27 mins ago,Rudi,0,0,10,https://stackoverflow.com/questions/78351874/error-when-compiling-chromium-on-an-m2-macbook-air
+What is the uintptr_t data type?,36 mins ago,Top-Master,351,6,332k,https://stackoverflow.com/questions/1845482/what-is-the-uintptr-t-data-type
+Definition of int64_t,36 mins ago,Top-Master,105,6,191k,https://stackoverflow.com/questions/13604137/definition-of-int64-t
+`undefined reference` to class methods in QT Creator (CMake Project),56 mins ago,lokit khemka,0,0,15,https://stackoverflow.com/questions/78351709/undefined-reference-to-class-methods-in-qt-creator-cmake-project
+__attr_dealloc_free is not defined,57 mins ago,user24487072,0,0,13,https://stackoverflow.com/questions/78351707/attr-dealloc-free-is-not-defined
+DotNet Profiling in linux.it's not working,58 mins ago,jiaxiang8756,0,0,8,https://stackoverflow.com/questions/78351700/dotnet-profiling-in-linux-its-not-working
+Lambda capturing rvalue reference by reference,1 hour ago,Fimpellizzeri,7,3,2k,https://stackoverflow.com/questions/55559308/lambda-capturing-rvalue-reference-by-reference

@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-mysql update table from another table and variable,1 min ago,Ziad Nassar,0,0,6,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-"Getting error: ""Incorrect decimal value: 'Apple Watch Series 6' for column 'price' at row 1."" The wrong value is being set as price. what can i do?",1 min ago,user24470272,0,0,2,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-MySQL SELECT DISTINCT should be case sensitive?,8 mins ago,Daniel Black,21,4,17k,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-Loading Related Table Data using Prisma,9 mins ago,Azman Amin,0,0,3,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-"Issue in the connection of Google Sheets with MySQL (string, username and password)",11 mins ago,Nino.Ninov,0,0,7,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-php strings cut off before being used as sql query [closed],24 mins ago,phpissues101,-1,0,38,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-How to fix the top navbar,36 mins ago,isherwood,-3,0,48,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-UPDATE multiple rows with different values in one query in MySQL,41 mins ago,Tung Nguyen,228,9,502k,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-Count function shows multiple rows with value of 1 in MySQL,46 mins ago,Faesal,0,4,6k,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-How do I install command line MySQL client on mac?,1 hour ago,Niyaz,206,18,296k,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-PLEASE HELP!!! Designing a scalable MySQL table for weekly and monthly analytics [closed],1 hour ago,coding_billi,-8,0,28,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-Service MySQl cant start,2 hours ago,anupsabraham,0,1,173,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-"I don't know How to do this query , I only could find the volume of carton 10",2 hours ago,Isha Shukla,0,2,149,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-The total number of locks exceeds the lock table size,2 hours ago,PHP Bugs,95,15,174k,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
-Trying to install MySQL and MariaDB on New MacBook Pro with homebrew [duplicate],2 hours ago,Adelino Silva,0,0,24,https://stackoverflow.com/questions/tagged/MySQL?tab=active&page=1&pagesize=15
+Upgrading to MYSQL 8 - MAMP,3 mins ago,Pratik Shah,17,1,14k,https://stackoverflow.com/questions/57955765/upgrading-to-mysql-8-mamp
+how to query inventory card based on product master in mysql,7 mins ago,Yohan Wijayanto,0,0,3,https://stackoverflow.com/questions/78351909/how-to-query-inventory-card-based-on-product-master-in-mysql
+can i make a offline webpage to sync online webpage with NodeJS server?,44 mins ago,Suresh Kamrushi,-2,0,19,https://stackoverflow.com/questions/78351684/can-i-make-a-offline-webpage-to-sync-online-webpage-with-nodejs-server
+Grails Native Sql Query result returning Date field as LocalDateTime,53 mins ago,Deepak Gupta,0,0,6,https://stackoverflow.com/questions/78351661/grails-native-sql-query-result-returning-date-field-as-localdatetime
+Django: Generate random time within a specific day and insert multiple rows to database,1 hour ago,tina,-1,0,16,https://stackoverflow.com/questions/78351345/django-generate-random-time-within-a-specific-day-and-insert-multiple-rows-to-d
+Designing a scalable MySQL table for weekly and monthly analytics [closed],5 hours ago,philipxy,-11,0,46,https://stackoverflow.com/questions/78346915/designing-a-scalable-mysql-table-for-weekly-and-monthly-analytics
+How to customize default pagination in laravel 8?,5 hours ago,Inan,3,2,13k,https://stackoverflow.com/questions/67839557/how-to-customize-default-pagination-in-laravel-8
+How do I organize this list into MVC?,6 hours ago,Peter Mortensen,-6,1,757,https://stackoverflow.com/questions/28723097/how-do-i-organize-this-list-into-mvc
+Piwik Filter Graph by Custom Variable,6 hours ago,Chait,45,2,1k,https://stackoverflow.com/questions/11419324/piwik-filter-graph-by-custom-variable
+C# protect database connection information,6 hours ago,David,6,2,2k,https://stackoverflow.com/questions/41380566/c-sharp-protect-database-connection-information
+"MySQL: ALTER IGNORE TABLE ADD UNIQUE, what will be truncated?",6 hours ago,David,38,2,53k,https://stackoverflow.com/questions/5456520/mysql-alter-ignore-table-add-unique-what-will-be-truncated
+MySQL service on local computer started and then stopped,7 hours ago,Michael B,0,1,208,https://stackoverflow.com/questions/61770639/mysql-service-on-local-computer-started-and-then-stopped
+MySQL 8.3.X - Where is the workbench? [closed],8 hours ago,Adrian,-2,0,16,https://stackoverflow.com/questions/78350570/mysql-8-3-x-where-is-the-workbench
+Is MySQL database adds a hyphen plus number to the primary key once inserted from Python? [closed],8 hours ago,Shadow,-3,0,15,https://stackoverflow.com/questions/78350508/is-mysql-database-adds-a-hyphen-plus-number-to-the-primary-key-once-inserted-fro
+Yii2 : Getting unknown property when using findBySql,9 hours ago,mickmackusa,2,1,2k,https://stackoverflow.com/questions/30644362/yii2-getting-unknown-property-when-using-findbysql

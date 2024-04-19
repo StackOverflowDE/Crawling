@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-"Solution of sparse linear system on GPU, paper from nvidia",1 min ago,张路晨,0,2,204,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-The code of Parallel Solution of Sparse Triangular Linear Systems in the Preconditioned Iterative Methods on the GPU,4 mins ago,张路晨,0,0,2,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-Can not find thrust/universal_vector.h in the Thrust library which is included in the CUDA Toolkit,3 hours ago,paleonix,0,1,54,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-nvcc - add flags to a specific file using cmake,5 hours ago,Amit,0,2,69,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-Handle arbitrary sized inputs for scan kernel,8 hours ago,Jimenemex,0,0,29,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-CUDA_HOME error even though CUDA_HOME is set,9 hours ago,Polarimetric,-1,1,23,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-Facing problems setting cuda,11 hours ago,talonmies,-1,0,30,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-Is CUDA 12.x inherently incompatible with Qt 6.x?,18 hours ago,Ðаո,-2,0,32,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-How can I specify flags for CMAKE_<LANG>_HOST_COMPILER?,22 hours ago,einpoklum,3,1,56,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-Spack installation of NVSHMEM failing due to cannot find -lcuda,23 hours ago,paleonix,0,0,18,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-CMake: pass list of compiler flags through NVCC,yesterday,Amit,6,3,3k,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-GPU ID nomenclature in PyTorch and TensorFlow,yesterday,paleonix,0,1,12,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-"""cudaMemcpyAsync"" invokes cudaError_t : ""invalid argument"" (C++) [closed]",yesterday,Viole,-5,0,46,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-Analyzing CUDA Matrix Multiplication Efficiency with Nsight Compute: Investigating L2 to Global Write Back Discrepancies,yesterday,paleonix,-3,0,31,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
-cuda::std::complex in Eigen::Matrix causing error,yesterday,Michael Blazej,-2,1,83,https://stackoverflow.com/questions/tagged/CUDA?tab=active&page=1&pagesize=15
+Is there a way to access value of constant memory bank in CUDA,10 hours ago,atomicapple0,1,2,518,https://stackoverflow.com/questions/66910701/is-there-a-way-to-access-value-of-constant-memory-bank-in-cuda
+"Solution of sparse linear system on GPU, paper from nvidia",10 hours ago,paleonix,0,1,215,https://stackoverflow.com/questions/74541713/solution-of-sparse-linear-system-on-gpu-paper-from-nvidia
+Can not find thrust/universal_vector.h in the Thrust library which is included in the CUDA Toolkit,21 hours ago,paleonix,0,1,55,https://stackoverflow.com/questions/78290289/can-not-find-thrust-universal-vector-h-in-the-thrust-library-which-is-included-i
+nvcc - add flags to a specific file using cmake,22 hours ago,Amit,0,2,69,https://stackoverflow.com/questions/78333946/nvcc-add-flags-to-a-specific-file-using-cmake
+Handle arbitrary sized inputs for scan kernel,yesterday,Jimenemex,0,0,40,https://stackoverflow.com/questions/78344919/handle-arbitrary-sized-inputs-for-scan-kernel
+CUDA_HOME error even though CUDA_HOME is set,yesterday,Polarimetric,-1,1,24,https://stackoverflow.com/questions/78344528/cuda-home-error-even-though-cuda-home-is-set
+Facing problems setting cuda,yesterday,talonmies,-2,0,37,https://stackoverflow.com/questions/78341773/facing-problems-setting-cuda
+Is CUDA 12.x inherently incompatible with Qt 6.x?,yesterday,Ðаո,-2,0,37,https://stackoverflow.com/questions/78343240/is-cuda-12-x-inherently-incompatible-with-qt-6-x
+How can I specify flags for CMAKE_<LANG>_HOST_COMPILER?,yesterday,einpoklum,3,1,56,https://stackoverflow.com/questions/78323237/how-can-i-specify-flags-for-cmake-lang-host-compiler
+Spack installation of NVSHMEM failing due to cannot find -lcuda,yesterday,paleonix,0,0,22,https://stackoverflow.com/questions/78340946/spack-installation-of-nvshmem-failing-due-to-cannot-find-lcuda
+CMake: pass list of compiler flags through NVCC,yesterday,Amit,6,3,3k,https://stackoverflow.com/questions/59425220/cmake-pass-list-of-compiler-flags-through-nvcc
+GPU ID nomenclature in PyTorch and TensorFlow,yesterday,paleonix,0,1,12,https://stackoverflow.com/questions/78340041/gpu-id-nomenclature-in-pytorch-and-tensorflow
+"""cudaMemcpyAsync"" invokes cudaError_t : ""invalid argument"" (C++) [closed]",yesterday,Viole,-5,0,47,https://stackoverflow.com/questions/78335968/cudamemcpyasync-invokes-cudaerror-t-invalid-argument-c
+Analyzing CUDA Matrix Multiplication Efficiency with Nsight Compute: Investigating L2 to Global Write Back Discrepancies [closed],yesterday,paleonix,-3,0,35,https://stackoverflow.com/questions/78338519/analyzing-cuda-matrix-multiplication-efficiency-with-nsight-compute-investigati
+cuda::std::complex in Eigen::Matrix causing error,2 days ago,Michael Blazej,-2,1,85,https://stackoverflow.com/questions/78325617/cudastdcomplex-in-eigenmatrix-causing-error

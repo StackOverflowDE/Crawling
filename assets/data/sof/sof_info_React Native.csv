@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Android Error: Cannot resolve symbol 'PackageList',16 mins ago,VelocityPulse,3,6,14k,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-Folder and File Naming in React Native,32 mins ago,user18309290,0,0,14,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-firestore issue cant save data in firestore database [duplicate],46 mins ago,Frank van Puffelen,0,1,18,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-Nativewind not generate style with child components which was passed props from parent,55 mins ago,Hai Tien,0,0,5,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-BLE scanning not detecting specific device on Samsung device running Android 11 and below,1 hour ago,Md Afzaal Khan,0,0,8,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-ERROR Error sending to server: [AxiosError: Network Error],1 hour ago,Alan Sillva,0,0,7,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-"Fastlane, Github actions. Scheme is not currently configured for the build action",1 hour ago,Venkat Ramana,0,1,19,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-"""Cannot find EventEmitter for receivedTouches"" when using a RecyclerView inside a React native UI Component",1 hour ago,Thomas Berthaud,0,1,8,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-MathJax rendering maths issues,1 hour ago,Mike 'Pomax' Kamermans,-3,0,12,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-Markers collision detection on react-native-maps,1 hour ago,Krešimir Galić,0,0,11,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-Headless Js Task Services in react-native,2 hours ago,girikumar,-1,0,4,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-Local Notification with Notifee does not displaying in Android,2 hours ago,Habibur Rahman,3,4,4k,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-React Native Tabnavigation Animation,2 hours ago,Community,7,1,15k,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-React Native Card Carousel view custom,2 hours ago,arif kk,-1,0,12,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
-How can i solve this problem that shows up when i try to build my android app,2 hours ago,CoderBoy,-5,0,23,https://stackoverflow.com/questions/tagged/react-native?tab=active&page=1&pagesize=15
+react native document scanner issues with scanning,58 secs ago,Ramanjeet,0,0,13,https://stackoverflow.com/questions/78351815/react-native-document-scanner-issues-with-scanning
+Why app display name get truncated on iOS,3 mins ago,Yoan Ivanov,0,0,4,https://stackoverflow.com/questions/78351955/why-app-display-name-get-truncated-on-ios
+Android Error: Cannot resolve symbol 'PackageList',5 mins ago,VelocityPulse,3,6,14k,https://stackoverflow.com/questions/70992083/android-error-cannot-resolve-symbol-packagelist
+How to pass children to react native action sheet?,15 mins ago,Ritik Jangir,0,0,6,https://stackoverflow.com/questions/78351889/how-to-pass-children-to-react-native-action-sheet
+React Native Maps: can't click on marker if there's a POI,26 mins ago,Robert,1,2,444,https://stackoverflow.com/questions/73196500/react-native-maps-cant-click-on-marker-if-theres-a-poi
+Playstore review was rejected due to permissions,32 mins ago,Riku,1,2,20,https://stackoverflow.com/questions/78346678/playstore-review-was-rejected-due-to-permissions
+How to add header icon to parrent in children screen material-top-bar?,32 mins ago,Drew Reese,0,0,12,https://stackoverflow.com/questions/78351754/how-to-add-header-icon-to-parrent-in-children-screen-material-top-bar
+How to add an inline item after Text component's `numberOfLines` truncation in React Native,40 mins ago,ABDULLAH,1,1,24,https://stackoverflow.com/questions/78346139/how-to-add-an-inline-item-after-text-components-numberoflines-truncation-in-r
+First compile on React Native Expo Router for iOS failing,1 hour ago,Purav Kapoor,0,1,12,https://stackoverflow.com/questions/78350747/first-compile-on-react-native-expo-router-for-ios-failing
+react-native: how do I refresh all WebViews on NetInfo state change,1 hour ago,Døner M.,0,0,12,https://stackoverflow.com/questions/78348376/react-native-how-do-i-refresh-all-webviews-on-netinfo-state-change
+"ES6, how can you export an imported module in a single line?",1 hour ago,Amir Muhammad,155,7,77k,https://stackoverflow.com/questions/35665759/es6-how-can-you-export-an-imported-module-in-a-single-line
+Why does Swift FileManager.default.urls(...) return a different result than ObjC implementation (iOS simulator)?,2 hours ago,Rob,-1,1,36,https://stackoverflow.com/questions/78350245/why-does-swift-filemanager-default-urls-return-a-different-result-than-objc
+"warn Package **react-native-sqlite-storage** contains invalid configuration: ""**dependency.platforms.ios.project**"" is not allowed",2 hours ago,Roel Leal,5,3,8k,https://stackoverflow.com/questions/73932584/warn-package-react-native-sqlite-storage-contains-invalid-configuration
+"In iOS how to detect auto OTP using react native, its working on android but not working in iOS. I use npm i react-native-otp-verify",3 hours ago,Jatin Bhuva,1,1,3k,https://stackoverflow.com/questions/76062943/in-ios-how-to-detect-auto-otp-using-react-native-its-working-on-android-but-not
+Task :app:copyReactNativeVectorIconFonts FAILED,3 hours ago,GianhTran,5,5,4k,https://stackoverflow.com/questions/76649318/task-appcopyreactnativevectoriconfonts-failed

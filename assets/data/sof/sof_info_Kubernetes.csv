@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-pod not coming up irrespective of removing all affinity,7 mins ago,Daniel A. White,0,0,11,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-What are the kubernetes pod phases equivalence to pod status?,22 mins ago,Liang Yang,3,2,6k,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-Access kind cluster services from another Docker container,57 mins ago,himmip,0,0,9,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-Adding plugin to Fluentd daemonset,59 mins ago,Rebecka,0,0,9,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-Pod stays in container creating status forever,1 hour ago,Hui,-1,0,6,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-Requests timing out when accesing a Kubernetes clusterIP service,1 hour ago,Devendra Kumar,8,5,5k,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-I am trying to install Jenkins on Amazon Linux instance and getting the error as follows,2 hours ago,Cloudlady,0,1,29,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-exec /usr/local/bin/docker-entrypoint.sh argument list too long [closed],2 hours ago,Nandhu Ganesh,0,0,12,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-How to execute command in a pod (kubernetes) using API?,2 hours ago,RaulK,13,4,10k,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-Microk8s - Networking in pod unstable,2 hours ago,danniehansenweb,0,0,7,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-"tls: failed to verify certificate: x509: certificate signed by unknown authority"" node=""master-node""",2 hours ago,Arjun Vk,0,0,11,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-Why ingress objects are namespaced resources?,3 hours ago,mugenkunou,0,0,16,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-Kubernetes - oauth2-proxy - Keycloak OIDC - OAuth2CodeParser error - CODE_TO_TOKEN_ERROR code already used for userSession and client,3 hours ago,Lion,0,0,9,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-Create docker image for Wildfly 27 with redhat open JDK 17,3 hours ago,Nishu,0,1,31,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
-operator-sdk is making a csv from a ghost file,3 hours ago,David Maze,0,0,19,https://stackoverflow.com/questions/tagged/Kubernetes?tab=active&page=1&pagesize=15
+'volumeSize' field in cluster.yaml for EKS,33 secs ago,samichau,0,0,2,https://stackoverflow.com/questions/78351932/volumesize-field-in-cluster-yaml-for-eks
+Can not access https service via istio-ingress,1 hour ago,user3373742,0,0,8,https://stackoverflow.com/questions/78351508/can-not-access-https-service-via-istio-ingress
+Allowing access to an API from specific address in istio GKE mesh,1 hour ago,dinesh prajapati,0,0,3,https://stackoverflow.com/questions/78351481/allowing-access-to-an-api-from-specific-address-in-istio-gke-mesh
+Intermittent GPU Access Issues in Kubernetes Cluster with Mixed GPU Architectures,3 hours ago,Kade Youn,0,0,19,https://stackoverflow.com/questions/78350939/intermittent-gpu-access-issues-in-kubernetes-cluster-with-mixed-gpu-architecture
+What's the difference between Docker Compose and Kubernetes?,3 hours ago,Jonathan Marin,448,5,140k,https://stackoverflow.com/questions/47536536/whats-the-difference-between-docker-compose-and-kubernetes
+How to add additional scrape config to Prometheus,3 hours ago,Ning Marshall,3,3,20k,https://stackoverflow.com/questions/72061657/how-to-add-additional-scrape-config-to-prometheus
+Hashicorp vault-agent-init is failing with auth.handler: error authenticating. Unable to start container (minikube),5 hours ago,Amarnath J,0,0,7,https://stackoverflow.com/questions/78350969/hashicorp-vault-agent-init-is-failing-with-auth-handler-error-authenticating-u
+Elasticsearch upgrade/installation failure ---- copy-default-plugins] /opt/bitnami/scripts/libfs.sh: line 59: 1: missing directory,7 hours ago,Bharani,0,0,9,https://stackoverflow.com/questions/78350789/elasticsearch-upgrade-installation-failure-copy-default-plugins-opt-bitna
+How to `kubectl get all` in k9s? [closed],8 hours ago,Thiago Monteiro de Paula,11,3,9k,https://stackoverflow.com/questions/70742380/how-to-kubectl-get-all-in-k9s
+PromQL query to aggregate effective CPU usage by Namespace,11 hours ago,markalex,1,1,13,https://stackoverflow.com/questions/78348141/promql-query-to-aggregate-effective-cpu-usage-by-namespace
+Cross cluster communication in GKE Multi-cluster Service,12 hours ago,HebertCL,0,1,356,https://stackoverflow.com/questions/72562686/cross-cluster-communication-in-gke-multi-cluster-service
+Derive memory limit in kubernetes config,13 hours ago,Aravind S,0,0,11,https://stackoverflow.com/questions/78349467/derive-memory-limit-in-kubernetes-config
+Stop Kubernetes from redeploying a pod from deployment,13 hours ago,lsalazar,-1,1,23,https://stackoverflow.com/questions/78348085/stop-kubernetes-from-redeploying-a-pod-from-deployment
+Kubernetes Pod Warning: 1 node(s) had volume node affinity conflict,13 hours ago,pwoltschk,138,18,215k,https://stackoverflow.com/questions/51946393/kubernetes-pod-warning-1-nodes-had-volume-node-affinity-conflict
+Leave a Variable in a string using Kustomize,14 hours ago,Sh3perd,0,1,28,https://stackoverflow.com/questions/78319168/leave-a-variable-in-a-string-using-kustomize

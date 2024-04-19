@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-WPF - Remove border lines in datagrid,3 mins ago,mm8,0,1,32,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-Unable to bind MaxWidth on RadGridView to property in WPF Xaml,7 mins ago,EManning,0,0,3,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-Expose ComboBox.ItemsSource from UserControl,10 mins ago,Themelis,0,0,7,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-MediaPlayer.Open plays a sound that it opens,18 mins ago,Carlo Bos,1,1,175,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-how to add a double click event for 2 nested listbox WPF C#,19 mins ago,mm8,0,1,21,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-Exception animating Label's Foreground: Cannot animate '(0).(1)' on a hard object instance,25 mins ago,Clemens,0,1,18,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-ToggleButton weird border color on over?,42 mins ago,mm8,0,1,21,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-New Controls dont exist on WPF Code-Behind [closed],1 hour ago,sdgtc,-3,0,38,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-Setting background disables MouseOver effect,1 hour ago,Clemens,1,3,94,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-WPF mouse over trigger not changing background color of button [duplicate],1 hour ago,Clemens,0,0,17,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-WPF Binding get some wrong in MahApps.Metro but it can run,2 hours ago,Richard Arlen,0,0,10,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-How to control the position of a tool window's search control?,4 hours ago,zhuangzijun,0,0,21,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-WPF - Data bindind - data not displayed in custom UserControl,6 hours ago,phil,-2,1,28,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-What is the difference between SetClipboardData and OleSetClipboard?,8 hours ago,Never.More,0,0,22,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
-NotifyIcon fails to appear sometimes when my app starts at user login,8 hours ago,scibile,0,0,28,https://stackoverflow.com/questions/tagged/WPF?tab=active&page=1&pagesize=15
+Expose ComboBox.ItemsSource from UserControl,8 mins ago,Themelis,-1,1,23,https://stackoverflow.com/questions/78348295/expose-combobox-itemssource-from-usercontrol
+"Best way to create a user definied list for a combo box (EF, WPF, MVVM, C#)?",13 mins ago,Robert Milrath,-1,0,7,https://stackoverflow.com/questions/78351933/best-way-to-create-a-user-definied-list-for-a-combo-box-ef-wpf-mvvm-c
+WPF Binding get some wrong in MahApps.Metro but it can run,1 hour ago,Richard Arlen,0,1,14,https://stackoverflow.com/questions/78347167/wpf-binding-get-some-wrong-in-mahapps-metro-but-it-can-run
+What is the difference between SetClipboardData and OleSetClipboard? [closed],5 hours ago,Never.More,0,0,28,https://stackoverflow.com/questions/78345338/what-is-the-difference-between-setclipboarddata-and-olesetclipboard
+Modern WPF Authorization (replacement for PrincipalPermission attribute) [closed],15 hours ago,mm8,-1,0,42,https://stackoverflow.com/questions/78316053/modern-wpf-authorization-replacement-for-principalpermission-attribute
+Button weird background on over?,16 hours ago,mm8,-1,1,27,https://stackoverflow.com/questions/78348521/button-weird-background-on-over
+WPF - Remove border lines in datagrid,16 hours ago,mm8,0,1,40,https://stackoverflow.com/questions/78339106/wpf-remove-border-lines-in-datagrid
+Unable to bind MaxWidth on RadGridView to property in WPF Xaml [duplicate],16 hours ago,EManning,0,0,16,https://stackoverflow.com/questions/78348326/unable-to-bind-maxwidth-on-radgridview-to-property-in-wpf-xaml
+MediaPlayer.Open plays a sound that it opens,16 hours ago,Carlo Bos,1,1,175,https://stackoverflow.com/questions/66940024/mediaplayer-open-plays-a-sound-that-it-opens
+how to add a double click event for 2 nested listbox WPF C#,16 hours ago,mm8,0,1,24,https://stackoverflow.com/questions/78346663/how-to-add-a-double-click-event-for-2-nested-listbox-wpf-c-sharp
+Exception animating Label's Foreground: Cannot animate '(0).(1)' on a hard object instance,17 hours ago,Clemens,0,1,25,https://stackoverflow.com/questions/78347549/exception-animating-labels-foreground-cannot-animate-0-1-on-a-hard-objec
+ToggleButton weird border color on over?,17 hours ago,mm8,0,1,32,https://stackoverflow.com/questions/78347291/togglebutton-weird-border-color-on-over
+New Controls dont exist on WPF Code-Behind [closed],18 hours ago,sdgtc,-3,0,43,https://stackoverflow.com/questions/78342170/new-controls-dont-exist-on-wpf-code-behind
+Setting background disables MouseOver effect,18 hours ago,Clemens,1,3,94,https://stackoverflow.com/questions/41201255/setting-background-disables-mouseover-effect
+WPF mouse over trigger not changing background color of button [duplicate],18 hours ago,Clemens,0,0,24,https://stackoverflow.com/questions/78347315/wpf-mouse-over-trigger-not-changing-background-color-of-button

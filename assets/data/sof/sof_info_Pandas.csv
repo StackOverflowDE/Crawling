@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Finding existing subtotals in a pandas dataframe or a list of numbers,6 mins ago,MikeP,1,1,65,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-Position colobar beneath two choropleth subplots,11 mins ago,Nick Seymour,0,0,4,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-"Python pandas Multilevel group by dayname and time, with dayname in correct ""M/T/W/T/F/S/S"" order",13 mins ago,Erik,0,0,6,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-Finding nunique of a column grouped by another column,14 mins ago,jinkins,1,0,28,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-3D Matplotlib Scatter Plot Label When Hovering over data point,15 mins ago,mybodycravesbutterygoodness,0,1,56,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-Pandas: Groupby columns and propagate the false value from the bottommost node to the upmost,16 mins ago,simon,2,2,44,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-Pandas time series split shows gaps,22 mins ago,illan,0,0,15,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-Sampling a dataframe based on a given distribution,42 mins ago,DataJanitor,13,4,16k,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-"How to select, and replace specific values with NaN in pandas dataframe. How to remove a column from each level 1 multiindex",46 mins ago,Saad Shaukat,3,2,2k,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-Appending dataframes created via for loop results in empty dataframe,52 mins ago,gp12,0,0,14,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-improve my f1_score for classification - pandas/sklearn,54 mins ago,Aaron7,0,0,9,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-Title: How to visualize hierarchical data with nested pie charts in Python?,1 hour ago,Serge de Gosson de Varennes,1,1,22,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-How tsa.statespace.SARIMAX Arguments enforce_stationarity and initialization = 'approximate_diffuse' work,1 hour ago,Karthik S,0,0,11,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-Count repeating values in multiple time series,1 hour ago,Andrej Kesely,1,1,31,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
-Segmenting Time series with python,1 hour ago,hebeha,0,1,26,https://stackoverflow.com/questions/tagged/Pandas?tab=active&page=1&pagesize=15
+Pandas - calculate time series delta from at least 2 days ago,1 min ago,Soudipta Dutta,0,3,42,https://stackoverflow.com/questions/78300398/pandas-calculate-time-series-delta-from-at-least-2-days-ago
+incompatible dtype in dataframe,2 mins ago,A.Patrick,1,1,18,https://stackoverflow.com/questions/78351871/incompatible-dtype-in-dataframe
+Calculating an ongoing win streak in a dataframe with Python Pandas,8 mins ago,Michael Felman,0,2,27,https://stackoverflow.com/questions/78351676/calculating-an-ongoing-win-streak-in-a-dataframe-with-python-pandas
+How do I convert this code to work with vaex,9 mins ago,Intijir,0,0,4,https://stackoverflow.com/questions/78351987/how-do-i-convert-this-code-to-work-with-vaex
+"How to extract the Table Name, Colum name,data Type info and description from SQL Meta data using python? [closed]",15 mins ago,Thangarajtest,-3,0,29,https://stackoverflow.com/questions/78335823/how-to-extract-the-table-name-colum-name-data-type-info-and-description-from-sq
+Matching string values in a pandas Series from values in list,39 mins ago,Michael Felman,-2,1,49,https://stackoverflow.com/questions/78343375/matching-string-values-in-a-pandas-series-from-values-in-list
+Why is subtracting pandas.timedelta from pandas.date not vectorized?,39 mins ago,FObersteiner,0,1,30,https://stackoverflow.com/questions/78349257/why-is-subtracting-pandas-timedelta-from-pandas-date-not-vectorized
+Count repeating values in multiple time series,44 mins ago,ziying35,1,2,41,https://stackoverflow.com/questions/78346202/count-repeating-values-in-multiple-time-series
+Python pandas drop duplicates with if else condition,49 mins ago,ziying35,0,3,66,https://stackoverflow.com/questions/78346530/python-pandas-drop-duplicates-with-if-else-condition
+cumcount or cumsum with groupby and reset condition,56 mins ago,ouroboros1,0,1,25,https://stackoverflow.com/questions/78351682/cumcount-or-cumsum-with-groupby-and-reset-condition
+Pandas: TypeError: sort_values() missing 1 required positional argument: 'by',3 hours ago,Deb,9,3,47k,https://stackoverflow.com/questions/42460983/pandas-typeerror-sort-values-missing-1-required-positional-argument-by
+How do you turn pairs from a dataframe column into two new columns,3 hours ago,mozway,2,2,63,https://stackoverflow.com/questions/78349687/how-do-you-turn-pairs-from-a-dataframe-column-into-two-new-columns
+Remove the days in the timedelta object,3 hours ago,Pasqo,10,5,19k,https://stackoverflow.com/questions/53129971/remove-the-days-in-the-timedelta-object
+Efficiently copying multiple sheets from multiple Excel files into a single Excel file,5 hours ago,James Jang,1,4,112,https://stackoverflow.com/questions/78266224/efficiently-copying-multiple-sheets-from-multiple-excel-files-into-a-single-exce
+Convert Full width numbers into Normal numbers in python,6 hours ago,Andj,0,2,40,https://stackoverflow.com/questions/78342551/convert-full-width-numbers-into-normal-numbers-in-python

@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Got an error playing video with Pod Player Flutter,16 mins ago,Daraan,0,1,14,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-Huawei AGCP plugin cannot be applied,24 mins ago,Gábor,0,1,33,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-The argument type 'Future<bool>' can't be assigned to the parameter type 'bool',30 mins ago,Sanjay Bharwani,3,4,9k,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-"Flutter : How to fix ""IgnoreLeaks"" package error",34 mins ago,0-shiva,0,1,268,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-Flutter: Quality Loss In The Background Image,39 mins ago,Omid,0,1,79,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-Android studio flutter hot reload don't work after update,47 mins ago,Funyinoluwa Kashimawo,1,3,292,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-How to conditionally define colors of icons in bottom app bar,55 mins ago,Omid,1,3,106,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-Flutter Firebase IOS background handler not working,58 mins ago,Delmontee,0,1,27,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-firebase_storage pod error in flutter ios,1 hour ago,Frank van Puffelen,0,1,13,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-How Get Data from Strava API on third party app? the problem i faced find the code,1 hour ago,Apps dev,0,0,8,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-snapshot.data is null in Flutter,1 hour ago,Jana John,10,5,19k,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-Is there an essential difference in using of `Widget` or `WidgetBuilder` to pass widget as parameter to another widget in flutter,1 hour ago,Vladimir Gadzhov,0,1,23,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-APK Analyzer not opening by any method in Android Studio,1 hour ago,General Grievance,1,1,235,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-MissingPluginException(No implementation found for method share on channel plugins.flutter.io/share),1 hour ago,Jagdish Ghimire,11,6,10k,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
-Error: Dart library 'dart:js_interop_unsafe' is not available on this platform for flutter web app,1 hour ago,Hassan abdlkhalek,1,0,65,https://stackoverflow.com/questions/tagged/flutter?tab=active&page=1&pagesize=15
+"How can I resolve flutter app build fail for android metadata is 1.9.0, expected version is 1.7.1?",5 mins ago,Maveňツ,0,2,47,https://stackoverflow.com/questions/78345675/how-can-i-resolve-flutter-app-build-fail-for-android-metadata-is-1-9-0-expected
+How to launch flavour of flutter module from native side?,10 mins ago,rv7284,0,0,11,https://stackoverflow.com/questions/78351921/how-to-launch-flavour-of-flutter-module-from-native-side
+Why is there Error getting value from FutureBuilder?,12 mins ago,A-E,0,2,16,https://stackoverflow.com/questions/78351729/why-is-there-error-getting-value-from-futurebuilder
+Navigator.push doesn't work when second page uses Navigator.pop in a separate Widget,13 mins ago,Ahmet Talha Ablak,1,3,26,https://stackoverflow.com/questions/78351784/navigator-push-doesnt-work-when-second-page-uses-navigator-pop-in-a-separate-wi
+Firebase messaging doesn't have a default constructor,14 mins ago,Coder,19,5,18k,https://stackoverflow.com/questions/66829454/firebase-messaging-doesnt-have-a-default-constructor
+Flutter Build Error: Process 'command 'E:\Flutter Apps\flutter\bin\flutter.bat'' finished with non-zero exit value 1,18 mins ago,Sayyam Butt,54,30,167k,https://stackoverflow.com/questions/54552962/flutter-build-error-process-command-e-flutter-apps-flutter-bin-flutter-bat
+How to wait till a website is loaded in flutter_inappwebview?,24 mins ago,user24455473,0,1,22,https://stackoverflow.com/questions/78345286/how-to-wait-till-a-website-is-loaded-in-flutter-inappwebview
+"When passing a widget as a parameter to another widget in Flutter, is there a difference between using `Widget` or `WidgetBuilder`?",24 mins ago,Gokul Mamanduru,1,1,13,https://stackoverflow.com/questions/78351674/when-passing-a-widget-as-a-parameter-to-another-widget-in-flutter-is-there-a-di
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights,28 mins ago,harthik b,0,0,4,https://stackoverflow.com/questions/78351861/run-with-stacktrace-option-to-get-the-stack-trace-run-with-info-or-debug
+How to add user input fields on canvas on specific position to get inputs from user in flutter,28 mins ago,Jaimil Patel,0,0,9,https://stackoverflow.com/questions/78351857/how-to-add-user-input-fields-on-canvas-on-specific-position-to-get-inputs-from-u
+Flutter project real machine test startup error,45 mins ago,Ajit Sharma,-3,1,11,https://stackoverflow.com/questions/78351743/flutter-project-real-machine-test-startup-error
+Improving the document edge detection,48 mins ago,Imran Premnawaz,0,0,11,https://stackoverflow.com/questions/78351691/improving-the-document-edge-detection
+Detect if a button or gesture detector is pressed in Flutter,54 mins ago,Arvind Yadav,-1,1,19,https://stackoverflow.com/questions/78351634/detect-if-a-button-or-gesture-detector-is-pressed-in-flutter
+MissingPluginException(No implementation found for method share on channel plugins.flutter.io/share),56 mins ago,Jagdish Ghimire,11,6,10k,https://stackoverflow.com/questions/63862554/missingpluginexceptionno-implementation-found-for-method-share-on-channel-plugi
+Move widget to right in Stack,58 mins ago,Aiman,0,2,38,https://stackoverflow.com/questions/78348917/move-widget-to-right-in-stack

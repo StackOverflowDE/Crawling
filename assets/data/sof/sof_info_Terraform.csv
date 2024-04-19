@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Terraform build ontop of the AWS VPC module,6 mins ago,Marko E,0,1,26,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-Terraform error: VM has reported a failure when processing extension,33 mins ago,Rui Jarimba,0,0,14,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-Set Propagate to none to Yes state in VHub connection with Terraform,1 hour ago,michasaucer,-2,1,14,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-Terraform State migration,1 hour ago,mipo256,0,2,2k,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-How do I enable ebs-optimization for an ECS service in Terraform?,2 hours ago,Alexei Andreev,0,1,13,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-Preventing Terraform from assigning reserved IP addresses to resources,2 hours ago,VonC,4,3,56,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-How I can make the aws codepipeline to auto-create the nessesary roles?,2 hours ago,Dimitrios Desyllas,0,0,13,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-How do I create an AWS Glue Trigger using Terraform with Multiple Predicates?,4 hours ago,user24439653,0,1,16,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-What data does a terraform null_resource store in state?,5 hours ago,mipo256,1,1,1k,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-"""missing value for command"" error in terraform code",6 hours ago,Rui Jarimba,0,0,21,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-"Error: Failed to get existing workspaces: Unable to list objects in S3 bucket ""s3_bucket"" with prefix ""env:/"":",7 hours ago,Marko E,0,1,21,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-print terraform output from list of list to a list of strings,7 hours ago,Marko E,1,1,6k,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-Target group constantly fails health check on port 80 and launches new instances when using dynamic port mapping,9 hours ago,DarkSideGeek,1,2,3k,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-Make the TerraformAsset constructor to process the Path as a Token As Opposed to one of the AssetType,11 hours ago,crazyTech,0,0,12,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
-terraform eks aws_auth is overwrittne,11 hours ago,정혜일,0,0,10,https://stackoverflow.com/questions/tagged/Terraform?tab=active&page=1&pagesize=15
+Terraform Cloudtrail AccessDeniedException: Access Denied: You do not have permission to operate on this resource,35 mins ago,Marko E,0,0,14,https://stackoverflow.com/questions/78350272/terraform-cloudtrail-accessdeniedexception-access-denied-you-do-not-have-permi
+Can Terraform be used as a CICD to build/deploy application code in aws?,43 mins ago,Jigisha Araniya,-1,2,506,https://stackoverflow.com/questions/73308019/can-terraform-be-used-as-a-cicd-to-build-deploy-application-code-in-aws
+"""missing value for command"" error in terraform code",7 hours ago,Martin Atkins,0,0,32,https://stackoverflow.com/questions/78342847/missing-value-for-command-error-in-terraform-code
+How to deploy several services and jobs on cloud run upon a push on github using terraform,11 hours ago,Micka,0,0,7,https://stackoverflow.com/questions/78350003/how-to-deploy-several-services-and-jobs-on-cloud-run-upon-a-push-on-github-using
+Azure LINUX Function App Deployed via Terraform - Config Error AzureWebJobsDashboard Being Created in Env. Variables,14 hours ago,Ian Carrick,0,1,36,https://stackoverflow.com/questions/78343469/azure-linux-function-app-deployed-via-terraform-config-error-azurewebjobsdashb
+How to run a .NET application inside a windows virtual machine ec2 aws?,15 hours ago,Bianca,-2,1,33,https://stackoverflow.com/questions/78348486/how-to-run-a-net-application-inside-a-windows-virtual-machine-ec2-aws
+Terraform build ontop of the AWS VPC module,16 hours ago,Marko E,0,1,31,https://stackoverflow.com/questions/78346926/terraform-build-ontop-of-the-aws-vpc-module
+Terraform error: VM has reported a failure when processing extension,17 hours ago,Rui Jarimba,0,0,31,https://stackoverflow.com/questions/78348020/terraform-error-vm-has-reported-a-failure-when-processing-extension
+Terraform State migration,18 hours ago,mipo256,0,2,2k,https://stackoverflow.com/questions/68379301/terraform-state-migration
+How do I enable ebs-optimization for an ECS service in Terraform?,18 hours ago,Alexei Andreev,0,1,14,https://stackoverflow.com/questions/78346452/how-do-i-enable-ebs-optimization-for-an-ecs-service-in-terraform
+Preventing Terraform from assigning reserved IP addresses to resources,18 hours ago,VonC,4,3,60,https://stackoverflow.com/questions/78235782/preventing-terraform-from-assigning-reserved-ip-addresses-to-resources
+How I can make the aws codepipeline to auto-create the nessesary roles?,19 hours ago,Dimitrios Desyllas,0,0,14,https://stackoverflow.com/questions/78346960/how-i-can-make-the-aws-codepipeline-to-auto-create-the-nessesary-roles
+How do I create an AWS Glue Trigger using Terraform with Multiple Predicates?,21 hours ago,user24439653,0,1,19,https://stackoverflow.com/questions/78342351/how-do-i-create-an-aws-glue-trigger-using-terraform-with-multiple-predicates
+What data does a terraform null_resource store in state?,22 hours ago,mipo256,1,1,1k,https://stackoverflow.com/questions/72942197/what-data-does-a-terraform-null-resource-store-in-state
+"Error: Failed to get existing workspaces: Unable to list objects in S3 bucket ""s3_bucket"" with prefix ""env:/"":",yesterday,Marko E,0,1,26,https://stackoverflow.com/questions/78343518/error-failed-to-get-existing-workspaces-unable-to-list-objects-in-s3-bucket-s

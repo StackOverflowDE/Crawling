@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Create declaration file for third party library as CJS,6 mins ago,myol,0,0,8,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-How to get tsc to Resolve Absolute Paths when Importing Modules using baseUrl?,15 mins ago,Adrian Lopez,47,6,25k,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-TS function parameter type based on another parameter,21 mins ago,Sr.Jose,0,1,50,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-Why it's valid to write `typeof someArray[number]` in TypeScript?,25 mins ago,Behemoth,0,1,25,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-Angular OAuthModule config factory,32 mins ago,Flavien Volken,3,1,1k,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-"Failed to compile, Module not found: Can't resolve './xxxx'",33 mins ago,Graham Jansen,0,0,10,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-Getting Fields in FormData in Remix React,41 mins ago,Alan Omar,0,2,15,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-"Angular Code Input Component throwing ""ERROR ReferenceError: document is not defined",48 mins ago,Philip Mutua,0,0,12,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-Functional way to implement this OO design with TypeScript,48 mins ago,zzheng,0,1,32,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-Webpack error when trying to import supabase client,52 mins ago,Jesús Parra,0,0,12,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-Typescript clash between my created Resolver and the generated resolvers [closed],57 mins ago,user24470741,-1,0,11,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-Infinite Loop with Excalidraw and React Using Basic setState?,1 hour ago,psygo,0,0,8,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-React-hook-forms ForwardRef warning with shadcn/ui element,1 hour ago,user24470812,1,1,833,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-Nextjs Client and Server component conflicts,1 hour ago,user17449555,1,0,7,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
-Run action after viewChild render,1 hour ago,Dakshesh Baldaniya,1,1,20,https://stackoverflow.com/questions/tagged/TypeScript?tab=active&page=1&pagesize=15
+Chakra ui typescript enforces aria-label for icon-button - how to turn off,58 secs ago,Slava Sobolev,0,2,10,https://stackoverflow.com/questions/78351920/chakra-ui-typescript-enforces-aria-label-for-icon-button-how-to-turn-off
+I am trying to build an ecommerce site using next js and typescript but i am having trouble making use of my array of dummy data for the products,21 mins ago,Alton,0,1,67,https://stackoverflow.com/questions/77340397/i-am-trying-to-build-an-ecommerce-site-using-next-js-and-typescript-but-i-am-hav
+How to assign function type that has different / additional arguments in typescript,21 mins ago,bogdanoff,0,0,14,https://stackoverflow.com/questions/78351883/how-to-assign-function-type-that-has-different-additional-arguments-in-typescr
+Error: Cannot convert a Symbol value to a string,22 mins ago,Musa Malik,0,0,8,https://stackoverflow.com/questions/78351879/error-cannot-convert-a-symbol-value-to-a-string
+Echarts apply visualMap to specific data points,28 mins ago,Matthias Mertens,0,1,24,https://stackoverflow.com/questions/78344577/echarts-apply-visualmap-to-specific-data-points
+"Variable gets overwritten to empty, can't find what's causing it",33 mins ago,Suleman,-1,0,24,https://stackoverflow.com/questions/78350287/variable-gets-overwritten-to-empty-cant-find-whats-causing-it
+Facing an issue in the NPM,36 mins ago,Swastik Kotwal,0,0,11,https://stackoverflow.com/questions/78351810/facing-an-issue-in-the-npm
+Create declaration file for third party library as CJS,41 mins ago,myol,0,0,14,https://stackoverflow.com/questions/78348306/create-declaration-file-for-third-party-library-as-cjs
+"Linter says ""parse"" and ""serveHttp"" are deprecated, how can I fix this?",46 mins ago,jps,0,1,72,https://stackoverflow.com/questions/78304474/linter-says-parse-and-servehttp-are-deprecated-how-can-i-fix-this
+Exception Filter Nestjs not working on my websocket gateway,46 mins ago,Jay Movaliya,0,1,11,https://stackoverflow.com/questions/78351390/exception-filter-nestjs-not-working-on-my-websocket-gateway
+How can I import google maps libraries only once on a page that fetches data multiple times?,52 mins ago,chuckd,0,0,13,https://stackoverflow.com/questions/78351710/how-can-i-import-google-maps-libraries-only-once-on-a-page-that-fetches-data-mul
+router.push onClick Row with Tanstack / React-Table and Typescript (2339),1 hour ago,Shubham,0,1,124,https://stackoverflow.com/questions/77937943/router-push-onclick-row-with-tanstack-react-table-and-typescript-2339
+Typescript - Create a subset of discriminated union as a discriminated union,1 hour ago,Mario Vernari,0,1,13,https://stackoverflow.com/questions/78351507/typescript-create-a-subset-of-discriminated-union-as-a-discriminated-union
+My brebo smtp is not to setup and i did not get msg i did not get runing code problem and pass will be right,2 hours ago,VLAZ,0,0,11,https://stackoverflow.com/questions/78348599/my-brebo-smtp-is-not-to-setup-and-i-did-not-get-msg-i-did-not-get-runing-code-pr
+Add Sort in Angular with FormArray,2 hours ago,Naren Murali,1,1,30,https://stackoverflow.com/questions/78351156/add-sort-in-angular-with-formarray

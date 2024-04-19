@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-the variable does not enter the loop,1 hour ago,Lundin,0,0,30,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-Unhandled exception at 0x0056FC80 in Assignment7.exe: 0xC0000005: Access violation executing location 0x0056FC80,1 hour ago,Michael Petch,0,0,12,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-Does rsp stack pointer has any use in returning a value of a function call?,2 hours ago,zmz,0,0,48,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-Bad perfermance of conditionnal instrunctions,5 hours ago,shao nian,0,0,17,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-Debugging a Multicore Kernel Initialization on Raspberry Pi 3B,8 hours ago,Diego A Wearden,1,0,12,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-32-bits musl libraries for Mac OS X 11 x86_64 download problem,12 hours ago,constabIe,-1,0,10,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-Find a target string within a substring and return position,12 hours ago,Erik Eidt,-2,0,21,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-arm cortex-a53 switch from el3 secure to el1 non-secure problem,14 hours ago,Shloime Rosenblum,0,1,33,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-Bad BLX instruction generated when calling asm function from C function (gcc on STM32H753),14 hours ago,halfer,4,2,99,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-buffer does it stay or get popped of the stack,14 hours ago,Frank Yellin,0,1,19,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-why can't load value from a global variable straight to a register?,15 hours ago,Barmar,0,0,69,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-Address size on PlayStation 3/PowerPC,17 hours ago,Seva Alekseyev,1,0,10,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-How exactly do compilers convert AST to assembly instructions,17 hours ago,Erik Eidt,0,1,65,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-"x86 ASM code not printing the desired number output, only prints the messages",17 hours ago,Kai Burghardt,-1,1,36,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
-freertos linking problems to a z80 device,20 hours ago,Nani D,0,0,16,https://stackoverflow.com/questions/tagged/Assembly?tab=active&page=1&pagesize=15
+How to Resolve Incorrect Output in 64-bit by 64-bit Assembly Multiplication,7 mins ago,RannySpin,0,0,23,https://stackoverflow.com/questions/78351139/how-to-resolve-incorrect-output-in-64-bit-by-64-bit-assembly-multiplication
+How exactly do compilers convert AST to assembly instructions [closed],2 hours ago,NotAidan,0,1,74,https://stackoverflow.com/questions/78337834/how-exactly-do-compilers-convert-ast-to-assembly-instructions
+Does rsp stack pointer has any use in returning a value of a function call?,3 hours ago,phuclv,-1,1,91,https://stackoverflow.com/questions/78346551/does-rsp-stack-pointer-has-any-use-in-returning-a-value-of-a-function-call
+subwfb in PIC 18F8722 Assembly,10 hours ago,user35443,2,1,1k,https://stackoverflow.com/questions/29588762/subwfb-in-pic-18f8722-assembly
+MIPS array loop assignment,11 hours ago,chip chip,0,0,14,https://stackoverflow.com/questions/78349926/mips-array-loop-assignment
+infinite loop with LC-3 assignment,14 hours ago,Erik Eidt,0,0,23,https://stackoverflow.com/questions/78348145/infinite-loop-with-lc-3-assignment
+MASM x86 program keeps printing error message,15 hours ago,zuo hao,-2,0,22,https://stackoverflow.com/questions/78348616/masm-x86-program-keeps-printing-error-message
+Title: How to output changed registers and ESP in red color after each `p` command in Windbg using JavaScript?,16 hours ago,kiddo,0,0,16,https://stackoverflow.com/questions/78348398/title-how-to-output-changed-registers-and-esp-in-red-color-after-each-p-comma
+the variable does not enter the loop,19 hours ago,Lundin,0,0,53,https://stackoverflow.com/questions/78346583/the-variable-does-not-enter-the-loop
+Unhandled exception at 0x0056FC80 in Assignment7.exe: 0xC0000005: Access violation executing location 0x0056FC80,20 hours ago,Michael Petch,0,0,23,https://stackoverflow.com/questions/78344655/unhandled-exception-at-0x0056fc80-in-assignment7-exe-0xc0000005-access-violati
+Bad perfermance of conditionnal instrunctions,yesterday,shao nian,0,0,23,https://stackoverflow.com/questions/78345360/bad-perfermance-of-conditionnal-instrunctions
+Debugging a Multicore Kernel Initialization on Raspberry Pi 3B,yesterday,Diego A Wearden,1,0,21,https://stackoverflow.com/questions/78344801/debugging-a-multicore-kernel-initialization-on-raspberry-pi-3b
+32-bits musl libraries for Mac OS X 11 x86_64 download problem,yesterday,constabIe,-1,0,12,https://stackoverflow.com/questions/78344263/32-bits-musl-libraries-for-mac-os-x-11-x86-64-download-problem
+Find a target string within a substring and return position,yesterday,Erik Eidt,-2,0,29,https://stackoverflow.com/questions/78343872/find-a-target-string-within-a-substring-and-return-position
+arm cortex-a53 switch from el3 secure to el1 non-secure problem,yesterday,Shloime Rosenblum,0,1,33,https://stackoverflow.com/questions/78325712/arm-cortex-a53-switch-from-el3-secure-to-el1-non-secure-problem

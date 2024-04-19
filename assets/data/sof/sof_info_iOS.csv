@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-iOS Privacy Manifests for third-party frameworks,17 mins ago,cbg_retro,1,2,158,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-Apply shadow to the navigation bar in swift,22 mins ago,Annderson Oreto,14,6,25k,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-Appropriate way to locally save IAP (especially subscription) state in SwiftUI using StoreKit2 [closed],35 mins ago,crost,0,0,32,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-scroll up/down not working with Voice Control enabled users in Webview iOS,37 mins ago,Niladri_Android,0,0,5,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-xcode 15.3 drawHierarchy broken - image too bright,38 mins ago,Prashant Tukadiya,0,0,6,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-Unable to restore non-consumable IAP StoreKit2,40 mins ago,crost,0,0,4,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-My .Net Maui app doesn't get the correct Reason Phrase from the http request in IOS,47 mins ago,Abel Ochoa Izquierdo,0,0,4,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-ONNX YOLO v8 Pose model on iOS 17,50 mins ago,Pradeep Banavara,0,0,5,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-Flutter Firebase IOS background handler not working,1 hour ago,Delmontee,0,1,27,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-The simplest way to resize an UIImage?,1 hour ago,Fattie,443,33,381k,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-firebase_storage pod error in flutter ios,1 hour ago,Frank van Puffelen,0,1,13,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-Xcode - Build input file cannot be found,1 hour ago,RunLoop,0,0,14,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-Issue of subscription to one topic of Firebase Cloud Messaging in iOS app by using KastriFree library and Delphi 11,1 hour ago,Frank van Puffelen,0,0,11,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-IOS Swift application Intune SDK Socket timeout,1 hour ago,Radioactive,0,0,17,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
-SwiftUI | DragGestures onEnded never called if canceled by ScrollView,1 hour ago,PontusJ,30,4,8k,https://stackoverflow.com/questions/tagged/iOS?tab=active&page=1&pagesize=15
+Why app display name get truncated on iOS,5 mins ago,Yoan Ivanov,0,0,8,https://stackoverflow.com/questions/78351955/why-app-display-name-get-truncated-on-ios
+How to launch flavour of flutter module from native side?,11 mins ago,rv7284,0,0,11,https://stackoverflow.com/questions/78351921/how-to-launch-flavour-of-flutter-module-from-native-side
+UILabel is shrinked after it is rearranged in UIStackView,32 mins ago,Bartłomiej Semańczyk,0,0,20,https://stackoverflow.com/questions/78351664/uilabel-is-shrinked-after-it-is-rearranged-in-uistackview
+.NET MAUI - Map control loading and MoveToRegion method are not working as expected,33 mins ago,Gabriele Zanatta,0,0,7,https://stackoverflow.com/questions/78351838/net-maui-map-control-loading-and-movetoregion-method-are-not-working-as-expec
+ITMS-91053: Missing API declaration - Privacy,53 mins ago,Robert Dresler,215,13,68k,https://stackoverflow.com/questions/78163859/itms-91053-missing-api-declaration-privacy
+UITapGestureRecognizer Not Triggering in Custom UIView in iOS,1 hour ago,udi,0,2,1k,https://stackoverflow.com/questions/68959246/uitapgesturerecognizer-not-triggering-in-custom-uiview-in-ios
+"Fix ""Quota exceed error"" in CloudKit and view container usage",1 hour ago,Phil Dukhov,1,1,918,https://stackoverflow.com/questions/66297519/fix-quota-exceed-error-in-cloudkit-and-view-container-usage
+ios safari address bar leave white space when scrolling down on my website [closed],2 hours ago,VLAZ,-2,0,18,https://stackoverflow.com/questions/78350096/ios-safari-address-bar-leave-white-space-when-scrolling-down-on-my-website
+"Error booting iOS simulator: ""Unable to boot the Simulator. launchd failed to respond""",2 hours ago,jnpdx,-2,0,9,https://stackoverflow.com/questions/78351465/error-booting-ios-simulator-unable-to-boot-the-simulator-launchd-failed-to-re
+Firebase Upgrade to 10.24.0. Unit Test are failing with 'FirebaseApp' instance must be configured even though App has FirebaseApp.configure call,2 hours ago,iGatiTech,0,0,14,https://stackoverflow.com/questions/78351492/firebase-upgrade-to-10-24-0-unit-test-are-failing-with-firebaseapp-instance-m
+SwiftUI how to add space to Navbar to display an additional view,2 hours ago,Tay Baye,0,0,17,https://stackoverflow.com/questions/78351437/swiftui-how-to-add-space-to-navbar-to-display-an-additional-view
+Why does Swift FileManager.default.urls(...) return a different result than ObjC implementation (iOS simulator)?,3 hours ago,Rob,-1,1,36,https://stackoverflow.com/questions/78350245/why-does-swift-filemanager-default-urls-return-a-different-result-than-objc
+How to relate intrinsics and distortion from AVDepthData to the current video stream?,3 hours ago,zeo2396,1,1,60,https://stackoverflow.com/questions/76962620/how-to-relate-intrinsics-and-distortion-from-avdepthdata-to-the-current-video-st
+Is it possible to enable/disable iOS Picture in Picture on the fly?,3 hours ago,P. Tsin,-1,0,29,https://stackoverflow.com/questions/78326101/is-it-possible-to-enable-disable-ios-picture-in-picture-on-the-fly
+Dynamically changing locationManager (CoreLocation) settings after initialisation,4 hours ago,cyberbarker,-1,1,22,https://stackoverflow.com/questions/78351004/dynamically-changing-locationmanager-corelocation-settings-after-initialisatio

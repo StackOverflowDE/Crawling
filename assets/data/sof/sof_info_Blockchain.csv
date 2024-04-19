@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-"BNB Sidechain Application, why a new block is created by a new miner address?",2 hours ago,Cc868510,0,1,77,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-Corda/DLT: Exchange data between different Networks/Different cordapps,4 hours ago,Florian Scheunert,0,0,4,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-Error: cannot estimate gas; transaction may fail or may require manual gas limit SERVER_ERROR,5 hours ago,ZhectorSM,0,1,53,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-Why is the function throwing an error when called from another contract but not when called independently?,15 hours ago,Shreyansh Tiwari,0,0,17,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-Integrating Hyperledger fabric and Hyperledger indy,18 hours ago,Remy Lebeau,0,0,8,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-When testing on mainnet fork with hardhat 2.22.2: Error: The response reported error `429`,19 hours ago,Matt Jaf,1,1,14,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-whats problem in my solidity smat-contract?,yesterday,roman,0,0,19,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-The transaction has been reverted to the initial state in remix,yesterday,Vishav Singla,0,0,7,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-How can I find out right away when new tokens are made on TON (Telegram Open Network)?,yesterday,Andrew Swift,0,0,13,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-How to create a Solana wallet in Java?,yesterday,tyler cherry,0,0,18,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-trying to run a web3 app- <dscl_cmd> DS Error: -14090 (eDSAuthFailed),yesterday,Ojas Arora,-1,0,16,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-Impossible to send messages to Topic,2 days ago,Clément,1,0,20,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-Creation of my_smart_contract pending in Remix,2 days ago,Jerry Daniel,0,2,3k,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-Error in Hyperledger Fabric when invoking the chaincode on my network,2 days ago,Jorge Rodriguez,0,0,13,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
-Blockchain on EKS ( HLF Fabric ) - orderer Pod in the Crashloopback state,2 days ago,Aravind_ask,0,0,19,https://stackoverflow.com/questions/tagged/Blockchain?tab=active&page=1&pagesize=15
+no scripts folder in hardhat framework instead there's ignition folder with a subfolder named modules,8 hours ago,Grace Nguyen,2,2,197,https://stackoverflow.com/questions/78192443/no-scripts-folder-in-hardhat-framework-instead-theres-ignition-folder-with-a-su
+"How to solve ""require is not defined"" in Vite?",11 hours ago,vsync,3,1,7k,https://stackoverflow.com/questions/77421447/how-to-solve-require-is-not-defined-in-vite
+How to get all Solana Wallets with large sum [closed],14 hours ago,Карпухин Михаил,0,0,11,https://stackoverflow.com/questions/78348934/how-to-get-all-solana-wallets-with-large-sum
+ia there any solution for wrorking the function getchainid in my code,15 hours ago,Avishkar Chavan,0,0,6,https://stackoverflow.com/questions/78348781/ia-there-any-solution-for-wrorking-the-function-getchainid-in-my-code
+Error Connecting to the Binance Websocket for Market Streams (Javascript),18 hours ago,jdjoum,-1,0,12,https://stackoverflow.com/questions/78347581/error-connecting-to-the-binance-websocket-for-market-streams-javascript
+"BNB Sidechain Application, why a new block is created by a new miner address?",20 hours ago,Cc868510,0,1,77,https://stackoverflow.com/questions/76813297/bnb-sidechain-application-why-a-new-block-is-created-by-a-new-miner-address
+Corda/DLT: Exchange data between different Networks/Different cordapps,22 hours ago,Florian Scheunert,0,0,5,https://stackoverflow.com/questions/78345897/corda-dlt-exchange-data-between-different-networks-different-cordapps
+Error: cannot estimate gas; transaction may fail or may require manual gas limit SERVER_ERROR,23 hours ago,ZhectorSM,0,1,53,https://stackoverflow.com/questions/77623449/error-cannot-estimate-gas-transaction-may-fail-or-may-require-manual-gas-limit
+Why is the function throwing an error when called from another contract but not when called independently?,yesterday,Shreyansh Tiwari,0,0,17,https://stackoverflow.com/questions/78343806/why-is-the-function-throwing-an-error-when-called-from-another-contract-but-not
+Integrating Hyperledger fabric and Hyperledger indy,yesterday,Remy Lebeau,0,0,11,https://stackoverflow.com/questions/78342480/integrating-hyperledger-fabric-and-hyperledger-indy
+When testing on mainnet fork with hardhat 2.22.2: Error: The response reported error `429`,yesterday,Matt Jaf,1,1,14,https://stackoverflow.com/questions/78342582/when-testing-on-mainnet-fork-with-hardhat-2-22-2-error-the-response-reported-e
+whats problem in my solidity smat-contract?,yesterday,roman,0,0,21,https://stackoverflow.com/questions/78340683/whats-problem-in-my-solidity-smat-contract
+The transaction has been reverted to the initial state in remix,yesterday,Vishav Singla,0,0,7,https://stackoverflow.com/questions/78340582/the-transaction-has-been-reverted-to-the-initial-state-in-remix
+How can I find out right away when new tokens are made on TON (Telegram Open Network)?,2 days ago,Andrew Swift,0,0,15,https://stackoverflow.com/questions/78337693/how-can-i-find-out-right-away-when-new-tokens-are-made-on-ton-telegram-open-net
+How to create a Solana wallet in Java?,2 days ago,tyler cherry,0,0,18,https://stackoverflow.com/questions/78337535/how-to-create-a-solana-wallet-in-java

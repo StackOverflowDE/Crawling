@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Take user inputs in ranger file manager,13 mins ago,Zachary Krepelka,0,1,48,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-"How to get rid of error ""unavalability of vmlinux"" when creating a kernel module",15 mins ago,heti,1,1,1k,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-Issue accessing a file from multiple processes,16 mins ago,Paul Hodges,0,1,13,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-Stop CMake from exporting dependencies,18 mins ago,Tejas Pendse,0,0,8,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-Cannot remove file from Azure Web App on Linux,26 mins ago,Vivek Vaibhav Shandilya,0,1,26,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-Enable/disable BlueZ configuration options,1 hour ago,Timo Knoop,-1,0,11,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-ModuleNotFoundError: No module named 'ur_rtde',1 hour ago,keen_Learner,0,0,21,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-Difference between vsnprintf on Linux vs Windows,1 hour ago,mch,0,1,55,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-I am trying to install Jenkins on Amazon Linux instance and getting the error as follows,2 hours ago,Cloudlady,0,1,29,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-How can I install specific version of imap for php on Linux?,2 hours ago,Álvaro González,2,1,31,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-How to use only grep to find files with specific filename? [closed],2 hours ago,Cavin Kumaran,-3,0,28,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-no POLLHUP event when poll on tcp socket and remote closed,2 hours ago,Hugo Maxwell,0,1,217,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-How to Generate string of all combination starting from A to ZZZZZZZZ in bash,3 hours ago,RARE Kpop Manifesto,2,6,143,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-QT5ct not finding system fonts. Linux mint,3 hours ago,JoseR,-1,0,8,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
-Unix vs BSD vs TCP vs Internet sockets?,3 hours ago,user207421,13,2,6k,https://stackoverflow.com/questions/tagged/Linux?tab=active&page=1&pagesize=15
+How to repair a corrupted linux luks encrypted ext4,4 mins ago,Community,2,1,9k,https://stackoverflow.com/questions/22389222/how-to-repair-a-corrupted-linux-luks-encrypted-ext4
+Connection refused to MongoDB errno 111,8 mins ago,anusha majji,86,13,240k,https://stackoverflow.com/questions/24899849/connection-refused-to-mongodb-errno-111
+How to assign values to variables while executing commands as another user in bash [duplicate],14 mins ago,tripleee,0,0,27,https://stackoverflow.com/questions/78348942/how-to-assign-values-to-variables-while-executing-commands-as-another-user-in-ba
+Start container only when previous container has run and stopped,15 mins ago,sohaib aftab,0,0,6,https://stackoverflow.com/questions/78351860/start-container-only-when-previous-container-has-run-and-stopped
+Deleting all the files in a directory that end with a particular string pattern in Ansible,20 mins ago,Debdas,0,0,7,https://stackoverflow.com/questions/78351834/deleting-all-the-files-in-a-directory-that-end-with-a-particular-string-pattern
+Unable to run upgrade,34 mins ago,Sumit Anand Padiyar,0,2,26,https://stackoverflow.com/questions/78351633/unable-to-run-upgrade
+DotNet Profiling in linux.it's not working,43 mins ago,jiaxiang8756,0,0,8,https://stackoverflow.com/questions/78351700/dotnet-profiling-in-linux-its-not-working
+Sending a mail from a linux shell script,1 hour ago,Jonathan L,141,12,499k,https://stackoverflow.com/questions/5155923/sending-a-mail-from-a-linux-shell-script
+ModuleNotFoundError: No module named 'pip._internal.cli',2 hours ago,Ajay T,2,3,9k,https://stackoverflow.com/questions/67397045/modulenotfounderror-no-module-named-pip-internal-cli
+timer in Linux Kernel raise oops,2 hours ago,zhf999,0,0,38,https://stackoverflow.com/questions/78345908/timer-in-linux-kernel-raise-oops
+"How to get rid of error ""unavalability of vmlinux"" when creating a kernel module",3 hours ago,Chathuran D,1,1,1k,https://stackoverflow.com/questions/77406370/how-to-get-rid-of-error-unavalability-of-vmlinux-when-creating-a-kernel-module
+Intermittent GPU Access Issues in Kubernetes Cluster with Mixed GPU Architectures,3 hours ago,Kade Youn,0,0,19,https://stackoverflow.com/questions/78350939/intermittent-gpu-access-issues-in-kubernetes-cluster-with-mixed-gpu-architecture
+Access Control List (ACL) APIs are part of resource management on Windows and are not supported on this platform,4 hours ago,Asep Ridwan,-1,0,15,https://stackoverflow.com/questions/78351170/access-control-list-acl-apis-are-part-of-resource-management-on-windows-and-ar
+Error Package mongodb-org-server-7.0.8-1.el9.x86_64 (mongodb-org-7.0) Requires: libc.so.6(GLIBC_2.34)(64bit),4 hours ago,kiran,-1,0,9,https://stackoverflow.com/questions/78351157/error-package-mongodb-org-server-7-0-8-1-el9-x86-64-mongodb-org-7-0-requires
+"""ERROR: FreeType version 2.3.0 or higher is required"" when building openjdk6 even though get freetype installed",4 hours ago,jack fang,0,0,16,https://stackoverflow.com/questions/78351111/error-freetype-version-2-3-0-or-higher-is-required-when-building-openjdk6-eve

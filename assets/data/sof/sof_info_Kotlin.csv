@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Error when using CoroutineCrudRepository in Spring Boot 3.2.4,14 mins ago,Michael Reno Pratama Setyawan,0,0,9,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-I have Compilation error when i use CenterAlignedTopAppBar in my code,20 mins ago,Ayman Ait,0,3,403,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-Cannot access 'androidx.appcompat.app.AppCompatActivity' when I enable ProGuard in kotlin,34 mins ago,NewPartizal,0,0,10,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-Mybatis kotlin dynamic sql update to newest 1.5.0 trouble with isIn,37 mins ago,mikeb,0,0,5,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-How to compare FileSystem's of two Path's in kotlin/java?,42 mins ago,Irina Growl,0,1,34,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-"Kotlin access outer class from inner class's constructor throw NPE, why?",1 hour ago,broot,1,1,32,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-is there a way to set spinner background properly in android studio?,1 hour ago,armin jodat,0,0,10,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-Create a simple form using `TextField`s and a submit `Button`?,1 hour ago,BenjyTec,0,1,34,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-Android Companion Device Manager Fails to Recognize Associated BluetoothLE Device After Reboot,1 hour ago,user3423523498234234,1,0,9,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-How to start displaying dates from 2nd cell in LazyVerticalGrid in jetpack compose?,1 hour ago,Artjoms Scipanovs,0,1,17,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-How to use with on a protected member extension in Kotlin?,2 hours ago,Jezor,1,0,16,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-Android: My app is not able to connect to internet/server [closed],2 hours ago,Ankur,-1,0,18,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-"How can I resolve flutter app build fail for android metadata is 1.9.0, expected version is 1.7.1?",2 hours ago,Maveňツ,0,2,37,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-How can I make AnimatedImageVector animate a single path a time with jetpack compse?,3 hours ago,Mohamed ALI,0,0,8,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
-Socket.IO listener intermittently fails to trigger event in Android app,4 hours ago,Atik Faysal,0,0,8,https://stackoverflow.com/questions/tagged/Kotlin?tab=active&page=1&pagesize=15
+How to solve Fatal Exception: java.util.NoSuchElementException Sequence is empty. In navigation of jetpack compose when using deepLinks,1 min ago,Jacek,0,1,76,https://stackoverflow.com/questions/78103826/how-to-solve-fatal-exception-java-util-nosuchelementexception-sequence-is-empty
+"How can I resolve flutter app build fail for android metadata is 1.9.0, expected version is 1.7.1?",5 mins ago,Maveňツ,0,2,44,https://stackoverflow.com/questions/78345675/how-can-i-resolve-flutter-app-build-fail-for-android-metadata-is-1-9-0-expected
+How to implement score count in Tic Tac Toe Game_kotlin_android studio,5 mins ago,BabaFadil,0,0,4,https://stackoverflow.com/questions/78351894/how-to-implement-score-count-in-tic-tac-toe-game-kotlin-android-studio
+Android Dagger possible to assistinject a class containing a string into a provided retrofit instance?,5 mins ago,MajinKenn,0,1,9,https://stackoverflow.com/questions/78351244/android-dagger-possible-to-assistinject-a-class-containing-a-string-into-a-provi
+POST payload is zero in Spring Boot Service,15 mins ago,Captai-N,0,0,7,https://stackoverflow.com/questions/78351849/post-payload-is-zero-in-spring-boot-service
+Draw straight lines on canvas jetpack compose,22 mins ago,Alex Bro,0,0,7,https://stackoverflow.com/questions/78351783/draw-straight-lines-on-canvas-jetpack-compose
+Improving the document edge detection,34 mins ago,Imran Premnawaz,0,0,9,https://stackoverflow.com/questions/78351691/improving-the-document-edge-detection
+android.security.KeyStoreException: Unsupported purpose when hashing - using PURPOSE_SIGN,1 hour ago,wilky,0,0,7,https://stackoverflow.com/questions/78351550/android-security-keystoreexception-unsupported-purpose-when-hashing-using-pur
+How does the dependencies in kotlin multiplatform work?,1 hour ago,Arek Kubiński,0,1,26,https://stackoverflow.com/questions/78338615/how-does-the-dependencies-in-kotlin-multiplatform-work
+"Android NavHost: ""Navigation destination that matches request NavDeepLinkRequest cannot be found in the navigation graph""",1 hour ago,ianhanniballake,1,1,22,https://stackoverflow.com/questions/78351334/android-navhost-navigation-destination-that-matches-request-navdeeplinkrequest
+Ping an external IP in Kotlin,3 hours ago,nghia,1,3,4k,https://stackoverflow.com/questions/65896131/ping-an-external-ip-in-kotlin
+Mybatis kotlin dynamic sql update to newest 1.5.0 trouble with isIn,4 hours ago,mikeb,0,1,14,https://stackoverflow.com/questions/78347769/mybatis-kotlin-dynamic-sql-update-to-newest-1-5-0-trouble-with-isin
+"Kotlin access outer class from inner class's constructor throw NPE, why?",5 hours ago,Sweeper,2,2,61,https://stackoverflow.com/questions/78346894/kotlin-access-outer-class-from-inner-classs-constructor-throw-npe-why
+I got 5 project errors from Android Studio and chatgpt says errors are wrong. (stuck for 3 days),6 hours ago,Shubham GAUTAM,0,0,30,https://stackoverflow.com/questions/78350871/i-got-5-project-errors-from-android-studio-and-chatgpt-says-errors-are-wrong-s
+Webview.loadurl inside @JavascriptInterface will crashes the app,6 hours ago,Merkost,0,3,146,https://stackoverflow.com/questions/75170060/webview-loadurl-inside-javascriptinterface-will-crashes-the-app

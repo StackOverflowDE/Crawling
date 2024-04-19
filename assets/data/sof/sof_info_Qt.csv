@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-C++ Qt Multiple Definitions,1 hour ago,Cacafave,17,8,34k,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-how to interact with other android apps from Qt,2 hours ago,TheBlackSwan994,0,0,14,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-Building a static program on Qt,3 hours ago,asacloud,0,1,101,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-x11 error: The X11 connection broke (error 1),3 hours ago,MoonBreak Darkness,0,0,9,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-How to move window using custom titleBar in Qt,4 hours ago,ManuelSchneid3r,2,5,2k,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-QML: How to recall a submodel in qml file and register classes in main.cpp,4 hours ago,Cacafave,1,0,24,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-How to move the whole window when mouse is on the window's custom widget in Qt?,5 hours ago,ManuelSchneid3r,4,4,3k,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-"Getting ""undefined reference"" errors to Qt symbols with g++ [duplicate]",5 hours ago,Guss,0,0,24,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-Crashing PyQt5 application on Android,5 hours ago,mrRaduga,0,0,8,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-NMAKE : fatal error U1077: return code '0xc0000135',7 hours ago,todorp,18,2,61k,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-Customizing QT-QML TextInput or TextArea to get a veryy specific styling [closed],8 hours ago,Mohammad Imran,-1,0,18,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-How to use multiple styles in QML without adding ternaries everywhere?,8 hours ago,Mars,0,1,42,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-No CMake configuration found,10 hours ago,Kitakito,-2,3,2k,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-QSystemTrayIcon DoubleClick Activation results in two Trigger events,12 hours ago,hsdgawrk,4,0,1k,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
-Widgets associated with QListWidgeItem cannot be found by pywinauto backend=uia,12 hours ago,user24425377,1,0,20,https://stackoverflow.com/questions/tagged/Qt?tab=active&page=1&pagesize=15
+"Could not load the Qt platform plugin ""xcb"" in """" even though it was found",1 hour ago,software developer,17,7,33k,https://stackoverflow.com/questions/59809703/could-not-load-the-qt-platform-plugin-xcb-in-even-though-it-was-found
+How to deal with ContentNotFoundError when using wkhtmltopdf?,3 hours ago,Arash Homayounfar,12,5,33k,https://stackoverflow.com/questions/25894251/how-to-deal-with-contentnotfounderror-when-using-wkhtmltopdf
+Chaning QOpenGLWidget's parent from QMainWindow to QMdiSubWindow is not working properly,4 hours ago,TopServicer,0,0,9,https://stackoverflow.com/questions/78351129/chaning-qopenglwidgets-parent-from-qmainwindow-to-qmdisubwindow-is-not-working
+How to set background color of HorizontalHeaderView Qt QML Quick Controls 2 (Qt6.5),8 hours ago,Jeffrey Faust,0,2,250,https://stackoverflow.com/questions/77079791/how-to-set-background-color-of-horizontalheaderview-qt-qml-quick-controls-2-qt6
+"QSplitter, hide sub elements one by one",8 hours ago,musicamante,0,1,48,https://stackoverflow.com/questions/78119972/qsplitter-hide-sub-elements-one-by-one
+QT: How to channge button icon on hover event?,10 hours ago,Nyquist,1,1,28,https://stackoverflow.com/questions/78349864/qt-how-to-channge-button-icon-on-hover-event
+How i can change color or remove the default lines from my installer using Qt Installer Framework,11 hours ago,TylerH,0,0,20,https://stackoverflow.com/questions/78341527/how-i-can-change-color-or-remove-the-default-lines-from-my-installer-using-qt-in
+Pyqt widgets updating in wrong order [closed],13 hours ago,Christoph Rackwitz,0,0,19,https://stackoverflow.com/questions/78348519/pyqt-widgets-updating-in-wrong-order
+How to show Dialog window from QML plugin,16 hours ago,Leo Abalckin,0,0,14,https://stackoverflow.com/questions/78348242/how-to-show-dialog-window-from-qml-plugin
+C++ Qt Multiple Definitions,18 hours ago,Cacafave,17,8,34k,https://stackoverflow.com/questions/4964863/c-qt-multiple-definitions
+how to interact with other android apps from Qt,19 hours ago,TheBlackSwan994,0,0,24,https://stackoverflow.com/questions/78347102/how-to-interact-with-other-android-apps-from-qt
+Building a static program on Qt,20 hours ago,asacloud,0,1,102,https://stackoverflow.com/questions/77498288/building-a-static-program-on-qt
+x11 error: The X11 connection broke (error 1),20 hours ago,MoonBreak Darkness,0,0,15,https://stackoverflow.com/questions/78346845/x11-error-the-x11-connection-broke-error-1
+How to move window using custom titleBar in Qt,21 hours ago,ManuelSchneid3r,2,5,2k,https://stackoverflow.com/questions/46256234/how-to-move-window-using-custom-titlebar-in-qt
+QML: How to recall a submodel in qml file and register classes in main.cpp,21 hours ago,Cacafave,1,0,24,https://stackoverflow.com/questions/78339281/qml-how-to-recall-a-submodel-in-qml-file-and-register-classes-in-main-cpp

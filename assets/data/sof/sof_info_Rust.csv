@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-"In Cargo, how to specify dependency version to track another dependency",8 mins ago,Chayim Friedman,1,0,18,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-Rust Tetra Fails to Compile on MacOS,32 mins ago,synnøve,0,0,8,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-Handling Multiple File Uploads with Axum,48 mins ago,IvonaK,0,0,19,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-I would like to know how to use wmi crate in RUST,1 hour ago,user24303514,0,0,12,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-"Error ""may not be safely transferred across an unwind boundary"" when using catch_unwind in Rust",2 hours ago,Richard Neumann,-1,1,31,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-Capturing Rust generated panic as C++ exception,2 hours ago,Matthieu M.,3,1,63,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-Difference between `cargo doc` and `cargo rustdoc`,2 hours ago,Chayim Friedman,16,1,2k,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-"Replacing any sequences of spaces, tabs, newlines etc with single spaces using nom",2 hours ago,dreamlax,1,1,25,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-Specify lifetime of async response handler without requiring 'static or HRTBs,3 hours ago,Richard Neumann,0,0,21,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-got wrong when implementing FromData trait for an enum in rocket,3 hours ago,xiyu,0,0,11,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-How to deal with struct errors in Rust?,5 hours ago,z4rp,0,2,52,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-cant build dioxus project when i use tokio dependence,5 hours ago,cafce25,0,0,14,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-VSCode Rust debugger Library not loaded,5 hours ago,cafce25,1,0,25,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-Why does the unit type (empty tuple) implement the `Extend` trait?,5 hours ago,user459872,12,1,408,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
-TCP Proxy tokio-rs vs pingora performance [closed],7 hours ago,Cedd0,-2,0,23,https://stackoverflow.com/questions/tagged/Rust?tab=active&page=1&pagesize=15
+Non deterministic 4 line Rust program [closed],1 hour ago,Ricky Mo,-4,1,36,https://stackoverflow.com/questions/78351576/non-deterministic-4-line-rust-program
+How to implement Rust generics with traits?,2 hours ago,connsmytheovie,0,0,24,https://stackoverflow.com/questions/78351419/how-to-implement-rust-generics-with-traits
+"When I use ByteStream In rocket , how should I add custom headers?",4 hours ago,李小飞,0,0,16,https://stackoverflow.com/questions/78351168/when-i-use-bytestream-in-rocket-how-should-i-add-custom-headers
+Polars: read from parquet in Rust,5 hours ago,user24332012,-1,2,1k,https://stackoverflow.com/questions/76211800/polars-read-from-parquet-in-rust
+ImportError: DLL load failed while importing _rust cyrptography [closed],6 hours ago,CHRISTIAN KELECHI EZE,-2,1,92,https://stackoverflow.com/questions/78319762/importerror-dll-load-failed-while-importing-rust-cyrptography
+Can I make the result of `match`ing on a `const` expression be `const` too?,7 hours ago,drewtato,2,1,44,https://stackoverflow.com/questions/78350715/can-i-make-the-result-of-matching-on-a-const-expression-be-const-too
+Capturing Rust generated panic as C++ exception,7 hours ago,Stargateur,3,1,88,https://stackoverflow.com/questions/78346412/capturing-rust-generated-panic-as-c-exception
+Conditionally deserialize a csv record using serde,8 hours ago,willsbit,-1,0,47,https://stackoverflow.com/questions/78349192/conditionally-deserialize-a-csv-record-using-serde
+Type Mismatch Error When Wrapping Bcrypt Hash Function in Rust with N-API,8 hours ago,Chayim Friedman,2,1,24,https://stackoverflow.com/questions/78326812/type-mismatch-error-when-wrapping-bcrypt-hash-function-in-rust-with-n-api
+When I run a certain compiler flag the Rust compiler can't find my main,8 hours ago,Stargateur,0,2,59,https://stackoverflow.com/questions/78338075/when-i-run-a-certain-compiler-flag-the-rust-compiler-cant-find-my-main
+Is it possible to have multiple long names for the same command-line argument?,12 hours ago,Fayeure,1,0,42,https://stackoverflow.com/questions/78349797/is-it-possible-to-have-multiple-long-names-for-the-same-command-line-argument
+Abstracting across ChunkedArray types in Rust/Polars,12 hours ago,Chayim Friedman,1,1,25,https://stackoverflow.com/questions/78348290/abstracting-across-chunkedarray-types-in-rust-polars
+Developing Rust app in buildroot (problem with cargo build --offline --locked),12 hours ago,Flávio Tapajós,1,3,393,https://stackoverflow.com/questions/77323239/developing-rust-app-in-buildroot-problem-with-cargo-build-offline-locked
+Implement FromStr for structs with fields such as Option<T> or Vec<T> using procedural macros in Rust,12 hours ago,Marcus Cvjeticanin,0,0,37,https://stackoverflow.com/questions/78349614/implement-fromstr-for-structs-with-fields-such-as-optiont-or-vect-using-proc
+How to create a macro that calls run() on every element in enum,12 hours ago,berry,0,0,19,https://stackoverflow.com/questions/78349599/how-to-create-a-macro-that-calls-run-on-every-element-in-enum

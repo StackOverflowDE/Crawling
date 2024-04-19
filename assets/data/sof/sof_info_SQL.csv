@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-how can I take the % of EV in the fuel_type_1 column against all other fuel types?,4 mins ago,Kaya Gore,0,0,11,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-SQL Query - adding PTO hours,9 mins ago,Isolated,0,0,12,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-How to Group Records where Record interval is less than 15 minutes apart,11 mins ago,Bart McEndree,0,1,23,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-Optimizing SQL query for use with Access (Passthrough),12 mins ago,Thom A,0,0,20,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-AWS Timestream: How to select OHLC values?,29 mins ago,feelhip,4,2,675,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-Oracle - using connect by prior in Hierarchical Queries and put them into rows,31 mins ago,Sai Dharsan,1,5,10k,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-MySQL SELECT DISTINCT should be case sensitive?,32 mins ago,Daniel Black,21,4,17k,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-Identifying source table from UNION query,39 mins ago,stoos,20,5,13k,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-Oracle SqlDeveloper column autocompletion without its table name,46 mins ago,thatjeffsmith,-1,1,7,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-SQL Query to receive Comma-seperated values to multiple rows [duplicate],48 mins ago,Charlieface,0,0,27,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-Replace all Occurences of a Substring in SQL-Statement in Python,49 mins ago,Mr. Irrelevant,-3,2,126,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-Error retreiving database 'NZPYIDA' with NZFunApply function,52 mins ago,Marcin Labenski,0,2,31,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-UPDATE multiple rows with different values in one query in MySQL,1 hour ago,Tung Nguyen,228,9,502k,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-"SQL: Finding rows with duplicate fields, then select another field [duplicate]",1 hour ago,Ergest Basha,0,1,25,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
-How to Achieve SQL Table Interactivity Similar to PyCharm in VS Code? (postgres) [closed],1 hour ago,Abal8,0,0,13,https://stackoverflow.com/questions/tagged/SQL?tab=active&page=1&pagesize=15
+Database Normalization [Separating Tables],1 min ago,Joop Eggen,0,1,17,https://stackoverflow.com/questions/78351690/database-normalization-separating-tables
+Failed to set geography value,26 mins ago,siggemannen,0,0,18,https://stackoverflow.com/questions/78351257/failed-to-set-geography-value
+BigQuery - Cast HEX string to NUMERIC or BIGNUMERIC?,29 mins ago,Jason,0,2,1k,https://stackoverflow.com/questions/70467412/bigquery-cast-hex-string-to-numeric-or-bignumeric
+T-SQL select records where each matches certain criteria,32 mins ago,Bishal Rijal,0,2,48,https://stackoverflow.com/questions/78350636/t-sql-select-records-where-each-matches-certain-criteria
+How to call table of object record in plsql?,52 mins ago,user45498,-1,0,22,https://stackoverflow.com/questions/78351060/how-to-call-table-of-object-record-in-plsql
+creation name SSIS.Replacement task is not registered with your computer,1 hour ago,Community,1,1,12k,https://stackoverflow.com/questions/46430635/creation-name-ssis-replacement-task-is-not-registered-with-your-computer
+Azure Synapse Serverless SQL + Power BI + DirectQuery: How to avoid data duplication,1 hour ago,mfcss,0,0,8,https://stackoverflow.com/questions/78351601/azure-synapse-serverless-sql-power-bi-directquery-how-to-avoid-data-duplica
+"syntax error at or near ""-"" in PostgreSQL",1 hour ago,Sameer,43,5,291k,https://stackoverflow.com/questions/18656545/syntax-error-at-or-near-in-postgresql
+Query json column by date in postgres,1 hour ago,hafis,2,1,24,https://stackoverflow.com/questions/78351346/query-json-column-by-date-in-postgres
+Does Maximo generate rotassetnum randomly for issuetype values of ‘receipt’ and ‘transfers’?,2 hours ago,Jack Kline,0,0,8,https://stackoverflow.com/questions/78351302/does-maximo-generate-rotassetnum-randomly-for-issuetype-values-of-receipt-and
+Is there a way to flatten a nested JSON in Azure Data Factory without using Dataflows?,2 hours ago,Aswin,0,1,18,https://stackoverflow.com/questions/78349684/is-there-a-way-to-flatten-a-nested-json-in-azure-data-factory-without-using-data
+How can I handle extra commas in columns when importing data from a CSV file to DB using SSIS,3 hours ago,Power Mouse,1,2,26,https://stackoverflow.com/questions/78350955/how-can-i-handle-extra-commas-in-columns-when-importing-data-from-a-csv-file-to
+SQL Server : change PK type from uniqueidentifier to int,3 hours ago,beefy,0,3,3k,https://stackoverflow.com/questions/32832338/sql-server-change-pk-type-from-uniqueidentifier-to-int
+SQL on BigQuery and Google Analytics - Queries Merging,3 hours ago,Damien,0,0,11,https://stackoverflow.com/questions/78351212/sql-on-bigquery-and-google-analytics-queries-merging
+How can I learn how the innards of relational databases work? [closed],4 hours ago,andrewH,0,0,17,https://stackoverflow.com/questions/78351158/how-can-i-learn-how-the-innards-of-relational-databases-work

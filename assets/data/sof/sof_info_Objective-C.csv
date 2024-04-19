@@ -1,16 +1,16 @@
 title,time,writer,votes,answers,views,url
-Allocate too much objects cause iOS app to crash,6 hours ago,Blazej SLEBODA,-1,0,41,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-dismissViewControllerAnimated prevents new UIViewController from showing,15 hours ago,halfer,0,2,648,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-Removing the image from a UIButton at runtime?,22 hours ago,HangarRash,24,5,21k,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-Generate a random UIColor,yesterday,pkamb,27,10,26k,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-"iOS crash - Out of memory. We suggest restarting the application. If you have an unsaved document, create a backup copy in Finder, then try to save [closed]",yesterday,Rob,-2,0,59,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-class-dump -H throw Unknown load command: 0x00000032,yesterday,青兰玫依,0,1,74,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-Preprocessor macro for OS X targets?,yesterday,Ky -,27,7,28k,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-Passing an @objc enum to dictionary value will causes an allocate issue?,yesterday,Willeke,0,0,49,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-How to write reading data capture by my apps to all iOS apps. (measurements data directly to the cursor location),yesterday,James Z,-1,0,18,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-How to convert UIColor to HEX and display in NSLog,yesterday,HangarRash,69,16,63k,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-Error converting AXValue to CFTypeRef in AXUIElementCopyAttributeValue on MacOS,2 days ago,Willeke,0,0,58,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-Cannot add multiple inputs to AVCaptureMultiCamSession,2 days ago,August Vrubel,0,1,9,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-Custom Font (.ttf) added to project not available within app,2 days ago,Addev,1,1,42,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-Importing iOS XCFramework within React Native Module,2 days ago,Ahmed Khalifa,-1,0,24,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
-Stitch/Composite multiple images vertically and save as one image,2 days ago,HangarRash,11,7,12k,https://stackoverflow.com/questions/tagged/Objective-C?tab=active&page=1&pagesize=15
+"Thread 1: EXC_BAD_ACCESS (code=1, address=0xf00000c)",1 hour ago,Muhammad Ahmad Mahmood,37,11,104k,https://stackoverflow.com/questions/19183555/thread-1-exc-bad-access-code-1-address-0xf00000c
+Why does Swift FileManager.default.urls(...) return a different result than ObjC implementation (iOS simulator)?,2 hours ago,Rob,-1,1,36,https://stackoverflow.com/questions/78350245/why-does-swift-filemanager-default-urls-return-a-different-result-than-objc
+Is it possible to enable/disable iOS Picture in Picture on the fly?,3 hours ago,P. Tsin,-1,0,29,https://stackoverflow.com/questions/78326101/is-it-possible-to-enable-disable-ios-picture-in-picture-on-the-fly
+iPhone SDK: Custom video player controls,5 hours ago,Community,4,1,11k,https://stackoverflow.com/questions/1776429/iphone-sdk-custom-video-player-controls
+Objective-C / ALAssetsLibrary - Find image information and Exif information,5 hours ago,Sybuser,1,1,948,https://stackoverflow.com/questions/18404167/objective-c-alassetslibrary-find-image-information-and-exif-information
+iOS app memory warning can not be triggered,15 hours ago,Perry Wang,-1,0,53,https://stackoverflow.com/questions/78345386/ios-app-memory-warning-can-not-be-triggered
+dismissViewControllerAnimated prevents new UIViewController from showing,yesterday,halfer,0,2,648,https://stackoverflow.com/questions/19328473/dismissviewcontrolleranimated-prevents-new-uiviewcontroller-from-showing
+Removing the image from a UIButton at runtime?,yesterday,HangarRash,24,5,21k,https://stackoverflow.com/questions/5171121/removing-the-image-from-a-uibutton-at-runtime
+Generate a random UIColor,2 days ago,pkamb,27,10,26k,https://stackoverflow.com/questions/21130433/generate-a-random-uicolor
+class-dump -H throw Unknown load command: 0x00000032,2 days ago,青兰玫依,0,1,74,https://stackoverflow.com/questions/78159127/class-dump-h-throw-unknown-load-command-0x00000032
+Preprocessor macro for OS X targets?,2 days ago,Ky -,27,7,28k,https://stackoverflow.com/questions/12132933/preprocessor-macro-for-os-x-targets
+Passing an @objc enum to dictionary value will causes an allocate issue?,2 days ago,Willeke,0,0,54,https://stackoverflow.com/questions/78333515/passing-an-objc-enum-to-dictionary-value-will-causes-an-allocate-issue
+How to convert UIColor to HEX and display in NSLog,2 days ago,HangarRash,69,16,63k,https://stackoverflow.com/questions/26341008/how-to-convert-uicolor-to-hex-and-display-in-nslog
+Error converting AXValue to CFTypeRef in AXUIElementCopyAttributeValue on MacOS,2 days ago,Willeke,0,0,58,https://stackoverflow.com/questions/76537797/error-converting-axvalue-to-cftyperef-in-axuielementcopyattributevalue-on-macos
+Cannot add multiple inputs to AVCaptureMultiCamSession,Apr 16 at 2:12,August Vrubel,0,1,9,https://stackoverflow.com/questions/78329532/cannot-add-multiple-inputs-to-avcapturemulticamsession
