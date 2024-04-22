@@ -1,4 +1,4 @@
-import csv, os, requests
+import csv, os
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
@@ -71,6 +71,7 @@ def stackoverflow_crawling(language):
         question_votes = driver.find_element(By.XPATH, '//*[@id="{}"]/div[1]/div[1]/span[1]'.format(id_list[i-1]))
         question_answers = driver.find_element(By.XPATH, '//*[@id="{}"]/div[1]/div[2]/span[1]'.format(id_list[i-1]))
         question_views = driver.find_element(By.XPATH, '//*[@id="{}"]/div[1]/div[3]/span[1]'.format(id_list[i-1]))
+        question_url = driver.find_element(By.XPATH, '//*[@id="{}"]/div[2]/h3/a'.format(id_list[i-1]))
         # 이미지 소스 URL 가져오기
         img_src = question_img.get_attribute("src")
         
@@ -82,7 +83,7 @@ def stackoverflow_crawling(language):
             "votes" : question_votes.text,
             "answers" : question_answers.text,
             "views" : question_views.text,
-            "url" : driver.current_url,
+            "url" : question_url.get_attribute('href'),
             "img" : img_src,
         }
         sof_data.append(sof_elem)

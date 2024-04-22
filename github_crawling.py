@@ -1,4 +1,4 @@
-import re, csv, os, requests
+import re, csv, os
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.remote.webelement import WebElement
